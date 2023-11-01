@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-05-29 07:51+0000\n"
+"PO-Revision-Date: 2023-05-29 07:51+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	0759CE514A10C70E64868881EF46E1DE
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_02.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0759CE514A10C70E64868881EF46E1DE"
+msgid "Расскажите, почему вы оказались в нашей клинике?"
+msgstr "你为什么会来到我们的诊所？"
+
+#. Key:	3.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_03.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,3.2"
+msgid "Расскажите, почему вы оказались в нашей клинике?"
+msgstr "你为什么会来到我们的诊所？"
+
+#. Key:	0B10B3994FCBB6AFA77A5B95E45A430E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_02.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0B10B3994FCBB6AFA77A5B95E45A430E"
+msgid "Расскажите, почему вас сюда привели?"
+msgstr "为什么你会被带到这里？"
+
+#. Key:	3.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_03.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,3.1"
+msgid "Расскажите, почему вас сюда привели?"
+msgstr "为什么你会被带到这里？"
+
+#. Key:	0B54559847650624CF54D5A74C43B665
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_22.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0B54559847650624CF54D5A74C43B665"
+msgid "А мама вызвала полицию? Или кто?"
+msgstr "谁叫了警察？"
+
+#. Key:	0BD7705A48ACDD03BEB426BC71E9FECA
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_20.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0BD7705A48ACDD03BEB426BC71E9FECA"
+msgid "Скажите, а мама не отправляла вас провериться к врачам?"
+msgstr "你的母亲是否在控制你的健康？"
+
+#. Key:	21.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_21.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,21.2"
+msgid "Скажите, а мама не отправляла вас провериться к врачам?"
+msgstr "你的母亲是否在控制你的健康？"
+
+#. Key:	1516B40349A01D4D5F07C2BAB099CDE6
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_30.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",1516B40349A01D4D5F07C2BAB099CDE6"
+msgid "А как вы относитесь к своему противоправному поступку?"
+msgstr "你对你的非法行为有什么看法？"
+
+#. Key:	31.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_31.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,31.1"
+msgid "А как вы относитесь к своему противоправному поступку?"
+msgstr "你对你的非法行为有什么看法？"
+
+#. Key:	29532279497A95C147FCE59B869C6100
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_16.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",29532279497A95C147FCE59B869C6100"
+msgid "Когда вас привезли, у вас на голове была слепленная из фольги каска."
+msgstr "当你被带到这里时，你戴着一顶锡箔帽......。"
+
+#. Key:	2BC9528E43D041655D5854A1C064A6C5
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_18.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",2BC9528E43D041655D5854A1C064A6C5"
+msgid "Понятно. В последнее время совсем тяжело стало?"
+msgstr "最近对你来说变得特别困难，对吗？"
+
+#. Key:	19.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_19.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,19.2"
+msgid "Понятно. В последнее время совсем тяжело стало?"
+msgstr "最近对你来说变得特别困难，对吗？"
+
+#. Key:	2F9F31EC450CAC463496CC936BC942EA
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_14.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",2F9F31EC450CAC463496CC936BC942EA"
+msgid "А почему Марина к вам так неравнодушна? "
+msgstr "为什么玛丽娜如此困扰你? "
+
+#. Key:	3584CEA94335EFA8E07477AA9DD51505
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_20.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",3584CEA94335EFA8E07477AA9DD51505"
+msgid "Скажите, вы раньше обращались к врачам?"
+msgstr "你以前是否征求过医生的意见？"
+
+#. Key:	21.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_21.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,21.1"
+msgid "Скажите, вы раньше обращались к врачам?"
+msgstr "你以前是否征求过医生的意见？"
+
+#. Key:	3B4529A341160BC57DA123B6F54240A5
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_28.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",3B4529A341160BC57DA123B6F54240A5"
+msgid "У вас часто бывают такие эпизоды гнева?"
+msgstr "你经常发这种脾气吗？"
+
+#. Key:	29.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_29.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,29.2"
+msgid "У вас часто бывают такие эпизоды гнева?"
+msgstr "你经常发这种脾气吗？"
+
+#. Key:	3DB9D4BC4E91C8968F057DBB68D5CC27
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_04.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",3DB9D4BC4E91C8968F057DBB68D5CC27"
+msgid "Вам кажется, что раньше мы уже встречались?"
+msgstr "你认为我们以前见过吗？"
+
+#. Key:	5.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_05.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,5.1"
+msgid "Вам кажется, что раньше мы уже встречались?"
+msgstr "你认为我们以前见过吗？"
+
+#. Key:	45D26281406F2AA7C13BF1BF6AE5E328
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_16.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",45D26281406F2AA7C13BF1BF6AE5E328"
+msgid "А как вы пытались защититься от воздействия на голову?"
+msgstr "你做了什么来保护你的头？"
+
+#. Key:	17.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_17.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,17.2"
+msgid "А как вы пытались защититься от воздействия на голову?"
+msgstr "你做了什么来保护你的头？"
+
+#. Key:	4A53E4764769D6E312213DBADE9CABD5
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt ",4A53E4764769D6E312213DBADE9CABD5"
+msgid "Я кричу, и они закричали, суки! Прямо в мозг закричали! Я тогда совсем голову потерял."
+msgstr "我尖叫了！。这些混蛋也尖叫起来！就在我的大脑里......这就是我失去的地方......。"
+
+#. Key:	5237EF284584E0213EDEDAAE2B86C37F
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_26.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",5237EF284584E0213EDEDAAE2B86C37F"
+msgid "Что происходило дальше?"
+msgstr "接下来发生了什么？"
+
+#. Key:	27.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_27.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,27.1"
+msgid "Что происходило дальше?"
+msgstr "接下来发生了什么？"
+
+#. Key:	58E13463418F9AF457B1A18267110787
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_24.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",58E13463418F9AF457B1A18267110787"
+msgid "А что и где вы рубили?"
+msgstr "你在什么地方切割？"
+
+#. Key:	25.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_25.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,25.1"
+msgid "А что и где вы рубили?"
+msgstr "你在什么地方切割？"
+
+#. Key:	617BCB5044891A3B417F0780BD2C91B9
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_10.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",617BCB5044891A3B417F0780BD2C91B9"
+msgid "Правильно ли я вас понял, что вы чувствуете влияние от электричества?"
+msgstr "你能感觉到电的影响吗？"
+
+#. Key:	11.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_11.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,11.1"
+msgid "Правильно ли я вас понял, что вы чувствуете влияние от электричества?"
+msgstr "你能感觉到电的影响吗？"
+
+#. Key:	81ED683D4AB7D025920327B2778913BE
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_18.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",81ED683D4AB7D025920327B2778913BE"
+msgid "Понимаю, это сложно. Сколько уже лет ваша борьба продолжалась?"
+msgstr "你像这样战斗了多少年？"
+
+#. Key:	19.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_19.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,19.1"
+msgid "Понимаю, это сложно. Сколько уже лет ваша борьба продолжалась?"
+msgstr "你像这样战斗了多少年？"
+
+#. Key:	8AE0E99841C7B596225D8D998848DE49
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_28.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",8AE0E99841C7B596225D8D998848DE49"
+msgid "А чем занимаются эти женщины?"
+msgstr "那些妇女在做什么？"
+
+#. Key:	29.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_29.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,29.1"
+msgid "А чем занимаются эти женщины?"
+msgstr "那些妇女在做什么？"
+
+#. Key:	8B3447824D462B75C4C4FBBAA1611D2B
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_22.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",8B3447824D462B75C4C4FBBAA1611D2B"
+msgid "Так всё же, где вас задержала полиция?"
+msgstr "你在哪里被捕的？"
+
+#. Key:	23.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_23.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,23.1"
+msgid "Так всё же, где вас задержала полиция?"
+msgstr "你在哪里被捕的？"
+
+#. Key:	9237DCB947F1945DEB34E8BEF19DC02E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_24.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",9237DCB947F1945DEB34E8BEF19DC02E"
+msgid "О чем вы говорите?"
+msgstr "你在说什么呢？"
+
+#. Key:	25.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_25.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,25.2"
+msgid "О чем вы говорите?"
+msgstr "你在说什么呢？"
+
+#. Key:	95DD417E49E0C98362E1FB8B43681727
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_10.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",95DD417E49E0C98362E1FB8B43681727"
+msgid "Так получается, что Марина - это ваша одноклассница, которая со школы хочет украсть у вас гены?"
+msgstr "这意味着，玛丽娜..."
+
+#. Key:	11.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_11.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,11.2"
+msgid "Так получается, что Марина - это ваша одноклассница, которая со школы хочет украсть у вас гены?"
+msgstr "这意味着，玛丽娜..."
+
+#. Key:	9F92BEFB4BE70C858E84C9BDA116F130
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_06.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",9F92BEFB4BE70C858E84C9BDA116F130"
+msgid "Расскажите, пожалуйста, подробнее, о каком напряжении вы говорите?"
+msgstr "请告诉我更多关于你提到的电流的情况。"
+
+#. Key:	7.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_07.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,7.1"
+msgid "Расскажите, пожалуйста, подробнее, о каком напряжении вы говорите?"
+msgstr "请告诉我更多关于你提到的电流的情况。"
+
+#. Key:	A2379F0B4A4E99DAEB8CC695970C1993
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_26.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",A2379F0B4A4E99DAEB8CC695970C1993"
+msgid "И что случилось в эту субботу?"
+msgstr "那么，星期六发生了什么？"
+
+#. Key:	27.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_27.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,27.2"
+msgid "И что случилось в эту субботу?"
+msgstr "那么，星期六发生了什么？"
+
+#. Key:	A35938A04DD286B85E74348120D4741A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_12.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",A35938A04DD286B85E74348120D4741A"
+msgid "А куда Марина могла спрятаться?"
+msgstr "玛丽娜能躲在哪里？"
+
+#. Key:	13.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_13.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,13.2"
+msgid "А куда Марина могла спрятаться?"
+msgstr "玛丽娜能躲在哪里？"
+
+#. Key:	AD9D0EDE45AA3CCB2DBEE68F53008186
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(4).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt ",AD9D0EDE45AA3CCB2DBEE68F53008186"
+msgid "Как рубанул - и всё! В глазах все красным аж налилось от радости."
+msgstr "我摔倒了，就是这样！我的眼睛因为高兴而变红了！我的眼睛因为幸福而变红了！我的眼睛是在我的身体里！"
+
+#. Key:	ADCB35B747A4AFC7F6A6348A0DDEFA40
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_08.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",ADCB35B747A4AFC7F6A6348A0DDEFA40"
+msgid "А кто такие Марина и Катя?"
+msgstr "你告诉勤务兵关于玛丽娜和卡佳的事。他们是谁？"
+
+#. Key:	9.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_09.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,9.2"
+msgid "А кто такие Марина и Катя?"
+msgstr "你告诉勤务兵关于玛丽娜和卡佳的事。他们是谁？"
+
+#. Key:	B47071DD46C28B467569569234E0A760
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_08.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",B47071DD46C28B467569569234E0A760"
+msgid "Скажите, вы пробовали найти ответы на свои вопросы?"
+msgstr "你是否试图找到问题的答案？"
+
+#. Key:	9.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_09.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,9.1"
+msgid "Скажите, вы пробовали найти ответы на свои вопросы?"
+msgstr "你是否试图找到问题的答案？"
+
+#. Key:	C27EA9DA4600FDCBBBF0D780720A5FAF
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_14.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",C27EA9DA4600FDCBBBF0D780720A5FAF"
+msgid "Но ведь другие люди не чувствуют воздействия тока."
+msgstr "为什么其他人不会受到电的影响？"
+
+#. Key:	CB9759734AC43CFFB5DBEA96A6D619BD
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_30.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",CB9759734AC43CFFB5DBEA96A6D619BD"
+msgid "Что же тогда с вами случилось?"
+msgstr "接下来你发生了什么？"
+
+#. Key:	31.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_31.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,31.2"
+msgid "Что же тогда с вами случилось?"
+msgstr "接下来你发生了什么？"
+
+#. Key:	D078C80046234724BD7FD892C40B4D68
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_06.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",D078C80046234724BD7FD892C40B4D68"
+msgid "Как я на вас влияю? И причем тут 35 киловатт? Это про электричество?"
+msgstr "请告诉我更多关于你提到的电流的情况。"
+
+#. Key:	7.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_07.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,7.2"
+msgid "Как я на вас влияю? И причем тут 35 киловатт? Это про электричество?"
+msgstr "我如何影响你？"
+
+#. Key:	D91EFDAD428A6008E3FE9886B982003A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_04.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",D91EFDAD428A6008E3FE9886B982003A"
+msgid "Как я мог повлиять на вас?"
+msgstr "我如何影响你？"
+
+#. Key:	5.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_05.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,5.2"
+msgid "Как я мог повлиять на вас?"
+msgstr "我如何影响你？"
+
+#. Key:	DBD6C1954EEE607A09038CB956309F9B
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_12.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",DBD6C1954EEE607A09038CB956309F9B"
+msgid "А голоса в голове звучат, когда рядом никого нет?"
+msgstr "你什么时候听到这些声音？"
+
+#. Key:	13.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_13.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,13.1"
+msgid "А голоса в голове звучат, когда рядом никого нет?"
+msgstr "你什么时候听到这些声音？"
+
+#. Key:	1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_01.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,1.1"
+msgid "Здравствуйте. Расскажите, что вас к нам привело?"
+msgstr "问候! 什么风把你吹来了？"
+
+#. Key:	1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_01.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,1.2"
+msgid "Добрый день. Расскажите, на что жалуетесь?"
+msgstr "你有什么抱怨吗？"
+
+#. Key:	10.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.1.1"
+msgid "Я искал в интернете. Сложно было мне это сделать, ведь там тоже ток. Кругом ток, кругом реверберация. И на том сайте было написано, что такое бывает."
+msgstr "我在网上查了一下......这真的很难做到。因为里面有电流、电、混响......而那个网站说，它可以存在。"
+
+#. Key:	10.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.1.2"
+msgid "И в США, и в Израиле. в Израиле была моя сестра. Правда, давно уже, то время прошло. Да, давно миновало, всё минует. Всё пройдёт, всё минует."
+msgstr "以及在美国，在以色列......我姐姐在以色列。但那是很久以前的事了，现在都已经过去了。一切都会过去，一切都会过去，一切都会过去......"
+
+#. Key:	10.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.2.1"
+msgid "Марина со мной в школе училась. Красивая была! Очень красивая. Пока не стала у меня гены отнимать."
+msgstr "玛丽娜和我一起在学校学习，她很漂亮，非常漂亮。直到她开始夺走我的基因..."
+
+#. Key:	10.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.2.2"
+msgid "Ну как так можно? Я в столовую, и она за мной. Я домой, и она домой. У меня гены кончаются же! Потом начала через столбы эти отнимать..."
+msgstr "她怎么能这样做呢！？我去食堂，她也跟着去...。我回家，她也跟着回家。而我的基因已经用完了!!! 现在她在用电线杆！!"
+
+#. Key:	10.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.2.3"
+msgid "Голоса, голоса, голоса, никогда не прекращаются. Всё говорят, говорят.. Марина, Марина, Марина! "
+msgstr "而那些声音，声音，声音......它们从未停止。他们一直在说话... 玛丽娜，玛丽娜，玛丽娜... "
+
+#. Key:	12.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_12.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,12.1"
+msgid "Конечно, чувствую. Я чувствую его всем телом, всем мозгом. Когда бежит ток по проводам, у меня дрожь во всём теле, а в голове звучит голос."
+msgstr "当然，我是这样想的! 我在我的身体里，在我的大脑里都能感觉到它。当电流进入电线时，我的整个身体都在颤抖。我的脑子里有一个声音。"
+
+#. Key:	12.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_12.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,12.2"
+msgid "Точно! А то ты не знал. Марина - вот кто виноват во всех моих бедах. Жаль, что она спряталась, мне непросто ее достать."
+msgstr "没错！！！！你表现得好像你不知道一样! 玛丽娜，她对发生在我身上的所有事情都有罪... ... 可惜她躲起来了，而我却找不到她... ..."
+
+#. Key:	14.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.1.1"
+msgid "Да вчера вот звучал ночью. Я уже проснулся, а он всё звучит и звучит. Я понимаю, что рядом никого нет - он сразу в мозге появляется."
+msgstr "昨天晚上我醒了，但它一直在说话，一直在说话...... 我意识到，周围没有人，它发生在我的大脑中，它从电中获取营养。"
+
+#. Key:	14.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.1.2"
+msgid "Берёт там от электричества. Ток - это же линия. И извилины в мозге тоже как линии, понимаешь?"
+msgstr "电流是按线走的。而大脑的转折点也是线条! 你明白吗？"
+
+#. Key:	14.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.1.3"
+msgid "Когда эти линии совпадают, то появляется голос. А Марина в школе физику лучше всех знала. Она и настроила ревербератор, чтобы мне неприятные вещи говорить сразу прямо в голову."
+msgstr "当这些台词匹配时，声音就会出现... 玛丽娜是学校物理学的佼佼者。是她设置了这个混响器，把讨厌的东西直接讲到我的脑子里。"
+
+#. Key:	14.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.2.1"
+msgid "Она на электростанции работает. Знает, что я туда не могу прийти - там всё закрыто, забор. Вот и шлёт мне через провода сигналы прямо в мозг, что у меня в голове голоса появляются."
+msgstr "她在发电站工作! 她知道我不能去那里，那里都是密封的。这就是为什么她把信号直接送入我的大脑，所以才会有声音。"
+
+#. Key:	14.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.2.2"
+msgid "Ничего не слушаю, кроме ее голоса. Сначала она хвалила меня, а теперь только угрожает."
+msgstr "我只能听到她的声音... 起初她是在赞扬我，现在我只听到威胁。"
+
+#. Key:	15.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_15.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,15.1"
+msgid "Но ведь другие люди не чувствуют воздействия тока. Почему у вас это происходит?"
+msgstr "为什么其他人不会受到电的影响？"
+
+#. Key:	15.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_15.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,15.2"
+msgid "А почему Марина к вам так неравнодушна? Почему она воздействует на вас?"
+msgstr "为什么玛丽娜如此困扰你？"
+
+#. Key:	16.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.1.1"
+msgid "Я же говорил, что у меня гены есть. У меня отец умел с одного выстрела утку убить даже ночью, даже когда пьяный был! А мама всегда суп варила."
+msgstr "它告诉你，这都是我的基因。我父亲可以一枪打死一只鸭子，即使是在晚上，即使是在喝醉的时候...... 我母亲煮的汤是别人无法做到的！我的母亲是一个很好的人！"
+
+#. Key:	16.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.1.2"
+msgid "Никто так не варил. Теперь понял, почему у меня такие гены? А они хотят их забрать и клонировать. Сделать суперчеловека, наверное. А так я не знаю, она же мне не объясняет. ПРосто голосом галдит и всё."
+msgstr "现在你明白为什么我有这样的基因了吧! 现在你明白为什么我有这样的基因了吧! 我不确定。她没有向我解释这一切，她只是不停地说话。"
+
+#. Key:	16.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.1"
+msgid "Это со школы началось. Она из-за генов на меня ополчилась. Она подходила тогда после танцев - классе в восьмом, наверное."
+msgstr "这是从学校开始的，她因为我的基因而反对我。这是从学校开始的，她因为我的基因而反对我。"
+
+#. Key:	16.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.2"
+msgid "А я всегда тихий был, на задней парте сидел и ни с кем не общался. Дружил только с Толиком. "
+msgstr "我一直都很安静，坐在班级的后排。没有和任何人说话，我唯一的朋友是托利克... "
+
+#. Key:	16.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.3"
+msgid "А тут она подходит, начинает на танец звать. Я тогда не понял, застеснялся, убежал просто."
+msgstr "突然，她走过来，邀请我和她一起跳舞！她说：\"我不知道！我没有得到她的暗示，尴尬地跑开了。"
+
+#. Key:	16.2.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.4"
+msgid "А когда в 19 лет в первый раз голос услышал в голове, сразу понял, что это Маринка, и всё стало на свои места."
+msgstr "当我在19岁时第一次听到这个声音时，我意识到这是玛丽娜。这一切都发生在一起。"
+
+#. Key:	17.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_17.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,17.1.1"
+msgid "Когда вас привезли, у вас на голове была слепленная из фольги каска. Она весила почти пять килограмм."
+msgstr "当你被带到这里时，你戴着一顶锡箔帽......。"
+
+#. Key:	18.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.1.1"
+msgid "Я сам ее сделал. Это мой антимаринатор. Только им и спасался. Сначала голоса потише стали, потом по ночам их совсем не было."
+msgstr "我自己做的。这是我的反垃圾器。这是拯救自己的唯一方法。起初，这些声音比较安静，到了晚上就不见了。"
+
+#. Key:	18.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.1.2"
+msgid "А они напряжение увеличили, видимо, и они пошли снова. Тогда я усилил. Свинец из аккумулятора выпаял, потом пришлось схемы искать и в конце градусник. "
+msgstr "然后，似乎他们提高了电压，声音又回来了......。所以我不得不改进我的头盔。然后，似乎他们提高了电压，声音又回来了...... 所以我不得不改进我的头盔"
+
+#. Key:	18.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.1.3"
+msgid "А они всё больше и больше растят ток. Я им уже кричу - не надо больше! Шапка не помогает. А они больше 35 киловатт - и всё, я больше не смог."
+msgstr "但他们一直在增加电压！我大叫：\"你怎么了？我大叫着： \"让它停下来！\"。这个帽子已经无济于事了。他们用超过35千瓦的电压打我。我再也受不了了......"
+
+#. Key:	18.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.2.1"
+msgid "Да как и все. Гонка вооружений! Они ток, а я - противоток. Антимаринатор! Ничего личного, только бизнес."
+msgstr "和其他人一样，军备竞赛......。他们给我电流，我给反电流! 不是针对你的，只是生意!"
+
+#. Key:	18.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.2.2"
+msgid "На войне все средства хороши. Вот они забегали тогда. Даже квартплату за электричество подняли. А я хожу себе в шляпе, и довольный."
+msgstr "在爱情和战争中，一切都很公平! 这让他们继续运转......他们甚至增加了电费。在我的这个头盔里，我并不关心。"
+
+#. Key:	18.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.2.3"
+msgid "Никому гены не дам. Даже на работу тогда смог выйти - кондуктором троллейбуса. Да, а кто мне под шапку заглянет? Никто. Вот летом стало заметно, и меня уволили."
+msgstr "我不会把我的基因给任何人。那时我甚至可以去做无轨电车售票员。谁能在我真正的帽子下看到它？没有人。但今年夏天他们看到了，我被解雇了。"
+
+#. Key:	2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_02.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,2.1"
+msgid "Меня полицай привёл. Прямо взял за руку и привёл. Как под венец ведут, понимаешь."
+msgstr "一个警察带来了我。他抓着我的胳膊。就像在婚礼上一样，你知道吗？"
+
+#. Key:	2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_02.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,2.2"
+msgid "Я на тебя жалуюсь, понимаешь? Ты на меня, а я на тебя. А что ты думал? Всё так и будет! Ты меня ещё не забыл?"
+msgstr "我在抱怨你，明白吗？我对你，你对我！你认为会发生什么？你还没有忘记我吗？"
+
+#. Key:	20.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.1.1"
+msgid "Лет пять, наверное. Я тогда и из университета ушёл, и работать не смог. Мама меня поддерживала сначала, даже писала вместе со мной в полицию, в прокуратуру."
+msgstr "我想有5年时间... 那时我从大学辍学，不能再工作了...... 起初我母亲支持我，甚至帮助我向警察和检察官投诉、"
+
+#. Key:	20.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.1.2"
+msgid "А потом устала и не стала бороться. Пенсия у нее маленькая, на квартплату уходит и поесть купить."
+msgstr "很快，她就厌倦了这一切的挣扎。"
+
+#. Key:	20.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.1.3"
+msgid "Микросхемы пришлось на свалке искать. Хорошо, что добрые голоса подсказывали, какие брать надо. Вот, что значит, правильные-то гены."
+msgstr "我不得不在垃圾场寻找电路。好在那位好心人给了我提示，告诉我应该走哪些电路。这就是好基因的作用!"
+
+#. Key:	20.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.2.1"
+msgid "Тяжело было зимой. Там все свалки заваленные под снегом, собак много, а порой волки заходят. Там микросхемы не найдёшь."
+msgstr "冬天很辛苦。所有的垃圾场都被埋在雪下，有很多流浪狗，甚至还有狼。我在那里找不到电路。"
+
+#. Key:	20.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.2.2"
+msgid "А мне без них никак. Когда мама перестала мне верить и не стала бороться, то я всё сам. А она только на еду мне давала и на пряники."
+msgstr "但我也不能没有他们! 当我的母亲停止挣扎时，我不得不全部靠自己的力量。她只给我钱买食物和糖果。"
+
+#. Key:	22.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.1.1"
+msgid "Конечно. К неврологу поначалу ходил, когда бессонница была. Она мне таблетки давала, я их пил. Ну, одну-вторую. Но не спал всё равно."
+msgstr "当然，当我失眠时，我去看了神经科医生。她给我吃药。我服用了这些药，一片又一片，但无法入睡......"
+
+#. Key:	22.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.1.2"
+msgid "А потом голоса пошли. Я доктору сказал, а она отшутилась. Сказала, что я всё себе придумал, устал на сессии. Что мне надо отдохнуть."
+msgstr "然后声音出现了。我把这些告诉了医生，她只是一笑置之，说这都是我编的，我太累了。说我需要休息。"
+
+#. Key:	22.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.1.3"
+msgid "А потом голос запретил к ней ходить."
+msgstr "然后那个声音禁止我去看她。"
+
+#. Key:	22.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.2.1"
+msgid "Да мама сама врач. Электрофизиолог. Она всю жизнь мозг исследовала. Эпилепсию, все болезни знает."
+msgstr "我的母亲是一名医生，一名电生理学家。她一生都在研究大脑、癫痫，她知道所有的疾病。"
+
+#. Key:	22.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.2.2"
+msgid "Когда я маленький был, она меня к себе в лабораторию брала, опыты показывала. И на обезьянах, и на людях. Я ей больше всех верю."
+msgstr "当我还是个孩子时，她把我带到她的实验室，给我看不同的实验。在黑猩猩身上，也在人身上...。我比任何人都更信任她。"
+
+#. Key:	23.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_23.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,23.2"
+msgid "А мама вызвала полицию? Или кто? Ну, чтобы вас забрали."
+msgstr "谁叫了警察？"
+
+#. Key:	24.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_24.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,24.1"
+msgid "Я уже почти всё закончил. Нарубился вдоволь!"
+msgstr "我几乎完成了所有的工作。我已经砍掉了足够多的东西!"
+
+#. Key:	24.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_24.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,24.2"
+msgid "Я не знаю, кто вызвал. И что вызывать-то? Я уже писал - уменьшайте, или я сам уменьшу! Сколько писем им отправил, а они никак."
+msgstr "我不知道是谁给他们打的电话......这有什么意义？我给他们写了信......要求减少，否则我就自己来! 我给他们发了那么多信，但都没有用。"
+
+#. Key:	26.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.1.1"
+msgid "Столбы я рубил, что же ещё? Нет ,я не хотел сначала. Их же люди ставили, а мы с мамой за них платили налоги там."
+msgstr "砍伐电线杆! 还有什么... 起初并不想这样。人们安装了它们，我和我母亲在为它们付钱，我是说税收..."
+
+#. Key:	26.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.1.2"
+msgid "Я им просто писал - уменьшайте напряжение, не надо ничего говорить! Просто уменьшайте! Мне сначала написали, что передали моё заявление в комиссию, а потом просто перестали отвечать."
+msgstr "我在恳求他们降低电压，不需要说什么，只要降低就行了。起初他们回答我说会把我的申请转给上级，然后他们就不回答了。"
+
+#. Key:	26.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.1.3"
+msgid "Я пишу и пишу им, у меня шлем уже не работает, кончается, на коже дрожь, в голове голос."
+msgstr "我一直在写它们。我的头盔不能用了，它没电了。我的皮肤在颤抖，我脑中的声音..."
+
+#. Key:	26.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.2.1"
+msgid "А я - о том, что я предупреждал. Я писал и обращения, и просто письма. Брал бумагу и писал. Я хорошо пишу, я в школе почти же отличником был, на 5 учился, только по физре 4."
+msgstr "我是说我警告过他们... 我写了他们。申请书，官方信件。在一张真正的纸上。我的字写得很好，我在学校几乎是个全A的学生。我只在体育课上得过B。"
+
+#. Key:	26.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.2.2"
+msgid "Ну это потому, что я боялся всех. А тут не ответили раз, не ответили два, не ответили три, а наоборот - давай напряжение более чем 35 киловатт!"
+msgstr "但只是因为我害怕别人......。所以，他们一次、两次、三次都没有回答我... 他们只是不断地超过35千瓦！！！"
+
+#. Key:	26.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.2.3"
+msgid "Ну я уже не смог. А в тот день суббота была. Хорошая такая, светлая, теплая."
+msgstr "我无法处理... 那一天是星期六。它是如此美好，如此明亮，如此温暖..."
+
+#. Key:	28.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.1.1"
+msgid "Тогда нервы у меня дрогнули, не могу я так. Нашёл деревянные столбы и давай рубить налево-направо, только щепки летели! Ничего не вышло у них."
+msgstr "我已经没有耐心了，我不能再这样了。我找到这些木杆，开始左右开弓地砍伐。碎片飞得到处都是。他们的计划被破坏了!"
+
+#. Key:	28.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.1.2"
+msgid "После пятницы суббота - знаете такую поговорку? Вот я и показал им кузькину субботу! Сразу все заглохли - и Марина, и вторая, как ее, не помню..."
+msgstr "周五之后总是有星期六。听说过这句谚语吗？我给他们看了真正的星期六 他们马上就闭嘴了! 玛丽娜是这样，第二个人......她叫什么名字？"
+
+#. Key:	28.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.2.1"
+msgid "Я топор нашёл у соседа. Ну, взял, в смысле. Взял и пошёл. Думал, сначала погрожу просто. Просто! Может, образумятся."
+msgstr "我在邻居家发现了那把斧头，我是说我把它带到了那里。我想我只要用它来威胁他们，他们就会改变主意。"
+
+#. Key:	28.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.2.2"
+msgid "Пришёл к горсовету, стою, топором машу, а они ни в какую! Сидят, пугают меня по электросвязи. Я тогда по земле стучу - а они стучат по мозгам!"
+msgstr "我来到了电力公司。我站着，拿着斧头挥舞，没有效果。他们一直用电来吓唬我。我开始打地铺！！！！！他们打的是......就在我的大脑里！！！！"
+
+#. Key:	30.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.1"
+msgid "Она зам по генам у них. Как только ударил топором первый раз - сразу все заглохли. Тогда я понял, что так и надо. И давай рубить, рубить, рубить!"
+msgstr "她是他们中的基因老大。随着我的斧头的第一击，他们都闭嘴了。我意识到我需要继续下去，所以我开始切割，切割......"
+
+#. Key:	30.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.2"
+msgid "У меня сила откуда-то взялась. Никогда не был так счастлив. На руках до кровавых мозолей натёр ладони, занозы, ногти черные, а я рад как никогда!"
+msgstr "不知道我哪里来的这么多精力。我从来没有这么高兴过。我的手掌上有血淋淋的老茧，有木刺，有黑色的指甲，但我是最快乐的人！\"！"
+
+#. Key:	30.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.3"
+msgid "Это моя победа, это моя война, это мой рейхстаг! Я не знаю, сколько это продолжалось, я потерял счет времени."
+msgstr "这是我的胜利，我的战争，我的帝国大厦！！！！我不知道我这样做有多久了...... 我忘记了时间。"
+
+#. Key:	30.1.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.4"
+msgid "Только стук - и песня в голове, марш праздника - \"Этот день победы порохом...\" - вот так вот!"
+msgstr "我记得敲门声和我脑子里的一首歌......。庆祝游行! (唱) \"今天是胜利日！\" - 就像这样!"
+
+#. Key:	30.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.1"
+msgid "Я всегда был очень тихим. Можно даже сказать, робким. Всегда всех боялся, ни разу ни с кем не дрался, в школе даже."
+msgstr "我一直是一个非常安静的人，甚至是胆小的人。总是害怕所有人... 从未和任何人打过架。即使在学校..."
+
+#. Key:	30.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.2"
+msgid "А тут - не знаю, откуда во мне сила взялась. Я отошёл в посадку рядом, там, где деревянные столбы с электролинией, и давай лупить топором по проводам!"
+msgstr "不知道我那时哪里来的那么多力气。我去安装木制电线杆的地方，开始用斧头砍伐它们......"
+
+#. Key:	30.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.3"
+msgid "Доктор, если б ты слышал, как они завыли! Они рыдали, я их победил, я их сделал как никогда! И Маринку-проститутку - она же мне нравилась в школе, понимаешь."
+msgstr "医生，如果你能听到他们的呻吟声就好了......他们在哭! 我打了他们！我做到了... 那个妓女玛丽娜... 我在学校时就喜欢她，你知道。"
+
+#. Key:	30.2.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.4"
+msgid "Темненькая, волосы кудрявые. А я не смог тогда сказать ей об этом, лишь стоял, смотрел, как она домой идет. А тут - смог!"
+msgstr "有着一头乌黑的卷发......。那时我无法向她表白。我只能站着看她回家... 但现在我做到了！！！！"
+
+#. Key:	32.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.1.1"
+msgid "Ты не поймёшь, доктор! Это настоящее счастье. Теперь хоть гены у меня забирай, относи своей Маринке, хоть топи меня в электричестве, а я был счастлив на Земле."
+msgstr "你不会明白的，医生，那是纯粹的幸福... ...如果你想的话，把我所有的基因都拿走，给玛丽娜... ...或者把我淹没在电流中... 我在这个世界上是幸福的!"
+
+#. Key:	32.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.1.2"
+msgid "Моя жизнь прошла не зря, я счастлив!"
+msgstr "我的生命没有白费。我很高兴！我很高兴"
+
+#. Key:	32.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.1"
+msgid "Это было похоже на кино, где я главный герой. Ни усталостти, ни боли, ни страха - я за всё отомстил, за все годы страданий!"
+msgstr "我觉得自己就像一部动作片中的主角......没有疲惫，没有痛苦，没有恐惧。我做了我的复仇，为所有多年的痛苦。"
+
+#. Key:	32.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.2"
+msgid "Пусть знают, кто я такой, пусть помнят меня, пусть боятся! Теперь меня все боятся. Все до единого! Я герой, а ты, доктор, делай, что должен."
+msgstr "他们将知道我是谁，他们将记住我，害怕我。现在每个人都在害怕我。所有的人! 我是个英雄... 医生，你可以用我的基因做任何事，我什么都不怕。"
+
+#. Key:	32.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.3"
+msgid "Делай своё дело с генами! Теперь мне не страшно ничего. Всё в прошлом, теперь я другой. Теперь я  победил страх! Или он меня..."
+msgstr "这都是过去的事了......。现在我不一样了，我已经战胜了我的恐惧......或者反之亦然......。"
+
+#. Key:	32.2.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.4"
+msgid "Из-под пятницы суббота. Знаешь такую поговорку? Так вот я теперь - суббота! Бери гены, выжигай мне мозг! Я всё сказал."
+msgstr "星期五之后总有星期六，记得这句谚语吗？现在我就是星期六......拿走我的基因，烧掉我的大脑。我已经说得够多了..."
+
+#. Key:	4.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_04.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,4.1"
+msgid "А ты как будто не знаешь."
+msgstr "你表现得好像你自己都不知道似的！？"
+
+#. Key:	4.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_04.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,4.2"
+msgid "Из-за тебя!"
+msgstr "因为有你！!"
+
+#. Key:	6.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_06.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,6.1"
+msgid "Конечно, встречались. И вчера, и две недели назад, когда напряжение опять падало."
+msgstr "当然，我们做到了。昨天，2周前，当水流下降时..."
+
+#. Key:	6.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_06.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,6.2"
+msgid "Ты на меня постоянно влияешь. Особенно когда пускают 35 киловатт."
+msgstr "你总是影响我。特别是当他们用35千瓦的功率打击我时。"
+
+#. Key:	8.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.1.1"
+msgid "Да про то напряжение, про то. Когда по проводам бежит, аж дрожь по спине. Я этот голос в голове... Реверберат-аттистор, ведь так вы его называете, да?"
+msgstr "我的意思是......电线中的电流，它就像在我的背上颤抖。而我脑海中的这个声音......reverbersistor--你就是这么称呼它的。"
+
+#. Key:	8.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.1.2"
+msgid "Так кондуктор и сказал: \"Реверберат-аттистор включаем, дрожь запускаем\", а я, я что? Я писал много раз заявление."
+msgstr "那是指挥家说的： \"打开混响器......开始抖动\"。我做了什么？我给不同的地方写了很多投诉。"
+
+#. Key:	8.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.1.3"
+msgid "Писал не в одну инстанцию, просил по-хорошему - не включайте! А никто мне не верит. Все говорят лечиться, а чем лечится повышенная электрочувствительность, а?"
+msgstr "我很客气地要求他们不要开机！！！！没有人相信我......他们叫我自己去治。但你怎么能治好电敏感？"
+
+#. Key:	8.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.2.1"
+msgid "35 киловатт критичны для меня. Я же просил, хотя бы менее 15-ти ставьте. Я и Марине говорил, и Кате. Они посменно на станции работают, я их всех знаю."
+msgstr "35千瓦对我来说太多了! 我问他们--不超过15! 我告诉玛丽娜和卡蒂亚，他们在这个车站轮流工作。我认识那里的所有人，我经常给他们打电话。"
+
+#. Key:	8.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.2.2"
+msgid "Я туда часто звоню. Телефон мне не страшен, там малый ток, там нет реверберации, вот."
+msgstr "我不怕电话，它们的电流太小，没有回响。"
+

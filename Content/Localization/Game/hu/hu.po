@@ -1,0 +1,1405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-06-25 11:56+0000\n"
+"PO-Revision-Date: 2023-06-25 11:56+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	0069E307475831368A5215AE59387F3A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.1.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",0069E307475831368A5215AE59387F3A"
+msgid "Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. критика у человека в этот момент отсутствует, и он может совершать поступки, о которых впоследствии будет сильно сожалеть: брать кредиты , раздавать деньги,тратить их на ненужные вещи и тд."
+msgstr "A betegek állandóan viccelődnek, nevetnek, ami ellen rövid dühkitörések lehetnek. Ilyenkor a betegeknek egyáltalán nincs önkritikájuk, és olyan dolgokat tehetnek, amit a jövőben nagyon megbánhatnak: pénzhitelt vesznek fel, pénzt adnak el, felesleges dolgokra költik stb."
+
+#. Key:	354ED67748F3AEDAFC148CB224C5436E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.2.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",354ED67748F3AEDAFC148CB224C5436E"
+msgid "Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. критика у человека в этот момент отсутствует, и он может совершать поступки, о которых впоследствии будет сильно сожалеть: брать кредиты , раздавать деньги,тратить их на ненужные вещи и тд."
+msgstr "A betegek állandóan viccelődnek, nevetnek, ami ellen rövid dühkitörések lehetnek. Ilyenkor a betegeknek egyáltalán nincs önkritikájuk, és olyan dolgokat tehetnek, amit a jövőben nagyon megbánhatnak: pénzhitelt vesznek fel, pénzt adnak el, felesleges dolgokra költik stb."
+
+#. Key:	026EB6D5407598218CA30B8005ABBB15
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsMain.WB_ClassicSettingsMain_C:WidgetTree.TextBlock.Text
+msgctxt ",026EB6D5407598218CA30B8005ABBB15"
+msgid "Язык"
+msgstr "Nyelv"
+
+#. Key:	D0E96F2C43BF2944317D71AE07C7FC82
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsLanguage.WB_ClassicSettingsLanguage_C:WidgetTree.TextBlock_121.Text
+msgctxt ",D0E96F2C43BF2944317D71AE07C7FC82"
+msgid "Язык"
+msgstr "Nyelv"
+
+#. Key:	0328B2FD4F786BDD512AA0A189656980
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.1.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",0328B2FD4F786BDD512AA0A189656980"
+msgid "Стадия выраженной мании характеризуется дальнейшим нарастанием выраженности основных симптомов фазы. Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. Речевое возбуждение выраженное, достигает степени скачки идей. Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "A kifejezett mánia stádiuma. Ez az az időszak, amikor a fázis fő tünetei felerősödnek. A betegek állandóan viccelődnek, nevetnek, ami ellen rövid dühkitöréseik lehetnek. A beszédbeli izgatottság eléri az ugráló ötletek (ún. \"fuga idearum\") fokát. A motoros izgatottság és a figyelemzavar ahhoz vezet, hogy a beteg képtelen összefüggő beszélgetést folytatni. Nagyzási téveszmék alakulnak ki a saját személyiség túlértékelésének hátterében. A munkahelyen a betegek rózsás kilátásokat építenek, pénzt fektetnek kilátástalan projektekbe, és olyan irreális konstrukciókról és tervekről beszélhetnek, amelyek a való életben nem alkalmazhatók. Az alvásuk időtartama napi 3-4 órára csökken."
+
+#. Key:	338E65BD4C56FFAEBC46389E7C663E5A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.2.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",338E65BD4C56FFAEBC46389E7C663E5A"
+msgid "Стадия выраженной мании характеризуется дальнейшим нарастанием выраженности основных симптомов фазы. Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. Речевое возбуждение выраженное, достигает степени скачки идей. Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "A kifejezett mánia stádiuma. Ez az az időszak, amikor a fázis fő tünetei felerősödnek. A betegek állandóan viccelődnek, nevetnek, ami ellen rövid dühkitöréseik lehetnek. A beszédbeli izgatottság eléri az ugráló ötletek (ún. \"fuga idearum\") fokát. A motoros izgatottság és a figyelemzavar ahhoz vezet, hogy a beteg képtelen összefüggő beszélgetést folytatni. Nagyzási téveszmék alakulnak ki a saját személyiség túlértékelésének hátterében. A munkahelyen a betegek rózsás kilátásokat építenek, pénzt fektetnek kilátástalan projektekbe, és olyan irreális konstrukciókról és tervekről beszélhetnek, amelyek a való életben nem alkalmazhatók. Az alvásuk időtartama napi 3-4 órára csökken."
+
+#. Key:	509C967D48F25BCBDA2B719CBD0ACEF6
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.2.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",509C967D48F25BCBDA2B719CBD0ACEF6"
+msgid "Стадия выраженной мании характеризуется дальнейшим нарастанием выраженности основных симптомов фазы. Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. Речевое возбуждение выраженное, достигает степени скачки идей. Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "A kifejezett mánia stádiuma. Ez az az időszak, amikor a fázis fő tünetei felerősödnek. A betegek állandóan viccelődnek, nevetnek, ami ellen rövid dühkitöréseik lehetnek. A beszédbeli izgatottság eléri az ugráló ötletek (ún. \"fuga idearum\") fokát. A motoros izgatottság és a figyelemzavar ahhoz vezet, hogy a beteg képtelen összefüggő beszélgetést folytatni. Nagyzási téveszmék alakulnak ki a saját személyiség túlértékelésének hátterében. A munkahelyen a betegek rózsás kilátásokat építenek, pénzt fektetnek kilátástalan projektekbe, és olyan irreális konstrukciókról és tervekről beszélhetnek, amelyek a való életben nem alkalmazhatók. Az alvásuk időtartama napi 3-4 órára csökken."
+
+#. Key:	5849FC7946EDEB77F079279DBE502500
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.1.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",5849FC7946EDEB77F079279DBE502500"
+msgid "Стадия выраженной мании характеризуется дальнейшим нарастанием выраженности основных симптомов фазы. Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. Речевое возбуждение выраженное, достигает степени скачки идей. Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "A kifejezett mánia stádiuma. Ez az az időszak, amikor a fázis fő tünetei felerősödnek. A betegek állandóan viccelődnek, nevetnek, ami ellen rövid dühkitöréseik lehetnek. A beszédbeli izgatottság eléri az ugráló ötletek (ún. \"fuga idearum\") fokát. A motoros izgatottság és a figyelemzavar ahhoz vezet, hogy a beteg képtelen összefüggő beszélgetést folytatni. Nagyzási téveszmék alakulnak ki a saját személyiség túlértékelésének hátterében. A munkahelyen a betegek rózsás kilátásokat építenek, pénzt fektetnek kilátástalan projektekbe, és olyan irreális konstrukciókról és tervekről beszélhetnek, amelyek a való életben nem alkalmazhatók. Az alvásuk időtartama napi 3-4 órára csökken."
+
+#. Key:	06170CDE4D5F2143E10F2A90367EC6AB
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.TextBlock_8995.Text
+msgctxt ",06170CDE4D5F2143E10F2A90367EC6AB"
+msgid "Музыка"
+msgstr "Zene"
+
+#. Key:	0759CE514A10C70E64868881EF46E1DE
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_02.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0759CE514A10C70E64868881EF46E1DE"
+msgid "Расскажите, почему вы оказались в нашей клинике?"
+msgstr "Miért került a klinikánkra?"
+
+#. Key:	3.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_03.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,3.2"
+msgid "Расскажите, почему вы оказались в нашей клинике?"
+msgstr "Miért került a klinikánkra?"
+
+#. Key:	0B10B3994FCBB6AFA77A5B95E45A430E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_02.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0B10B3994FCBB6AFA77A5B95E45A430E"
+msgid "Расскажите, почему вас сюда привели?"
+msgstr "Miért hoztak ide?"
+
+#. Key:	3.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_03.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,3.1"
+msgid "Расскажите, почему вас сюда привели?"
+msgstr "Miért hoztak ide?"
+
+#. Key:	0B54559847650624CF54D5A74C43B665
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_22.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0B54559847650624CF54D5A74C43B665"
+msgid "А мама вызвала полицию? Или кто?"
+msgstr "Ki hívta a rendőrséget?"
+
+#. Key:	0BD7705A48ACDD03BEB426BC71E9FECA
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_20.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0BD7705A48ACDD03BEB426BC71E9FECA"
+msgid "Скажите, а мама не отправляла вас провериться к врачам?"
+msgstr "Az édesanyja kordában tartotta az egészségét?"
+
+#. Key:	21.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_21.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,21.2"
+msgid "Скажите, а мама не отправляла вас провериться к врачам?"
+msgstr "Az édesanyja kordában tartotta az egészségét?"
+
+#. Key:	1516B40349A01D4D5F07C2BAB099CDE6
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_30.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",1516B40349A01D4D5F07C2BAB099CDE6"
+msgid "А как вы относитесь к своему противоправному поступку?"
+msgstr "Mit gondolsz a törvénytelen cselekedetedről?"
+
+#. Key:	31.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_31.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,31.1"
+msgid "А как вы относитесь к своему противоправному поступку?"
+msgstr "Mit gondolsz a törvénytelen cselekedetedről?"
+
+#. Key:	1AD518184BDCF231CC7C859CAFCB6955
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",1AD518184BDCF231CC7C859CAFCB6955"
+msgid "Во время задержания, вы пытались подкупить сотрудников полиции. Обещали им миллиард. У вас действительно так много денег?\t"
+msgstr "Az őrizetbe vétele idején megpróbálta megvesztegetni a rendőröket. Egy milliárdot ígért nekik. Tényleg van ennyi pénze? "
+
+#. Key:	FC0A319E4F1EBA75780B928D1006B28E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",FC0A319E4F1EBA75780B928D1006B28E"
+msgid "Во время задержания, вы пытались подкупить сотрудников полиции. Обещали им миллиард. У вас действительно так много денег?\t"
+msgstr "Az őrizetbe vétele idején megpróbálta megvesztegetni a rendőröket. Egy milliárdot ígért nekik. Tényleg van ennyi pénze? "
+
+#. Key:	1CF6E83A4F3FA05EE49AAB9BA64601B3
+#. SourceLocation:	/Game/UI/MainHUD/QTE/W_Tutorial.W_Tutorial_C:WidgetTree.End.Text
+msgctxt ",1CF6E83A4F3FA05EE49AAB9BA64601B3"
+msgid "Когда будете готовы, нажмите кнопку ниже. Начнется бой. Старайтесь не пропускать удары."
+msgstr "Amikor készen állsz, nyomd meg az alábbi gombot a harc megkezdéséhez. Próbáld meg, hogy ne kapj ütést."
+
+#. Key:	2395CBE14282FE35E7EFA690DA9B57BB
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsMain.WB_ClassicSettingsMain_C:WidgetTree.TabLanguageSettings.ToolTipText
+msgctxt ",2395CBE14282FE35E7EFA690DA9B57BB"
+msgid "Language Settings"
+msgstr "Nyelvi beállítások"
+
+#. Key:	2ACF85644774820E33A29AA934B3B17C
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.Edit Ambient.Text
+msgctxt ",2ACF85644774820E33A29AA934B3B17C"
+msgid "Volume"
+msgstr "Kötet"
+
+#. Key:	41DE4D7040D0B8B0604B09BCDC845E6D
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.Edit Voice.Text
+msgctxt ",41DE4D7040D0B8B0604B09BCDC845E6D"
+msgid "Volume"
+msgstr "Kötet"
+
+#. Key:	4BEA88D34B8FB92A2A65E68EF22EE29F
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.Edit Master.Text
+msgctxt ",4BEA88D34B8FB92A2A65E68EF22EE29F"
+msgid "Volume"
+msgstr "Kötet"
+
+#. Key:	589C3A444ED859394DE31F9C1E9A60ED
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.Edit Music.Text
+msgctxt ",589C3A444ED859394DE31F9C1E9A60ED"
+msgid "Volume"
+msgstr "Kötet"
+
+#. Key:	C7B916CC4E229DF53280DD957590A0BD
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.Edit Effect.Text
+msgctxt ",C7B916CC4E229DF53280DD957590A0BD"
+msgid "Volume"
+msgstr "Kötet"
+
+#. Key:	29532279497A95C147FCE59B869C6100
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_16.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",29532279497A95C147FCE59B869C6100"
+msgid "Когда вас привезли, у вас на голове была слепленная из фольги каска."
+msgstr "Amikor idehozták, alufólia sapkát viselt..."
+
+#. Key:	2BADDAF7455646F915444F9E9C2D4C1C
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/Enum_Speakers.Enum_Speakers.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",2BADDAF7455646F915444F9E9C2D4C1C"
+msgid "Пациент"
+msgstr "Beteg"
+
+#. Key:	B3C446C04ED3BF484628729A9396D140
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/Enum_Speakers.Enum_Speakers.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",B3C446C04ED3BF484628729A9396D140"
+msgid "Пациент"
+msgstr "Beteg"
+
+#. Key:	2BC9528E43D041655D5854A1C064A6C5
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_18.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",2BC9528E43D041655D5854A1C064A6C5"
+msgid "Понятно. В последнее время совсем тяжело стало?"
+msgstr "Mostanában különösen nehéz lett neked, ugye?"
+
+#. Key:	19.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_19.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,19.2"
+msgid "Понятно. В последнее время совсем тяжело стало?"
+msgstr "Mostanában különösen nehéz lett neked, ugye?"
+
+#. Key:	2F9F31EC450CAC463496CC936BC942EA
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_14.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",2F9F31EC450CAC463496CC936BC942EA"
+msgid "А почему Марина к вам так неравнодушна? "
+msgstr "Miért zavar téged ennyire Marina? "
+
+#. Key:	3584CEA94335EFA8E07477AA9DD51505
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_20.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",3584CEA94335EFA8E07477AA9DD51505"
+msgid "Скажите, вы раньше обращались к врачам?"
+msgstr "Kért már korábban orvosi tanácsot?"
+
+#. Key:	21.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_21.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,21.1"
+msgid "Скажите, вы раньше обращались к врачам?"
+msgstr "Kért már korábban orvosi tanácsot?"
+
+#. Key:	367763D84D36563D7F6D24A2AA6182AF
+#. SourceLocation:	/Game/UI/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_3.Text
+msgctxt ",367763D84D36563D7F6D24A2AA6182AF"
+msgid "Настройки"
+msgstr "Beállítások"
+
+#. Key:	Settings
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsMain.WB_ClassicSettingsMain_C:WidgetTree.TextTitle.Text
+msgctxt "Menu,Settings"
+msgid "Настройки"
+msgstr "Beállítások"
+
+#. Key:	3AD36BF44E894B45DF812899B954DAB8
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.ToolTip_MusicVolume.ToolTipText
+msgctxt ",3AD36BF44E894B45DF812899B954DAB8"
+msgid "Music Volume"
+msgstr "Zene hangerő"
+
+#. Key:	3B4529A341160BC57DA123B6F54240A5
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_28.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",3B4529A341160BC57DA123B6F54240A5"
+msgid "У вас часто бывают такие эпизоды гнева?"
+msgstr "Gyakran van ilyen dühkitörésed?"
+
+#. Key:	29.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_29.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,29.2"
+msgid "У вас часто бывают такие эпизоды гнева?"
+msgstr "Gyakran van ilyen dühkitörésed?"
+
+#. Key:	3DB9D4BC4E91C8968F057DBB68D5CC27
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_04.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",3DB9D4BC4E91C8968F057DBB68D5CC27"
+msgid "Вам кажется, что раньше мы уже встречались?"
+msgstr "Gondolod, hogy találkoztunk már?"
+
+#. Key:	5.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_05.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,5.1"
+msgid "Вам кажется, что раньше мы уже встречались?"
+msgstr "Gondolod, hogy találkoztunk már?"
+
+#. Key:	45D26281406F2AA7C13BF1BF6AE5E328
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_16.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",45D26281406F2AA7C13BF1BF6AE5E328"
+msgid "А как вы пытались защититься от воздействия на голову?"
+msgstr "Mit tettél, hogy megvédd a fejed?"
+
+#. Key:	17.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_17.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,17.2"
+msgid "А как вы пытались защититься от воздействия на голову?"
+msgstr "Mit tettél, hogy megvédd a fejed?"
+
+#. Key:	45F9983B482F2D5111C7A3B7D05DC09A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",45F9983B482F2D5111C7A3B7D05DC09A"
+msgid "Вы причинили материальный ущерб супермаркету. Как вы объясните своё поведение?\t"
+msgstr "Ön anyagi kárt okozott egy szupermarketnek. Hogyan magyarázza a viselkedését? "
+
+#. Key:	AEB4BFE14EDCDC05A472AE9865930311
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",AEB4BFE14EDCDC05A472AE9865930311"
+msgid "Вы причинили материальный ущерб супермаркету. Как вы объясните своё поведение?\t"
+msgstr "Ön anyagi kárt okozott egy szupermarketnek. Hogyan magyarázza a viselkedését?"
+
+#. Key:	47DC25D14C75DC8C466193BF27924E3C
+#. SourceLocation:	/Game/UI/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",47DC25D14C75DC8C466193BF27924E3C"
+msgid "Выход"
+msgstr "Kilépés"
+
+#. Key:	49FCEABD41D0A8D125A1148F549993B4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",49FCEABD41D0A8D125A1148F549993B4"
+msgid "Ваш внешний вид оставляет желать лучшего. Почему вы так запустили себя?\t"
+msgstr "A megjelenése sok kívánnivalót hagy maga után. Miért hanyagoltad el magad ennyire? "
+
+#. Key:	C31D9A5B414FA72CA59A1D97C319457C
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",C31D9A5B414FA72CA59A1D97C319457C"
+msgid "Ваш внешний вид оставляет желать лучшего. Почему вы так запустили себя?\t"
+msgstr "A megjelenése sok kívánnivalót hagy maga után. Miért hanyagoltad el magad ennyire? "
+
+#. Key:	4A53E4764769D6E312213DBADE9CABD5
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt ",4A53E4764769D6E312213DBADE9CABD5"
+msgid "Я кричу, и они закричали, суки! Прямо в мозг закричали! Я тогда совсем голову потерял."
+msgstr "Sikítottam!.. És ezek a seggfejek sikítottak! Pont az agyamban... ott vesztettem el..."
+
+#. Key:	4B95A334491E52DE68F5EE8839E9E729
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",4B95A334491E52DE68F5EE8839E9E729"
+msgid "Вы замечали за собой, что можете быть излишне многословны, навязчивы в общении?\t"
+msgstr "Észrevetted, hogy túlságosan bőbeszédű, tolakodó tudsz lenni a kommunikációdban? "
+
+#. Key:	80EF502B4CF05ECD62B8568391A3EAEF
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",80EF502B4CF05ECD62B8568391A3EAEF"
+msgid "Вы замечали за собой, что можете быть излишне многословны, навязчивы в общении?\t"
+msgstr "Észrevetted, hogy túlságosan bőbeszédű, tolakodó tudsz lenni a kommunikációdban? "
+
+#. Key:	5237EF284584E0213EDEDAAE2B86C37F
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_26.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",5237EF284584E0213EDEDAAE2B86C37F"
+msgid "Что происходило дальше?"
+msgstr "Mi történt ezután?"
+
+#. Key:	27.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_27.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,27.1"
+msgid "Что происходило дальше?"
+msgstr "Mi történt ezután?"
+
+#. Key:	581D12A24B4BDF95B2EDD28D561ED998
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",581D12A24B4BDF95B2EDD28D561ED998"
+msgid "Представим, что у вас уже есть все деньги мира. Чтобы вы будете делать дальше?\t\t"
+msgstr "Tegyük fel, hogy már a világ összes pénzével rendelkezik. Mit tennél ezután?"
+
+#. Key:	E99C9A5C4BBD05BC5FDC26A6F2071D96
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",E99C9A5C4BBD05BC5FDC26A6F2071D96"
+msgid "Представим, что у вас уже есть все деньги мира. Чтобы вы будете делать дальше?\t\t"
+msgstr "Tegyük fel, hogy már a világ összes pénzével rendelkezik. Mit tennél ezután? "
+
+#. Key:	58E13463418F9AF457B1A18267110787
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_24.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",58E13463418F9AF457B1A18267110787"
+msgid "А что и где вы рубили?"
+msgstr "What and where were you cutting?"
+
+#. Key:	25.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_25.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,25.1"
+msgid "А что и где вы рубили?"
+msgstr "Mit és hol vágtál?"
+
+#. Key:	5C88656A400E4F60CBFEA6989257F6A8
+#. SourceLocation:	/Game/UI/MainHUD/QTE/W_Tutorial.W_Tutorial_C:WidgetTree.Part1.Text
+msgctxt ",5C88656A400E4F60CBFEA6989257F6A8"
+msgid "Для этого типа необходимо остановить стрелку в пределах выделенной области, \r\nнажимая соответствующую клавишу, иначе герой пропустит удар.\r\n\r\nМожете потренироваться здесь.\r\n\r\nЧтобы перейти к следующему этапу, поймайте стрелку в выделенной области 3 раза"
+msgstr "Ehhez a típusú QTE-hez a megfelelő billentyű megnyomásával kell a sávot a nyíl által kijelölt terület felett kitöltve tartani. \n\nItt gyakorolhatsz. \n\nA következő részhez az oktatóanyag következő részébe jutsz, ha a nyilat 3 alkalommal elkapod a kiemelt területen."
+
+#. Key:	5C88656A400E4F60CBFEA6989257F6A8
+#. SourceLocation:	/Game/UI/MainHUD/QTE/W_Tutorial.W_Tutorial_C:WidgetTree.TextBlock.Text
+msgctxt ",5C88656A400E4F60CBFEA6989257F6A8"
+msgid "Необходимо остановить стрелку в пределах выделенной области, \r\nнажимая соответствующую клавишу, иначе герой пропустит удар.\r\n\r\nМожете потренироваться здесь.\r\n\r\nКогда будете готовы, нажмите кнопку ниже. Начнется бой. Старайтесь не пропускать удары.\r\n\r\nЧтобы начать бой, поймайте стрелку в выделенной области 3 раза"
+msgstr "A nyilat a kijelölt területen belül meg kell állítani,\na megfelelő billentyű megnyomásával, különben a hős elhibázza a találatot.\n\nItt gyakorolhatsz.\n\nAmikor készen állsz, nyomd meg az alábbi gombot a harc megkezdéséhez. Próbáld meg, hogy ne kapj találatot. \n\nAhhoz, hogy eljuss a bemutató következő részéhez, háromszor kapd el a nyilat a kiemelt területen."
+
+#. Key:	5F2BE24E4BA110002DE62D988D4E06EF
+#. SourceLocation:	/Game/UI/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",5F2BE24E4BA110002DE62D988D4E06EF"
+msgid "Авторы"
+msgstr "Szerzők"
+
+#. Key:	66E2106C4E04529DEB0EE28EF7E94412
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.1.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",66E2106C4E04529DEB0EE28EF7E94412"
+msgid " Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "A kifejezett motoros izgatottság és a figyelemzavar ahhoz vezet, hogy a beteggel nem lehet összefüggő beszélgetést folytatni. A nagyzási téveszmék a saját személyiség túlértékelésének hátterében jelennek meg. A munkahelyen a betegek rózsás kilátásokat építenek, pénzt fektetnek be kilátástalan projektekbe, és olyan irreális konstrukciókról és tervekről beszélhetnek, amelyek a való életben nem alkalmazhatók. Az alvásuk időtartama napi 3-4 órára csökken."
+
+#. Key:	E5A0EF52471E359D099038839801A5E7
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.2.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",E5A0EF52471E359D099038839801A5E7"
+msgid " Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "A kifejezett motoros izgatottság és a figyelemzavar ahhoz vezet, hogy a beteggel nem lehet összefüggő beszélgetést folytatni. A nagyzási téveszmék a saját személyiség túlértékelésének hátterében jelennek meg. A munkahelyen a betegek rózsás kilátásokat építenek, pénzt fektetnek be kilátástalan projektekbe, és olyan irreális konstrukciókról és tervekről beszélhetnek, amelyek a való életben nem alkalmazhatók. Az alvásuk időtartama napi 3-4 órára csökken."
+
+#. Key:	73ECFF5940EAF4535C9013BCD524C434
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.TextBlock_121.Text
+msgctxt ",73ECFF5940EAF4535C9013BCD524C434"
+msgid "Громкость"
+msgstr "Kötet"
+
+#. Key:	617BCB5044891A3B417F0780BD2C91B9
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_10.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",617BCB5044891A3B417F0780BD2C91B9"
+msgid "Правильно ли я вас понял, что вы чувствуете влияние от электричества?"
+msgstr "Érzed az elektromosság hatását?"
+
+#. Key:	11.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_11.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,11.1"
+msgid "Правильно ли я вас понял, что вы чувствуете влияние от электричества?"
+msgstr "Érzed az elektromosság hatását?"
+
+#. Key:	654E49D14434A1CA11AAAC9B3ED350C1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/Enum_Speakers.Enum_Speakers.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",654E49D14434A1CA11AAAC9B3ED350C1"
+msgid "Психиатр"
+msgstr "Pszichiáter"
+
+#. Key:	D92507CB4AAF118FED83D29E3FCA3992
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/Enum_Speakers.Enum_Speakers.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",D92507CB4AAF118FED83D29E3FCA3992"
+msgid "Психиатр"
+msgstr "Pszichiáter"
+
+#. Key:	7CFD70D74BC9619CD04C7B8EB09EA178
+#. SourceLocation:	/Game/UI/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_81.Text
+msgctxt ",7CFD70D74BC9619CD04C7B8EB09EA178"
+msgid "Российская\r\nпсихиатрическая\r\nпастораль"
+msgstr "Orosz\nPszichiátriai\nLelkipásztori"
+
+#. Key:	84AFFCE44F2FF095722FD6A99DF96C8E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",84AFFCE44F2FF095722FD6A99DF96C8E"
+msgid "Скажите, вы бы хотели повелевать миром?"
+msgstr "Mondd csak, szeretnéd te uralni a világot?"
+
+#. Key:	AA6DFAB943B16B1702D9E4B4D7FC9087
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",AA6DFAB943B16B1702D9E4B4D7FC9087"
+msgid "Скажите, вы бы хотели повелевать миром?"
+msgstr "Mondd csak, szeretnéd te uralni a világot?"
+
+#. Key:	81ED683D4AB7D025920327B2778913BE
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_18.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",81ED683D4AB7D025920327B2778913BE"
+msgid "Понимаю, это сложно. Сколько уже лет ваша борьба продолжалась?"
+msgstr "Hány évig harcoltatok így?"
+
+#. Key:	19.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_19.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,19.1"
+msgid "Понимаю, это сложно. Сколько уже лет ваша борьба продолжалась?"
+msgstr "Hány évig harcoltatok így?"
+
+#. Key:	8AE0E99841C7B596225D8D998848DE49
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_28.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",8AE0E99841C7B596225D8D998848DE49"
+msgid "А чем занимаются эти женщины?"
+msgstr "Mit csináltak azok a nők?"
+
+#. Key:	29.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_29.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,29.1"
+msgid "А чем занимаются эти женщины?"
+msgstr "Mit csináltak azok a nők?"
+
+#. Key:	8B3447824D462B75C4C4FBBAA1611D2B
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_22.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",8B3447824D462B75C4C4FBBAA1611D2B"
+msgid "Так всё же, где вас задержала полиция?"
+msgstr "Hol tartóztatták le?"
+
+#. Key:	23.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_23.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,23.1"
+msgid "Так всё же, где вас задержала полиция?"
+msgstr "Hol tartóztatták le?"
+
+#. Key:	9237DCB947F1945DEB34E8BEF19DC02E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_24.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",9237DCB947F1945DEB34E8BEF19DC02E"
+msgid "О чем вы говорите?"
+msgstr "Miről beszélsz?"
+
+#. Key:	25.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_25.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,25.2"
+msgid "О чем вы говорите?"
+msgstr "Miről beszélsz?"
+
+#. Key:	9576055746DA8203DEF73D8367334AE1
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsMain.WB_ClassicSettingsMain_C:WidgetTree.TextBlock_903.Text
+msgctxt ",9576055746DA8203DEF73D8367334AE1"
+msgid "Отмена"
+msgstr "Törölje"
+
+#. Key:	95B638B44AA83DAD96C99E95845680F2
+#. SourceLocation:	/Game/UI/MainMenu/W_LanguageSelect.W_LanguageSelect_C:WidgetTree.TextBlock_108.Text
+msgctxt ",95B638B44AA83DAD96C99E95845680F2"
+msgid "English"
+msgstr "Angol"
+
+#. Key:	9675D4034D78C6C590038CACDEAADC96
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.TextBlock_9125.Text
+msgctxt ",9675D4034D78C6C590038CACDEAADC96"
+msgid "Voice"
+msgstr "Hang"
+
+#. Key:	95DD417E49E0C98362E1FB8B43681727
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_10.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",95DD417E49E0C98362E1FB8B43681727"
+msgid "Так получается, что Марина - это ваша одноклассница, которая со школы хочет украсть у вас гены?"
+msgstr "Ez azt jelenti, hogy Marina..."
+
+#. Key:	11.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_11.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,11.2"
+msgid "Так получается, что Марина - это ваша одноклассница, которая со школы хочет украсть у вас гены?"
+msgstr "Ez azt jelenti, hogy Marina..."
+
+#. Key:	9D37EDC543A2377D49F3C391BFC9D381
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",9D37EDC543A2377D49F3C391BFC9D381"
+msgid "Скажите, вам свойственно агрессивное поведение?\t"
+msgstr "Mondd, hajlamos vagy agresszívan viselkedni? "
+
+#. Key:	AA1509B441A4D68F8F288F8897293D0A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",AA1509B441A4D68F8F288F8897293D0A"
+msgid "Скажите, вам свойственно агрессивное поведение?\t"
+msgstr "Mondd, hajlamos vagy agresszívan viselkedni? "
+
+#. Key:	9F92BEFB4BE70C858E84C9BDA116F130
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_06.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",9F92BEFB4BE70C858E84C9BDA116F130"
+msgid "Расскажите, пожалуйста, подробнее, о каком напряжении вы говорите?"
+msgstr "Kérem, meséljen többet az Ön által említett áramról."
+
+#. Key:	7.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_07.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,7.1"
+msgid "Расскажите, пожалуйста, подробнее, о каком напряжении вы говорите?"
+msgstr "Kérem, meséljen többet az Ön által említett áramról."
+
+#. Key:	A2379F0B4A4E99DAEB8CC695970C1993
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_26.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",A2379F0B4A4E99DAEB8CC695970C1993"
+msgid "И что случилось в эту субботу?"
+msgstr "Mi történt szombaton?"
+
+#. Key:	27.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_27.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,27.2"
+msgid "И что случилось в эту субботу?"
+msgstr "Mi történt szombaton?"
+
+#. Key:	A35938A04DD286B85E74348120D4741A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_12.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",A35938A04DD286B85E74348120D4741A"
+msgid "А куда Марина могла спрятаться?"
+msgstr "Hol tudott Marina elbújni?"
+
+#. Key:	13.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_13.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,13.2"
+msgid "А куда Марина могла спрятаться?"
+msgstr "Hol tudott Marina elbújni?"
+
+#. Key:	A7960DA347E68CEB5F0B77A3C936BFD3
+#. SourceLocation:	/Game/UI/MainHUD/QTE/W_Tutorial.W_Tutorial_C:WidgetTree.TextBlock_59.Text
+msgctxt ",A7960DA347E68CEB5F0B77A3C936BFD3"
+msgid "Перед вами демонстрационный эпизод борьбы между двумя персонажами.\r\n\r\nВ моменты, когда герою предстоит увернуться от удара противника, \r\nвы увидите индикатор следующего вида:"
+msgstr "Itt van egy bemutató epizód a két karakter közötti harcról.\n\nAzokban a pillanatokban, amikor a hősnek ki kell térnie az ellenség csapása elől,\negy ilyen kijelzőt fogsz látni:"
+
+#. Key:	AD9D0EDE45AA3CCB2DBEE68F53008186
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(4).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt ",AD9D0EDE45AA3CCB2DBEE68F53008186"
+msgid "Как рубанул - и всё! В глазах все красным аж налилось от радости."
+msgstr "Elbuktam, és ennyi! A szemem vörös lett a boldogságtól!"
+
+#. Key:	B005B1E9469063BE357E509666E96EAF
+#. SourceLocation:	/Game/UI/MainHUD/QTE/W_Tutorial.W_Tutorial_C:WidgetTree.TextBlock_132.Text
+msgctxt ",B005B1E9469063BE357E509666E96EAF"
+msgid "Начать бой"
+msgstr "Kezdj el harcolni"
+
+#. Key:	ADCB35B747A4AFC7F6A6348A0DDEFA40
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_08.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",ADCB35B747A4AFC7F6A6348A0DDEFA40"
+msgid "А кто такие Марина и Катя?"
+msgstr "Beszéltél az ápolóknak Marináról és Katyáról. Kik ők?"
+
+#. Key:	9.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_09.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,9.2"
+msgid "А кто такие Марина и Катя?"
+msgstr "Beszéltél az ápolóknak Marináról és Katyáról. Kik ők?"
+
+#. Key:	B47071DD46C28B467569569234E0A760
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_08.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",B47071DD46C28B467569569234E0A760"
+msgid "Скажите, вы пробовали найти ответы на свои вопросы?"
+msgstr "Próbáltál választ találni a kérdéseidre?"
+
+#. Key:	9.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_09.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,9.1"
+msgid "Скажите, вы пробовали найти ответы на свои вопросы?"
+msgstr "Próbáltál választ találni a kérdéseidre?"
+
+#. Key:	B52D733443CCF9DD2C43429AC0EC217F
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Enum_ChapterType.Enum_ChapterType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",B52D733443CCF9DD2C43429AC0EC217F"
+msgid "Psychiatric"
+msgstr "Pszichiátriai"
+
+#. Key:	C44630464CC3C3CF2E5C8F9E52DE645B
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",C44630464CC3C3CF2E5C8F9E52DE645B"
+msgid "Вы понимаете, что поступки взрослого человека предусматривают ответственность за их последствия?\t"
+msgstr "Tisztában van azzal, hogy a felnőttek cselekedetei felelősséggel járnak a következményeikért? "
+
+#. Key:	C87737E94292FE817C3EE59E5E33B5E1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",C87737E94292FE817C3EE59E5E33B5E1"
+msgid "Вы понимаете, что поступки взрослого человека предусматривают ответственность за их последствия?\t"
+msgstr "Tisztában van azzal, hogy a felnőttek cselekedetei felelősséggel járnak a következményeikért?"
+
+#. Key:	C27EA9DA4600FDCBBBF0D780720A5FAF
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_14.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",C27EA9DA4600FDCBBBF0D780720A5FAF"
+msgid "Но ведь другие люди не чувствуют воздействия тока."
+msgstr "Másokat miért nem befolyásol az elektromosság?"
+
+#. Key:	CB9759734AC43CFFB5DBEA96A6D619BD
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_30.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",CB9759734AC43CFFB5DBEA96A6D619BD"
+msgid "Что же тогда с вами случилось?"
+msgstr "Mi történt veled ezután?"
+
+#. Key:	31.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_31.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,31.2"
+msgid "Что же тогда с вами случилось?"
+msgstr "Mi történt veled ezután?"
+
+#. Key:	D5391D39430AE7AE09973194FD8DAD48
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.ToolTip_AmbientVolume.ToolTipText
+msgctxt ",D5391D39430AE7AE09973194FD8DAD48"
+msgid "Background Volume"
+msgstr "Háttér kötet"
+
+#. Key:	D078C80046234724BD7FD892C40B4D68
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_06.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",D078C80046234724BD7FD892C40B4D68"
+msgid "Как я на вас влияю? И причем тут 35 киловатт? Это про электричество?"
+msgstr "Kérem, meséljen többet az Ön által említett áramról."
+
+#. Key:	7.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_07.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,7.2"
+msgid "Как я на вас влияю? И причем тут 35 киловатт? Это про электричество?"
+msgstr "Hogyan tudlak befolyásolni?"
+
+#. Key:	D91EFDAD428A6008E3FE9886B982003A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_04.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",D91EFDAD428A6008E3FE9886B982003A"
+msgid "Как я мог повлиять на вас?"
+msgstr "Hogyan tudlak befolyásolni?"
+
+#. Key:	5.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_05.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,5.2"
+msgid "Как я мог повлиять на вас?"
+msgstr "Hogyan tudlak befolyásolni?"
+
+#. Key:	DBD6C1954EEE607A09038CB956309F9B
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_12.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",DBD6C1954EEE607A09038CB956309F9B"
+msgid "А голоса в голове звучат, когда рядом никого нет?"
+msgstr "Mikor hallod a hangokat?"
+
+#. Key:	13.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_13.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,13.1"
+msgid "А голоса в голове звучат, когда рядом никого нет?"
+msgstr "Mikor hallod a hangokat?"
+
+#. Key:	DD1AEDF34D8551A0CA9DA9A528D0BD86
+#. SourceLocation:	/Game/UI/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",DD1AEDF34D8551A0CA9DA9A528D0BD86"
+msgid "Новая игра"
+msgstr "Új játék"
+
+#. Key:	F03A503F4E2EF64E2DBA9CB305288679
+#. SourceLocation:	/Game/UI/MainMenu/W_LanguageSelect.W_LanguageSelect_C:WidgetTree.TextBlock_58.Text
+msgctxt ",F03A503F4E2EF64E2DBA9CB305288679"
+msgid "Русский"
+msgstr "Orosz"
+
+#. Key:	1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_01.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,1.1"
+msgid "Здравствуйте! Скажите, что Вас к нам привело?"
+msgstr "Jó reggelt! Mit gondolsz, miért hoztak el hozzám?"
+
+#. Key:	1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_01.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,1.2"
+msgid "Добрый день! Расскажите, почему вас привезла полиция?"
+msgstr "Jó napot kívánok. Mit gondol, miért tartóztatta le önt a rendőrség?"
+
+#. Key:	10.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_10.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,10.1.1"
+msgid "Я навязчив????? Я быстро говорю?? Да ты посмотри, что вокруг происходит!! Все кругом меняется очень быстро. Нет никакой возможности успеть что-либо сделать. Я не могу понять как другие люди все это успевают, как могут спать по ночам! У меня мыслей в голове столько, что просто труба!!!! Одни планы- и это надо, и это, и пятое, и десятое. "
+msgstr "Én? Tolakodó? Túl gyorsan beszélek? Nézzen körül! Minden olyan gyorsan változik körülöttünk, hogy esélyünk sincs felzárkózni! Nem értem, hogy mások hogyan tudnak bármit is időben megcsinálni? Hogy tudnak éjszaka aludni?! Annyi gondolat jár a fejemben, rengeteg tervem van! Meg kell tennem ezt, azt, itt, ott... "
+
+#. Key:	10.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_10.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,10.1.2"
+msgid "Кругом одни должен должен должен. Нет никакой возможности ничего сделать. Все мельтишит перед глазами, все меняется… и в голове как будто рой пчел. Я пытаюсь с ними разобраться, отмахиваюсь, а они все равно текут очень быстро.. очень завязывают Я не понимаю грань, где надо остановиться. Я не понимаю, где надо нажать на тормоз. Все как будто сливается в единый поток. Все меняется, все забивается… "
+msgstr "Mindannyian azt mondják: \"Muszáj, muszáj!\" Nincs esélyem időben odaérni, minden villódzik, változik előttem! Mint egy méhraj a fejemben, próbálom elűzni őket, de csak jönnek és jönnek! Nem tudom a határt, hol álljak meg, NEM TUDOM, mikor kell fékezni! Minden egyetlen folyamattá olvad össze, változik, mint egy... "
+
+#. Key:	10.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,10.2.1"
+msgid "Я всегда спокоен! Ты кого обвиняешь в агрессивности, а?? Сам ты раздражительный! Я самый спокойный.. так и скажи всем!!! Я СА-МЫЙ СПО-КОЙ-НЫЙ!!!!!! Никогда я ни с кем не ругался. Никогда не шокировал никого. "
+msgstr "Én mindig nyugodt vagyok! Kit vádolsz azzal, hogy agresszív, mi? Te vagy ingerlékeny! Én vagyok a legnyugodtabb, mondd el másoknak - Én VAGYOK A LEGNYUGODTABB!!! Soha nem veszekedtem senkivel! Soha nem sokkoltam senkit! "
+
+#. Key:	10.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,10.2.2"
+msgid "Всегда был только расчет и логика. Только смысл…. Я всегда имею смысл-тысл-дрысл! Как я шучу, а???!!!! Все смеются моим шуткам!А кто не смеется – тот получает по почкам! Я самый смешной человек на Земле! А ты говоришь агрессивный. Совсем не агрессивный!! "
+msgstr "Mindig is számító és logikus voltam! Csak a józan ész! Mindig is észnél voltam - ezért - kerítés! Látod milyen vicces vagyok? Mindenki nevet a vicceimen! És ha nem, akkor szétverem a veséjüket! Én vagyok a legviccesebb fickó a Földön! És te azt mondod, hogy agresszív vagyok. SEMMI ilyesmi!!! "
+
+#. Key:	11.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_11.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,11.1"
+msgid "Хорошо, я подчеркнул для себя, что в течение последних 2 недель у вас чрезмерно повышенное настроение. из-за которого у вас снижена потребность во сне, вы практически совсем можете не спать несколько дней подряд у вас повышена мыслительная активность, повышена потребность в психоактивных веществах (алкоголь видимо, вы принимали для самолечения) повышено либидо, а также вы считаете, что открыли способ играть на бирже с помощью простого калькулятора, который сделает вас очень богатым. "
+msgstr "Rendben, feljegyzem, hogy az elmúlt 2 hétben magas volt a hangulatod. Emiatt csökkent az alvásigényed. Több napig is ébren tudsz maradni szinte alvás nélkül. Az agyi aktivitásod megnövekedett, valamint a pszichoaktív anyagok iránti igényed - öngyógyításra alkoholt használtál. Megnövekedett a libidód, és azt is gondolod, hogy egy egyszerű számológép segítségével felfedezted a tőzsdei fogadások új módját, amellyel nagyon gazdaggá válhatsz. "
+
+#. Key:	11.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_11.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,11.2"
+msgid "У вас был единичный эпизод галлюцинаций (голос в голове) а также из-за переоценки возможностей вы взяли кредит, который раздали неизвестным людям. При этом в отношениях с людьми не держите дистанцию, бывали раздражительны, часто переходите на «ты», а также нарушаете общественное спокойствие и закон, еще это называют деликвентный эквивалент мании… А вы употребляли какие-то наркотики в последнее время? Это бы все объяснило. "
+msgstr "Volt egy hallucinációs eseted, mármint a hang a fejedben. Te is túlbecsülted a képességeidet, felvettél egy pénzhitelt, és elajándékoztad idegeneknek. Emellett nem tartod a távolságot, amikor emberekkel beszélgetsz, ingerlékeny lehetsz, szidalmazod az embereket, valamint megszeged a köznyugalmat és a törvényeket. Ezt nevezik a mánia delikvens megfelelőjének. Mondd, kérlek, drogoztál mostanában? Az mindent megmagyarázhatna. "
+
+#. Key:	12
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_12.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,12"
+msgid "Ты че лепила лепишь??\r\nТы мне статью шьешь???!! Я уже сидел!!\r\nНе возьмете, волки позорные!!!"
+msgstr "Mi a fenét fecsegsz? Börtönbe akarsz juttatni? Már voltam ott! SOHA NEM KAPTOK EL, ROHADÉKOK! SOHA NEM KAPTOK EL! SOHA!!! "
+
+#. Key:	2.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_02.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,2.1.1"
+msgid "Я к вам пришел сам! Никто меня не имеет право приводить!! Я сам что хочу - то и ворочу! Кто вы тут все такие? Какое право у вас мной командовать?"
+msgstr "Én magam jöttem ide, senkinek sincs joga idehozni engem! Azt csinálok, amit akarok! Mit gondolsz, ki vagy te? Ki mondta, hogy parancsolhatsz nekem?"
+
+#. Key:	2.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_02.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,2.1.2"
+msgid "Мной в армии командовали, а я всех послал подальше. Нет никаких сил больше слушаться! С тех пор все и началось!!! Началось и покатилось… (начинает громко петь известную песню)"
+msgstr "A hadseregben parancsoltak nekem, és megmondtam nekik, hogy csesszék meg magukat! Annyira elegem van abból, hogy másoknak engedelmeskedjek, így kezdődött, így indult és így gurult... * Énekli a \"Volga folyik\" dalt* Messziről folyik a Volga folyó és én 30 éves vagyok!"
+
+#. Key:	2.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_02.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,2.2.1"
+msgid "Какая полиция??! Где полиция! Полиция милиция… развели тут ерунду какую-то!  У меня очень важная работа! Осталось немного и скоро я все разведу по местам!"
+msgstr "Mi a fenéért beszélsz a rendőrségről? Rendőrség - shmolice... ne légy nevetséges! Nagyon fontos dolgom van! Hamarosan megkönnyebbülök!"
+
+#. Key:	2.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_02.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,2.2.2"
+msgid "И Вас всех разведу, и все разводы разведу наведу!!! Как в армии разводы были!!! Прям с армейки и к вам в захолустье!"
+msgstr "Mindent és mindenkit felmentek! Mint a hadseregben az őrök leváltása! Elmegyek a hadseregből, és egyenesen a ti isten háta mögötti városotokba!"
+
+#. Key:	3.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_03.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,3.1"
+msgid "Если я правильно понял, то Вы не считаете себя в чём-то виноватым?"
+msgstr "Ha jól értem, nem gondolod, hogy bűnös vagy?"
+
+#. Key:	3.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_03.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,3.2"
+msgid "Вы не знаете, за что именно Вас задержали сотрудники полиции?"
+msgstr "Tudja, hogy a rendőrség letartóztatta egy bolti rablás miatt?"
+
+#. Key:	4.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_04.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,4.1.1"
+msgid "А в чем я виноват могу быть? Я просто угостил друзей!! Взял и угостил! А чего мне теряться??!!! Еще немного и меня все узнают, все запомнят!! Я прям так и сказал охраннику в магазине!! МЕНЯ ВСЕЕЕЕ УЗНАЮЮЮЮЮТ!"
+msgstr "Milyen bűntudatom lehet? Csak úgy bántam a barátaimmal, csak úgy! Nem vagyok egy szégyenlős ember, hamarosan mindenki meg fog ismerni, mindenki! Ezt mondtam az őrnek is a boltban - MINDENKI MEG fog ismerni engem!!!"
+
+#. Key:	4.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_04.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,4.1.2"
+msgid "Стоял перед ним и прямо в лицо кричал: МЕЕЕНЯЯЯ ВСЕЕЕЕЕ УУУУЗНААААААЮЮЮЮТ!\r\nА он мне все: «оплатите колбасу на кассе, а потом кушайте и угощайте других покупателей… так нельзя…» А мне то что все эти мелочи, а???!!! Это же копейки.. копейки-мопейки.. и прочий хлам! "
+msgstr "Álltam és az arcába kiabáltam: \"Meg fognak ismerni engem!\". De ő azt mondta nekem: \"Kérem, előbb fizesse ki a kolbászt, aztán megeheti, és kezelhet másokat, ezt nem teheti!\". Nekem ezek apróságok, csak fillérek! Fillérek, shmennik, haszontalan szemét! "
+
+#. Key:	4.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_04.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,4.1.3"
+msgid "У меня в голове план на 100 миллиардоов! Хотите я и вас колбасой угощу? У меня тут еще в кармане осталось, не смогли волки достать… скушайте, доктор, за мое здоровье и за удачу моего бизнеса!"
+msgstr "Van egy tervem, hogyan lehet 100 milliárdot keresni! Kérsz egy kis kolbászt?! Nekem maradt egy kevés a zsebemben, ezek a farkasok nem tudták megszerezni! Egye meg, doktor úr, az egészségemre, az üzleti tervemhez sok szerencsét, ne szégyenlősködjön!"
+
+#. Key:	4.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_04.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,4.2.1"
+msgid "Они меня задержали???!!! Это я с ними задержался!!! Мне надо завтра деньги делать.. фьючерсы-мючерсы-черное золото… ну ты понимаешь???!! Я хоть в школе и только 8 классов закончил, а потом ПТУ на маляра, а все равно смог лучше всех в бирже разобраться!!"
+msgstr "Egy kis fennakadás? Én magam döntöttem úgy, hogy feltartanak! Holnap pénzt kell keresnem... futures - mutures, fekete arany... Érted, ugye? Csak 8 osztályt végeztem az iskolában és festő tanfolyamokon, de én vagyok az első, aki rájött, hogyan működik a részvények kereskedelme!"
+
+#. Key:	4.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_04.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,4.2.2"
+msgid "Наверное кто-то смог ее придумать, а я смог ее раздумать! Я просто на калькуляторе складываю и делю и получается число сколько надо ставить и куда… понимаешь!! Я гений! Я знаю как заработать 100 миллиардов долларов, евро..."
+msgstr "Valaki valószínűleg feltalálta őket, de én nem találtam fel őket! Csak összeadok és elosztok egy kicsit a számológépen, és máris kapok egy számot, amire fogadni lehet... érted? Zseni vagyok! Tudom, hogyan lehet 100 milliárd dollárt, eurót keresni..."
+
+#. Key:	5.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_05.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,5.1"
+msgid "Если я правильно понял, то Вас задержали в супермаркете за то, что Вы, не оплатив, ели колбасу и угощали ей других покупателей? И при этом у вас совершенно не было денег, чтобы оплатить эту покупку. Но зато есть план как заработать на бирже очень-очень много денег. Это план по завоеванию всего мира?"
+msgstr "Ha nem tévedek, téged már letartóztattak egy szupermarketben, mert kolbászt ettél, és úgy vendégeltél meg vele másokat, hogy nem fizettél érte, és valójában nem volt pénzed, hogy kifizesd a kolbászt... De van egy terved arra is, hogy sok pénzt keress a tőzsdén... Ez valamiféle módja annak, hogy meghódítsd a világot?"
+
+#. Key:	5.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_05.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,5.2"
+msgid "Понятно, у вас были проблемы с охранником. Он не понял ваши грандиозные планы. А в чем именно заключались ваши планы? Деньги это только инструмент или вся суть имеющегося плана?"
+msgstr "Értem, gondja volt egy biztonsági őrrel. Nem értette a grandiózus terveidet. Pontosan mik voltak a tervei? A pénz csak eszköz a célhoz, vagy ez volt az egyetlen célja?"
+
+#. Key:	6.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.1.1"
+msgid "Ты меня за дурака тут держишь штоли? Какое завоевание мира? Кому он нужен, когда у тебя секрет зарабатывания денег! Мне не нужен мир, я просто куплю всё и всех! И почему бы и не купить, если ты на простом калькуляторе можешь угадать исход торгов?"
+msgstr "Azt hiszed, hogy bolond vagyok? Hogy meghódítom a világot? Kinek van rá szüksége, ha van egy pénzkereső titkod? Nekem nem kell az egész világ, egyszerűen megveszek mindent és mindenkit! Miért ne tenném, amikor egy egyszerű számológéppel is meg lehet találni a kereskedés eredményét?"
+
+#. Key:	6.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.1.2"
+msgid "Нет, я не псих с манией величия, я простой отделочник, который догадался как заработать много денег! Я и раньше пытался ставки делать, но ничего не выходило! А тут 2 недели назад «как свет включился»! У меня внутри все заколыхалось, никак не мог себя остановить, как будто ядерный реактор в меня попал и теперь на атомном ходу…"
+msgstr "Nem, nem, nem, nem, nem vagyok megalomániás, csak egy társam, aki rájött, hogyan lehet sok pénzt keresni!!! Próbáltam már korábban is fogadni a tőzsdén, de nem jött be. De 2 héttel ezelőtt egy villanykörte kigyulladt a fejemben! Minden elkezdett mozogni, nem tudtam megállítani, mintha egy atomreaktor bennem teljes gázt adott volna, és..."
+
+#. Key:	6.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.1.3"
+msgid "Это я образно, не подумай, что я псих! Просто мог совсем не спать.. не хотелось. Сон это для слабаков!! Планов у меня миллион! Жена от меня пряталась, так постоянно хотелось секса!! По началу ей даже нравилось, а потом стало не в моготу."
+msgstr "Ez csak egy metafora, ne higgyétek, hogy megőrültem, csak... egyáltalán nem kellett aludnom, nem is akartam! Az alvás a gyengéknek való, milliónyi tervem van! A feleségem elkezdett bujkálni előlem, azelőtt annyi szexet akart, eleinte még tetszett is neki a módszereim, most meg kimerült!"
+
+#. Key:	6.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.2.1"
+msgid "Какие деньги, какой план-шман-рататан????!!! Ты о чем, лепила? Я тебе про Фому, ты мне про Ерему… Все же просто! Я две недели не спал, не хотелось, совсем, понимаешь? Это так бывает у великих людей. У Наполеона было, у Илона Маска и еще много у кого! И когда такой бодряк прет, что либо жену тр№хать, либо ставки делать!"
+msgstr "Mit értesz pénz alatt, valami terv - shman - ratatan?! Miről beszélsz? Én almát mondok - te narancsot... Ez könnyű! Két hete nem aludtam, csak nem akartam, érted? Sok nagyszerű embernek van ez a közös dolga. Napóleon, Elon Musk és még sokan mások! Ha ennyi lendület van benned, akkor vagy megdugod a feleséged, vagy fogadásokat kötsz!"
+
+#. Key:	6.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.2.2"
+msgid "Я еще вином заливался, поболе чем обычно, литра по 2 коньяка выпивал, а мне все ни по чем, не берет меня он, не усыпляет! И Мысли мысли мысли в голове…. Я все понял!! На работу пошел - поругался с начальником!А че он мне заладил – сделай это, сделай то… кому это надо?!"
+msgstr "Nagyon sok piát ittam, többet a szokásosnál, napi 2 liter konyakot, de nem érdekelt, egyáltalán nem ütött ki! Rengeteg gondolat, gondolatok a fejemben... És meg is kaptam! Elmentem dolgozni - összevesztem a főnökömmel! Ő kezdte ugyanezt - csináld ezt, csináld azt... Kinek kell ez?!"
+
+#. Key:	6.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.2.3"
+msgid "Я его прямо с порога и послал. Потом понял как ставки правильно делать! И пошел в магаз перекусить. Это не моя цель была, а только промежуточная точка! Ну а там охранник этот, ну и дальше ты знаешь..."
+msgstr "Mondtam neki, hogy csessze meg magát azonnal! Én meg megkaptam, hogyan kell rendesen fogadásokat kötni, és elmentem a boltba harapni valamit. Nem ez volt a végső célom, csak egy köztes! Aztán az őr elkapott, és a történet többi részét ismeritek..."
+
+#. Key:	7.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_07.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,7.1"
+msgid "Вы выглядите очень неопрятно. Что у вас произошло? Почему вы не следите за своим внешним видом?"
+msgstr "Nagyon ápolatlannak tűnsz, történt valami? Miért nem törődsz a külsőddel?"
+
+#. Key:	7.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_07.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,7.2"
+msgid "В таком состоянии люди часто решаются на необдуманные поступки, тратят много денег. Было ли у вас что-то подобное?"
+msgstr "Az ilyen állapotban lévő emberek általában meggondolatlan döntéseket hoznak, sok pénzt költenek. Volt valami hasonló?"
+
+#. Key:	8.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.1.1"
+msgid "Опрятно-неопрятно-безопрятно!!! Сам ты неопрятный! Я всех опрял и все опрял. Нет никаких мыслей кроме денег я совсем не спал несколько дней, мне некогда было мыться и есть… только коньяк и игра на бирже. По началу, когда я еще не открыл секрет игры, я пробовал достать деньги в обычных местах, там где и все достают. Взял кредит, потом второй, третий..."
+msgstr "Ápolt, ápolatlan, ápolatlan, ápolatlan... Nézz magadra! Mindent és mindenkit kigyomláltam, a pénz az egyetlen gondolatom... Napok óta nem aludtam, nem volt időm zuhanyozni és enni - csak konyak és tőzsdei fogadások! Eleinte, amíg rá nem jöttem a titkomra, a szokásos helyeken próbáltam pénzt szerezni, ahol mások is kapnak, megkaptam az első pénzkölcsönömet, aztán a másodikat, a harmadikat..."
+
+#. Key:	8.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.1.2"
+msgid "Сейчас же кредиты в интрнете выдают. Никто даже на меня не посмотрел. Сразу деньги на карту перевели и все. А я когда первый кредит взял, то вышел на улицу и раздал все людям, до последней копейки! Я просто увидел какая погода хорошая, как солнце светит на всех, как настроение поднимается… и раздал всем по тыще, да по целой тысяче раздал!"
+msgstr "Most már online is megteheted, senki sem ellenőrizte a személyazonosságomat, azonnali átutalás a kártyámra, és ennyi! Amikor megkaptam az első hitelemet, kimentem és az utolsó fillérig ELADTAM MINDENT! Csak néztem, hogy milyen jó idő van, hogy süt a nap, milyen jó kedvem van, és elajándékoztam fejenként 1000 rubelt!"
+
+#. Key:	8.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.1.3"
+msgid "Они брали! Сначала боялись брать, а потом начали один, второй, третий... Потом даже стали ругаться когда деньги кончились!! Стали оскорблять меня… вот люди… даешь берут, а потом еще злятся...для меня это стало как красная тряпка для быка! Я начал злится на них в ответ, подрался даже с одним!"
+msgstr "És mindannyian bevették! Először nem voltak biztosak benne, de aztán 1 fickó elvette, a második, a harmadik... Még szidalmaztak is, amikor elfogyott a pénzem, még sértegettek is, mi a fene bajuk van? Nekem ez olyan volt, mint a vörös rongy a bikának! Először csak dühös lettem, de aztán... még a seggüket is szétrúgtam!"
+
+#. Key:	8.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.2.1"
+msgid "НЕЕЕЕТ! Ты что мне тут плетешь? Я всегда очень ответственно ко всему отношусь. Нет никаких необдуманных-думанных-продуманных поступков! Все очень правильно!!! Я не могу ошибаться! Я все же верно делаю!! Я вообще самый верный из всех верных."
+msgstr "Neeee, miről beszélsz? Én egy nagyon felelősségteljes ember vagyok! Nincsenek elhamarkodott - elhamarkodott - elhamarkodott döntések! Minden rendben van! Soha nem tévedhetek! Mindent helyesen csinálok! Én vagyok a legkorrektebb korrekt ember!"
+
+#. Key:	8.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.2.2"
+msgid "Мне так и сказал голос однажды- «ты самый верный». Это было как озарение! Как будто дух в голову спустился в виде лебедя и осенил меня знамением!!! Жаль, правда, что это только однажды было… Один раз только поговорил со мной.. как раз в тот день я всем деньги раздал. а что деньги, они же бумажки простые. Я так и сказал в банке – дайте мне бумажек, побольше А потом раздал всем.. я был на высоте тогда."
+msgstr "Pontosan ezt mondta nekem egyszer a hang: \"Te vagy a leghelyesebb\" Olyan volt, mint egy felismerés! Mintha egy szellem szállt volna le a fejembe, mint egy hattyú, és tudással ajándékozott volna meg! Kár, hogy csak egyszer történt meg velem... Csak egyszer szólt hozzám... ugyanazon a napon, amikor elajándékoztam a pénzemet. Pénzt... csak papírdarabokat... Ezt mondtam a bankban - \"Adjatok sok papírt!\". És odaadtam... Akkoriban voltam a legjobb formában."
+
+#. Key:	8.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.2.3"
+msgid "Люди ко мне подходили, смотрели на  меня как на важного человека, обходили меня со стороны и не могли успокоиться. я чувствовал себя тогда властелином мира!!! Властелином всего мира!И тут луч солнца меня осветил и как удар молнией этот голос в голове! Он прозвучал долю секунды, но я сразу понял что это ко мне обращается!!!!! ДУУУУУУУУУХХХ!!!"
+msgstr "Az emberek odajöttek hozzám, olyan tisztelettel néztek rám, körülöttem görnyedtek, annyira izgatottak voltak, én pedig úgy éreztem, hogy én vagyok a világ ura! Az egész VILÁG uralkodója! Hirtelen egy napsugár ért el, és mint egy HOMÁLYCSAPÁS, úgy jelent meg a hang a fejemben! Csak a másodperc töredékére, de hallottam, hogy hozzám beszél! Egy Szellem!"
+
+#. Key:	9.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_09.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,9.1"
+msgid "Вам кто-то говорил в этот момент, что вы слишком возбуждены?\r\nможет быть, слишком много и быстро говорите,\r\nили слишком навязчивы к людям в этот момент?"
+msgstr "Mondták neked akkoriban, hogy túlságosan izgatott voltál? Talán túl sokat vagy túl gyorsan beszélt? Vagy talán túl tolakodó voltál az emberekkel? "
+
+#. Key:	9.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_09.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,9.2"
+msgid "Вы ругались в это время с кем-то? Можно сказать, что вы были слишком раздражительны?"
+msgstr "Veszekedtél akkoriban valakivel? Mondhatjuk, hogy ingerlékeny voltál?"
+
+#. Key:	GameSettings
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsGame.WB_ClassicSettingsGame_C:WidgetTree.Title.Text
+msgctxt "Menu,GameSettings"
+msgid "Настройки игры"
+msgstr "Játékbeállítások"
+
+#. Key:	Language
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsLanguage.WB_ClassicSettingsLanguage_C:WidgetTree.ToolTip_Resolution.ToolTipText
+msgctxt "Menu,Language"
+msgid "Language"
+msgstr "Nyelv"
+
+#. Key:	Sound
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsMain.WB_ClassicSettingsMain_C:WidgetTree.TextBlock_7337.Text
+msgctxt "Menu,Sound"
+msgid "Звук"
+msgstr "Audio"
+
+#. Key:	1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_01.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,1.1"
+msgid "Здравствуйте. Расскажите, что вас к нам привело?"
+msgstr "Üdvözletem! Mi szél hozta ide?"
+
+#. Key:	1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_01.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,1.2"
+msgid "Добрый день. Расскажите, на что жалуетесь?"
+msgstr "Van valamilyen panasza?"
+
+#. Key:	10.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.1.1"
+msgid "Я искал в интернете. Сложно было мне это сделать, ведь там тоже ток. Кругом ток, кругом реверберация. И на том сайте было написано, что такое бывает."
+msgstr "Utánanéztem az interneten... ez nagyon nehéz volt. Mert van benne áram, elektromosság, visszaverődés... és az a honlap azt mondta, hogy létezhet."
+
+#. Key:	10.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.1.2"
+msgid "И в США, и в Израиле. в Израиле была моя сестра. Правда, давно уже, то время прошло. Да, давно миновало, всё минует. Всё пройдёт, всё минует."
+msgstr "Ahogy az Egyesült Államokban, Izraelben is... a nővérem Izraelben volt. De ez már nagyon régen volt, már minden elmúlt. Minden elmúlik, mindennek vége lesz, mindennek vége lesz..."
+
+#. Key:	10.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.2.1"
+msgid "Марина со мной в школе училась. Красивая была! Очень красивая. Пока не стала у меня гены отнимать."
+msgstr "Marina velem együtt tanult az iskolában, csinos volt, nagyon csinos. Amíg el nem kezdte elvenni a génjeimet..."
+
+#. Key:	10.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.2.2"
+msgid "Ну как так можно? Я в столовую, и она за мной. Я домой, и она домой. У меня гены кончаются же! Потом начала через столбы эти отнимать..."
+msgstr "Hogy tehette ezt?! Elmegyek a kantinba, ő pedig követ... Hazamegyek, és ő is. És én kifogyok a génekből!!!! Most már a közműpóznákat használja!!!"
+
+#. Key:	10.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.2.3"
+msgid "Голоса, голоса, голоса, никогда не прекращаются. Всё говорят, говорят.. Марина, Марина, Марина! "
+msgstr "És a hangok, hangok, hangok, hangok... soha nem hagyják abba. Folyton beszélnek... Marina, Marina, Marina, Marina... "
+
+#. Key:	12.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_12.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,12.1"
+msgid "Конечно, чувствую. Я чувствую его всем телом, всем мозгом. Когда бежит ток по проводам, у меня дрожь во всём теле, а в голове звучит голос."
+msgstr "Persze, hogy tudom! Érzem a testemben, az agyamban. Amikor az áram átmegy a vezetékeken, az egész testem megremeg. És van egy hang a fejemben."
+
+#. Key:	12.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_12.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,12.2"
+msgid "Точно! А то ты не знал. Марина - вот кто виноват во всех моих бедах. Жаль, что она спряталась, мне непросто ее достать."
+msgstr "Pontosan!!! Úgy teszel, mintha nem tudnád! Marina, ő a bűnös mindenben, ami velem történik... Kár, hogy bujkál, és nem tudom elkapni..."
+
+#. Key:	14.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.1.1"
+msgid "Да вчера вот звучал ночью. Я уже проснулся, а он всё звучит и звучит. Я понимаю, что рядом никого нет - он сразу в мозге появляется."
+msgstr "Tegnap éjjel felébredtem, de csak beszélt és beszélt... Rájöttem, hogy senki sincs körülöttem, az agyamban történik, elektromosságból táplálkozik."
+
+#. Key:	14.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.1.2"
+msgid "Берёт там от электричества. Ток - это же линия. И извилины в мозге тоже как линии, понимаешь?"
+msgstr "Az áram sorban halad. És az agytekervények is vonalak! Érted?"
+
+#. Key:	14.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.1.3"
+msgid "Когда эти линии совпадают, то появляется голос. А Марина в школе физику лучше всех знала. Она и настроила ревербератор, чтобы мне неприятные вещи говорить сразу прямо в голову."
+msgstr "És amikor ezek a sorok egyeznek, a hang megjelenik... Marina volt a legjobb az iskolai fizikából. Ő volt az, aki beállította ezt a reverberátort, hogy csúnya dolgokat mondjon egyenesen a fejembe."
+
+#. Key:	14.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.2.1"
+msgid "Она на электростанции работает. Знает, что я туда не могу прийти - там всё закрыто, забор. Вот и шлёт мне через провода сигналы прямо в мозг, что у меня в голове голоса появляются."
+msgstr "Az erőműben dolgozik! Tudja, hogy nem mehetek oda, minden le van zárva. Ezért küldi a jeleket egyenesen az agyamba, ezért vannak a hangok."
+
+#. Key:	14.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.2.2"
+msgid "Ничего не слушаю, кроме ее голоса. Сначала она хвалила меня, а теперь только угрожает."
+msgstr "Csak a hangját hallom... Először dicsért engem, most meg csak fenyegetéseket hallok."
+
+#. Key:	15.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_15.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,15.1"
+msgid "Но ведь другие люди не чувствуют воздействия тока. Почему у вас это происходит?"
+msgstr "Másokat miért nem befolyásol az elektromosság?"
+
+#. Key:	15.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_15.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,15.2"
+msgid "А почему Марина к вам так неравнодушна? Почему она воздействует на вас?"
+msgstr "Miért zavar téged ennyire Marina?"
+
+#. Key:	16.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.1.1"
+msgid "Я же говорил, что у меня гены есть. У меня отец умел с одного выстрела утку убить даже ночью, даже когда пьяный был! А мама всегда суп варила."
+msgstr "Megmondta, hogy minden a génjeimben van. Apám egy lövéssel meg tudott ölni egy kacsát, még éjszaka is, még részegen is... Anyám olyan leveseket főzött, amilyeneket senki más nem tudott!"
+
+#. Key:	16.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.1.2"
+msgid "Никто так не варил. Теперь понял, почему у меня такие гены? А они хотят их забрать и клонировать. Сделать суперчеловека, наверное. А так я не знаю, она же мне не объясняет. ПРосто голосом галдит и всё."
+msgstr "Most már érted, miért vannak ilyen génjeim! El akarják venni őket, klónozni akarják őket, hogy emberfelettit hozzanak létre, valószínűleg... Nem vagyok benne biztos. Nem magyarázza el nekem mindezt, csak beszél tovább."
+
+#. Key:	16.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.1"
+msgid "Это со школы началось. Она из-за генов на меня ополчилась. Она подходила тогда после танцев - классе в восьмом, наверное."
+msgstr "Az iskolában kezdődött, a génjeim miatt volt ellenem. A buli után közeledett felém... valószínűleg 8. osztályban."
+
+#. Key:	16.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.2"
+msgid "А я всегда тихий был, на задней парте сидел и ни с кем не общался. Дружил только с Толиком. "
+msgstr "Mindig is csendes voltam, az osztály hátsó részében ültem. Nem beszéltem senkivel, az egyetlen barátom Tolik volt... "
+
+#. Key:	16.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.3"
+msgid "А тут она подходит, начинает на танец звать. Я тогда не понял, застеснялся, убежал просто."
+msgstr "Hirtelen odajött hozzám, és felkért, hogy táncoljak vele! Nem értettem a célzását, és zavartan elfutottam."
+
+#. Key:	16.2.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.4"
+msgid "А когда в 19 лет в первый раз голос услышал в голове, сразу понял, что это Маринка, и всё стало на свои места."
+msgstr "Amikor 19 évesen először hallottam a hangot, rájöttem, hogy Marina az. Minden összeállt."
+
+#. Key:	17.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_17.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,17.1.1"
+msgid "Когда вас привезли, у вас на голове была слепленная из фольги каска. Она весила почти пять килограмм."
+msgstr "Amikor idehozták, alufólia sapkát viselt..."
+
+#. Key:	18.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.1.1"
+msgid "Я сам ее сделал. Это мой антимаринатор. Только им и спасался. Сначала голоса потише стали, потом по ночам их совсем не было."
+msgstr "Én magam készítettem. Ez az én antimarinátorom. Ez volt az egyetlen módja, hogy megmentsem magam. Ez volt az egyetlen módja, hogy megmentsem magam."
+
+#. Key:	18.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.1.2"
+msgid "А они напряжение увеличили, видимо, и они пошли снова. Тогда я усилил. Свинец из аккумулятора выпаял, потом пришлось схемы искать и в конце градусник. "
+msgstr "Aztán úgy tűnik, megemelték a feszültséget, és a hangok visszatértek... Szóval javítanom kellett a sisakomat. Leforrasztottam a vezetéket az akkumulátorról. Aztán meg kellett keresnem az áramköröket... és a hőmérőt... "
+
+#. Key:	18.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.1.3"
+msgid "А они всё больше и больше растят ток. Я им уже кричу - не надо больше! Шапка не помогает. А они больше 35 киловатт - и всё, я больше не смог."
+msgstr "De folyamatosan növelték a feszültséget! Kiabáltam: \"Állítsátok le!\". Ez a sapka már nem segít. Több mint 35 kilowattot adtak nekem. Nem bírtam tovább..."
+
+#. Key:	18.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.2.1"
+msgid "Да как и все. Гонка вооружений! Они ток, а я - противоток. Антимаринатор! Ничего личного, только бизнес."
+msgstr "Ugyanaz, mint a többiek... fegyverkezési verseny... Ők áramot adnak, én ellenáramot! Semmi személyes, csak üzlet!"
+
+#. Key:	18.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.2.2"
+msgid "На войне все средства хороши. Вот они забегали тогда. Даже квартплату за электричество подняли. А я хожу себе в шляпе, и довольный."
+msgstr "A szerelemben és a háborúban minden tisztességes! Ez tartotta őket mozgásban... még a villanyszámlákat is megemelték. Ez tartotta őket mozgásban... még a villanyszámlákat is megemelték."
+
+#. Key:	18.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.2.3"
+msgid "Никому гены не дам. Даже на работу тогда смог выйти - кондуктором троллейбуса. Да, а кто мне под шапку заглянет? Никто. Вот летом стало заметно, и меня уволили."
+msgstr "Nem adom a génjeimet senkinek. Nem adom a génjeimet senkinek. Ki láthatná meg a valódi kalapom alatt? Senki. De idén nyáron meglátták, és kirúgtak."
+
+#. Key:	2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_02.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,2.1"
+msgid "Меня полицай привёл. Прямо взял за руку и привёл. Как под венец ведут, понимаешь."
+msgstr "Egy rendőr hozott ide. Fogta a karomat. Mint az esküvőkön, tudod?"
+
+#. Key:	2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_02.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,2.2"
+msgid "Я на тебя жалуюсь, понимаешь? Ты на меня, а я на тебя. А что ты думал? Всё так и будет! Ты меня ещё не забыл?"
+msgstr "Panaszkodom rád, érted? Én rólad és te rólam! Mit gondolsz, mi fog történni? Még mindig nem felejtettél el engem?"
+
+#. Key:	20.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.1.1"
+msgid "Лет пять, наверное. Я тогда и из университета ушёл, и работать не смог. Мама меня поддерживала сначала, даже писала вместе со мной в полицию, в прокуратуру."
+msgstr "Azt hiszem, 5 évig... Akkoriban otthagytam az egyetemet, és nem tudtam dolgozni... Anyám eleinte támogatott, még a rendőrségen és az ügyészségen tett feljelentésekben is segített."
+
+#. Key:	20.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.1.2"
+msgid "А потом устала и не стала бороться. Пенсия у нее маленькая, на квартплату уходит и поесть купить."
+msgstr "Hamarosan belefáradt ebbe a küzdelembe. A nyugdíja kevés, éppen csak a lakbérre és az élelemre elég."
+
+#. Key:	20.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.1.3"
+msgid "Микросхемы пришлось на свалке искать. Хорошо, что добрые голоса подсказывали, какие брать надо. Вот, что значит, правильные-то гены."
+msgstr "A szeméttelepeken kellett áramköröket keresnem. Még jó, hogy a kedves hangok adtak tippeket, hogy melyik áramköröket vegyem. Erre valók a jó gének!"
+
+#. Key:	20.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.2.1"
+msgid "Тяжело было зимой. Там все свалки заваленные под снегом, собак много, а порой волки заходят. Там микросхемы не найдёшь."
+msgstr "Télen nehéz volt. Minden lerakóhelyet betemetett a hó, rengeteg kóbor kutya, sőt farkasok is. Nem találtam ott a köröket."
+
+#. Key:	20.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.2.2"
+msgid "А мне без них никак. Когда мама перестала мне верить и не стала бороться, то я всё сам. А она только на еду мне давала и на пряники."
+msgstr "De én sem tudnék nélkülük élni! Amikor anyám abbahagyta a küzdelmet, mindent egyedül kellett csinálnom. Csak ételre és édességre adott pénzt."
+
+#. Key:	22.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.1.1"
+msgid "Конечно. К неврологу поначалу ходил, когда бессонница была. Она мне таблетки давала, я их пил. Ну, одну-вторую. Но не спал всё равно."
+msgstr "Természetesen felkerestem a neurológust, amikor álmatlanságom volt. Ő tablettákat adott nekem. Szedtem őket, egyik tablettát a másik után, de nem tudtam elaludni..."
+
+#. Key:	22.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.1.2"
+msgid "А потом голоса пошли. Я доктору сказал, а она отшутилась. Сказала, что я всё себе придумал, устал на сессии. Что мне надо отдохнуть."
+msgstr "Aztán megjelentek a hangok. Elmondtam ezt az orvosnak, ő csak nevetett rajta, azt mondta, hogy csak kitaláltam az egészet, hogy túl fáradt vagyok. Hogy pihennem kell."
+
+#. Key:	22.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.1.3"
+msgid "А потом голос запретил к ней ходить."
+msgstr "Aztán a hang megtiltotta, hogy meglátogassam."
+
+#. Key:	22.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.2.1"
+msgid "Да мама сама врач. Электрофизиолог. Она всю жизнь мозг исследовала. Эпилепсию, все болезни знает."
+msgstr "Anyám orvos volt, elektrofiziológus. Egész életében az agyat tanulmányozta, az epilepsziát, minden betegséget ismer."
+
+#. Key:	22.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.2.2"
+msgid "Когда я маленький был, она меня к себе в лабораторию брала, опыты показывала. И на обезьянах, и на людях. Я ей больше всех верю."
+msgstr "Amikor kisfiú voltam, elvitt a laboratóriumába, és különböző kísérleteket mutatott nekem. A csimpánzokon és az embereken is... Jobban bízom benne, mint bárki másban."
+
+#. Key:	23.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_23.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,23.2"
+msgid "А мама вызвала полицию? Или кто? Ну, чтобы вас забрали."
+msgstr "Ki hívta a rendőrséget?"
+
+#. Key:	24.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_24.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,24.1"
+msgid "Я уже почти всё закончил. Нарубился вдоволь!"
+msgstr "Majdnem mindent befejeztem. Eleget vágtam már ki belőlük!"
+
+#. Key:	24.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_24.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,24.2"
+msgid "Я не знаю, кто вызвал. И что вызывать-то? Я уже писал - уменьшайте, или я сам уменьшу! Сколько писем им отправил, а они никак."
+msgstr "Nem tudom, ki hívta őket... és mi értelme? Írtam nekik... kértem, hogy csökkentsék, vagy megcsinálom én magam! Annyi levelet küldtem nekik, de hiába."
+
+#. Key:	26.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.1.1"
+msgid "Столбы я рубил, что же ещё? Нет ,я не хотел сначала. Их же люди ставили, а мы с мамой за них платили налоги там."
+msgstr "A közműpóznák kivágása! Mi más... Először nem akartam. Az emberek telepítették őket, én és az anyám fizettük őket, mármint az adót..."
+
+#. Key:	26.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.1.2"
+msgid "Я им просто писал - уменьшайте напряжение, не надо ничего говорить! Просто уменьшайте! Мне сначала написали, что передали моё заявление в комиссию, а потом просто перестали отвечать."
+msgstr "Könyörögtem nekik, hogy csökkentsék a feszültséget, nem kell mondani semmit, csak csökkentsék. Először azt válaszolták, hogy továbbítják a kérelmemet a feletteseknek, aztán nem válaszoltak."
+
+#. Key:	26.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.1.3"
+msgid "Я пишу и пишу им, у меня шлем уже не работает, кончается, на коже дрожь, в голове голос."
+msgstr "Továbbra is írtam őket. A sisakom már nem működik, lemerült. A bőröm megborzong, a hang a fejemben..."
+
+#. Key:	26.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.2.1"
+msgid "А я - о том, что я предупреждал. Я писал и обращения, и просто письма. Брал бумагу и писал. Я хорошо пишу, я в школе почти же отличником был, на 5 учился, только по физре 4."
+msgstr "Úgy értem, figyelmeztettem őket... Írtam nekik. Kérvényeket, hivatalos leveleket. Igazi papíron. Jó a kézírásom, majdnem kitűnő voltam az iskolában. Csak tesiből volt négyesem."
+
+#. Key:	26.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.2.2"
+msgid "Ну это потому, что я боялся всех. А тут не ответили раз, не ответили два, не ответили три, а наоборот - давай напряжение более чем 35 киловатт!"
+msgstr "De csak azért, mert féltem másoktól... Szóval, nem válaszoltak nekem egyszer, kétszer, háromszor... Csak mentek tovább 35 kilowatt fölött!!!"
+
+#. Key:	26.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.2.3"
+msgid "Ну я уже не смог. А в тот день суббота была. Хорошая такая, светлая, теплая."
+msgstr "Nem bírtam volna elviselni... Szombat volt aznap. Olyan jó volt, olyan fényes, meleg..."
+
+#. Key:	28.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.1.1"
+msgid "Тогда нервы у меня дрогнули, не могу я так. Нашёл деревянные столбы и давай рубить налево-направо, только щепки летели! Ничего не вышло у них."
+msgstr "Elfogyott a türelmem, nem tudtam tovább ilyen lenni. Találtam ezeket a faoszlopokat, és elkezdtem kivágni őket jobbra-balra. A forgácsok mindenfelé repkedtek. A tervük tönkrement!"
+
+#. Key:	28.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.1.2"
+msgid "После пятницы суббота - знаете такую поговорку? Вот я и показал им кузькину субботу! Сразу все заглохли - и Марина, и вторая, как ее, не помню..."
+msgstr "Péntek után mindig van szombat. Hallottál már erről a közmondásról? Megmutattam nekik az igazi szombatot! Egy pillanat alatt befogták a szájukat! Marina igen, és a második... hogy is hívták?"
+
+#. Key:	28.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.2.1"
+msgid "Я топор нашёл у соседа. Ну, взял, в смысле. Взял и пошёл. Думал, сначала погрожу просто. Просто! Может, образумятся."
+msgstr "A fejszét a szomszédomnál találtam, vagyis én vittem oda. Gondoltam, megfenyegetem őket vele, és majd meggondolják magukat."
+
+#. Key:	28.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.2.2"
+msgid "Пришёл к горсовету, стою, топором машу, а они ни в какую! Сидят, пугают меня по электросвязи. Я тогда по земле стучу - а они стучат по мозгам!"
+msgstr "Az áramszolgáltatóhoz jöttem. Álltam, hadonásztam a fejszével, semmi hatás. Folyamatosan ijesztgettek az árammal. Elkezdtem ütögetni a földet!!! És ütöttek... pont az agyamba!!!"
+
+#. Key:	30.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.1"
+msgid "Она зам по генам у них. Как только ударил топором первый раз - сразу все заглохли. Тогда я понял, что так и надо. И давай рубить, рубить, рубить!"
+msgstr "Ő volt a génfőnök közöttük. A fejszém első csapására mind elhallgattak. És rájöttem, hogy tovább kell mennem, így elkezdtem vágni és vágni..."
+
+#. Key:	30.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.2"
+msgid "У меня сила откуда-то взялась. Никогда не был так счастлив. На руках до кровавых мозолей натёр ладони, занозы, ногти черные, а я рад как никогда!"
+msgstr "Fogalmam sincs, honnan van ennyi energiám. Soha nem voltam még ilyen boldog. Véres bőrkeményedések voltak a tenyeremen, szálkák, fekete körmök, de én voltam a legboldogabb fickó!"
+
+#. Key:	30.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.3"
+msgid "Это моя победа, это моя война, это мой рейхстаг! Я не знаю, сколько это продолжалось, я потерял счет времени."
+msgstr "Ez az én győzelmem, az én háborúm, az én Reichstagom!!! Nem tudom, mióta csinálom ezt... Elvesztettem az időérzékem."
+
+#. Key:	30.1.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.4"
+msgid "Только стук - и песня в голове, марш праздника - \"Этот день победы порохом...\" - вот так вот!"
+msgstr "Emlékszem a kopogásra és egy dalra a fejemben... Egy ünnepi menet! (énekelve) \"Ez a győzelem napja!\" - Így!"
+
+#. Key:	30.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.1"
+msgid "Я всегда был очень тихим. Можно даже сказать, робким. Всегда всех боялся, ни разу ни с кем не дрался, в школе даже."
+msgstr "Mindig is nagyon csendes, sőt félénk fickó voltam. Mindig féltem mindenkitől... Soha nem veszekedtem senkivel. Még az iskolában sem..."
+
+#. Key:	30.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.2"
+msgid "А тут - не знаю, откуда во мне сила взялась. Я отошёл в посадку рядом, там, где деревянные столбы с электролинией, и давай лупить топором по проводам!"
+msgstr "Fogalmam sincs, honnan volt akkoriban ennyi erőm. Elmentem egy telepítéshez, ahol a fa közműpóznák voltak, és elkezdtem őket a fejszével csapkodni..."
+
+#. Key:	30.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.3"
+msgid "Доктор, если б ты слышал, как они завыли! Они рыдали, я их победил, я их сделал как никогда! И Маринку-проститутку - она же мне нравилась в школе, понимаешь."
+msgstr "Doktor úr, ha hallaná a nyögésüket... sírtak! Megvertem őket! Én tettem... az a kurva Marina... Kedveltem őt az iskolában, tudod."
+
+#. Key:	30.2.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.4"
+msgid "Темненькая, волосы кудрявые. А я не смог тогда сказать ей об этом, лишь стоял, смотрел, как она домой идет. А тут - смог!"
+msgstr "Sötét és göndör hajjal... Akkoriban nem tudtam bevallani neki. Csak álltam és néztem, ahogy hazamegy... De most megtettem!!!"
+
+#. Key:	32.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.1.1"
+msgid "Ты не поймёшь, доктор! Это настоящее счастье. Теперь хоть гены у меня забирай, относи своей Маринке, хоть топи меня в электричестве, а я был счастлив на Земле."
+msgstr "Nem fogod megkapni, doktor úr, ez tiszta boldogság... vedd el az összes génemet, és add oda Marinának, ha akarod... vagy fojtsd áramba... Boldog voltam ezen a földön!"
+
+#. Key:	32.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.1.2"
+msgid "Моя жизнь прошла не зря, я счастлив!"
+msgstr "Az életem nem volt hiábavaló. Boldog vagyok!"
+
+#. Key:	32.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.1"
+msgid "Это было похоже на кино, где я главный герой. Ни усталостти, ни боли, ни страха - я за всё отомстил, за все годы страданий!"
+msgstr "Úgy éreztem magam, mint egy akciófilm főszereplője... nincs fáradtság, nincs fájdalom, nincs félelem. Bosszút álltam az évekig tartó szenvedésért."
+
+#. Key:	32.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.2"
+msgid "Пусть знают, кто я такой, пусть помнят меня, пусть боятся! Теперь меня все боятся. Все до единого! Я герой, а ты, доктор, делай, что должен."
+msgstr "Tudni fogják, ki vagyok, emlékezni fognak rám, félni fognak tőlem. Most mindenki fél tőlem. Mindenki! Hős vagyok... Tegyen, amit akar a génjeimmel, doktor úr, én nem félek semmitől."
+
+#. Key:	32.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.3"
+msgid "Делай своё дело с генами! Теперь мне не страшно ничего. Всё в прошлом, теперь я другой. Теперь я  победил страх! Или он меня..."
+msgstr "Ez mind a múlté... Most már más vagyok, legyőztem a félelmemet... vagy fordítva..."
+
+#. Key:	32.2.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.4"
+msgid "Из-под пятницы суббота. Знаешь такую поговорку? Так вот я теперь - суббота! Бери гены, выжигай мне мозг! Я всё сказал."
+msgstr "Péntek után mindig van szombat, emlékszel erre a közmondásra? Most én vagyok a szombat... vedd el a génjeimet, égesd el az agyamat. Eleget mondtam..."
+
+#. Key:	4.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_04.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,4.1"
+msgid "А ты как будто не знаешь."
+msgstr "Úgy teszel, mintha te magad sem tudnád!"
+
+#. Key:	4.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_04.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,4.2"
+msgid "Из-за тебя!"
+msgstr "Miattad!!!"
+
+#. Key:	6.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_06.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,6.1"
+msgid "Конечно, встречались. И вчера, и две недели назад, когда напряжение опять падало."
+msgstr "Persze, hogy megtettük. Tegnap, 2 héttel ezelőtt, amikor az áramlat esett..."
+
+#. Key:	6.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_06.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,6.2"
+msgid "Ты на меня постоянно влияешь. Особенно когда пускают 35 киловатт."
+msgstr "Mindig hatással vagy rám. Különösen, amikor 35 kilowattal ütnek meg."
+
+#. Key:	8.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.1.1"
+msgid "Да про то напряжение, про то. Когда по проводам бежит, аж дрожь по спине. Я этот голос в голове... Реверберат-аттистор, ведь так вы его называете, да?"
+msgstr "Úgy értem, az áram, ami megy... az elektromos vezetékekben, olyan, mintha borzongana a hátam. És ez a hang a fejemben... reverberszisztor - így hívják."
+
+#. Key:	8.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.1.2"
+msgid "Так кондуктор и сказал: \"Реверберат-аттистор включаем, дрожь запускаем\", а я, я что? Я писал много раз заявление."
+msgstr "Ezt mondta a karmester: \"a reverberszisztor bekapcsolása... a remegés megkezdése\". Mit tegyek? Rengeteg panaszt írtam különböző helyekre."
+
+#. Key:	8.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.1.3"
+msgid "Писал не в одну инстанцию, просил по-хорошему - не включайте! А никто мне не верит. Все говорят лечиться, а чем лечится повышенная электрочувствительность, а?"
+msgstr "Szépen megkértem őket, hogy NE kapcsolják be!!!! Senki nem hisz nekem... azt mondják, hogy gyógyítsam meg magam. De hogyan lehet gyógyítani az elektroérzékenységet?"
+
+#. Key:	8.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.2.1"
+msgid "35 киловатт критичны для меня. Я же просил, хотя бы менее 15-ти ставьте. Я и Марине говорил, и Кате. Они посменно на станции работают, я их всех знаю."
+msgstr "35 kilowatt nekem túl sok! Megkérdeztem őket - legfeljebb 15! Mondtam ezt Marinának, Katyának, műszakban dolgoznak ezen az állomáson. Mindenkit ismerek ott, gyakran hívom őket."
+
+#. Key:	8.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.2.2"
+msgid "Я туда часто звоню. Телефон мне не страшен, там малый ток, там нет реверберации, вот."
+msgstr "Nem félek a telefonoktól, túl kicsi az áramuk, nincs visszhang."
+

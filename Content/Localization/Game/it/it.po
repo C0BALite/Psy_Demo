@@ -1,0 +1,1399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2023-06-25 11:56+0000\n"
+"PO-Revision-Date: 2023-06-25 11:56+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	0069E307475831368A5215AE59387F3A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.1.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",0069E307475831368A5215AE59387F3A"
+msgid "Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. критика у человека в этот момент отсутствует, и он может совершать поступки, о которых впоследствии будет сильно сожалеть: брать кредиты , раздавать деньги,тратить их на ненужные вещи и тд."
+msgstr "I pazienti scherzano e ridono in continuazione, e possono avere brevi scatti d'ira. A questo punto i pazienti non hanno alcun tipo di autocritica e possono fare cose di cui potrebbero pentirsi in futuro: chiedere prestiti, regalare denaro, spenderlo per cose inutili, ecc."
+
+#. Key:	354ED67748F3AEDAFC148CB224C5436E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.2.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",354ED67748F3AEDAFC148CB224C5436E"
+msgid "Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. критика у человека в этот момент отсутствует, и он может совершать поступки, о которых впоследствии будет сильно сожалеть: брать кредиты , раздавать деньги,тратить их на ненужные вещи и тд."
+msgstr "I pazienti scherzano e ridono in continuazione, e possono avere brevi scatti d'ira. A questo punto i pazienti non hanno alcun tipo di autocritica e possono fare cose di cui potrebbero pentirsi in futuro: chiedere prestiti, regalare denaro, spenderlo per cose inutili, ecc."
+
+#. Key:	026EB6D5407598218CA30B8005ABBB15
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsMain.WB_ClassicSettingsMain_C:WidgetTree.TextBlock.Text
+msgctxt ",026EB6D5407598218CA30B8005ABBB15"
+msgid "Язык"
+msgstr "Lingua"
+
+#. Key:	D0E96F2C43BF2944317D71AE07C7FC82
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsLanguage.WB_ClassicSettingsLanguage_C:WidgetTree.TextBlock_121.Text
+msgctxt ",D0E96F2C43BF2944317D71AE07C7FC82"
+msgid "Язык"
+msgstr "Lingua"
+
+#. Key:	0328B2FD4F786BDD512AA0A189656980
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.1.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",0328B2FD4F786BDD512AA0A189656980"
+msgid "Стадия выраженной мании характеризуется дальнейшим нарастанием выраженности основных симптомов фазы. Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. Речевое возбуждение выраженное, достигает степени скачки идей. Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "Fase di mania pronunciata. È il momento in cui si intensificano i sintomi principali di questa fase. I pazienti scherzano e ridono in continuazione, e possono avere brevi scatti d'ira. L'agitazione del linguaggio raggiunge il grado di idee balzane (la cosiddetta \"fuga idearum\"). L'eccitazione motoria e la distraibilità portano all'incapacità di avere una conversazione coerente con il paziente. Le manie di grandezza emergono in un contesto di sopravvalutazione della propria personalità. Al lavoro, i pazienti costruiscono prospettive rosee, investono denaro in progetti poco promettenti e possono discutere di costruzioni e progetti irrealistici che sono inapplicabili nella vita reale. La durata del sonno si riduce a 3-4 ore al giorno."
+
+#. Key:	338E65BD4C56FFAEBC46389E7C663E5A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.2.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",338E65BD4C56FFAEBC46389E7C663E5A"
+msgid "Стадия выраженной мании характеризуется дальнейшим нарастанием выраженности основных симптомов фазы. Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. Речевое возбуждение выраженное, достигает степени скачки идей. Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "Fase di mania pronunciata. È il momento in cui si intensificano i sintomi principali di questa fase. I pazienti scherzano e ridono in continuazione, e possono avere brevi scatti d'ira. L'agitazione del linguaggio raggiunge il grado di idee balzane (la cosiddetta \"fuga idearum\"). L'eccitazione motoria e la distraibilità portano all'incapacità di avere una conversazione coerente con il paziente. Le manie di grandezza emergono in un contesto di sopravvalutazione della propria personalità. Al lavoro, i pazienti costruiscono prospettive rosee, investono denaro in progetti poco promettenti e possono discutere di costruzioni e progetti irrealistici che sono inapplicabili nella vita reale. La durata del sonno si riduce a 3-4 ore al giorno."
+
+#. Key:	509C967D48F25BCBDA2B719CBD0ACEF6
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.2.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",509C967D48F25BCBDA2B719CBD0ACEF6"
+msgid "Стадия выраженной мании характеризуется дальнейшим нарастанием выраженности основных симптомов фазы. Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. Речевое возбуждение выраженное, достигает степени скачки идей. Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "Fase di mania pronunciata. È il momento in cui si intensificano i sintomi principali di questa fase. I pazienti scherzano e ridono in continuazione, e possono avere brevi scatti d'ira. L'agitazione del linguaggio raggiunge il grado di idee balzane (la cosiddetta \"fuga idearum\"). L'eccitazione motoria e la distraibilità portano all'incapacità di avere una conversazione coerente con il paziente. Le manie di grandezza emergono in un contesto di sopravvalutazione della propria personalità. Al lavoro, i pazienti costruiscono prospettive rosee, investono denaro in progetti poco promettenti e possono discutere di costruzioni e progetti irrealistici che sono inapplicabili nella vita reale. La durata del sonno si riduce a 3-4 ore al giorno."
+
+#. Key:	5849FC7946EDEB77F079279DBE502500
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.1.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",5849FC7946EDEB77F079279DBE502500"
+msgid "Стадия выраженной мании характеризуется дальнейшим нарастанием выраженности основных симптомов фазы. Больные непрерывно шутят, смеются, на фоне чего возможны кратковременные вспышки гнева. Речевое возбуждение выраженное, достигает степени скачки идей. Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "Fase di mania pronunciata. È il momento in cui si intensificano i sintomi principali di questa fase. I pazienti scherzano e ridono in continuazione, e possono avere brevi scatti d'ira. L'agitazione del linguaggio raggiunge il grado di idee balzane (la cosiddetta \"fuga idearum\"). L'eccitazione motoria e la distraibilità portano all'incapacità di avere una conversazione coerente con il paziente. Le manie di grandezza emergono in un contesto di sopravvalutazione della propria personalità. Al lavoro, i pazienti costruiscono prospettive rosee, investono denaro in progetti poco promettenti e possono discutere di costruzioni e progetti irrealistici che sono inapplicabili nella vita reale. La durata del sonno si riduce a 3-4 ore al giorno."
+
+#. Key:	06170CDE4D5F2143E10F2A90367EC6AB
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.TextBlock_8995.Text
+msgctxt ",06170CDE4D5F2143E10F2A90367EC6AB"
+msgid "Музыка"
+msgstr "Musica"
+
+#. Key:	0759CE514A10C70E64868881EF46E1DE
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_02.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0759CE514A10C70E64868881EF46E1DE"
+msgid "Расскажите, почему вы оказались в нашей клинике?"
+msgstr "Perché è finito nella nostra clinica?"
+
+#. Key:	3.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_03.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,3.2"
+msgid "Расскажите, почему вы оказались в нашей клинике?"
+msgstr "Perché è finito nella nostra clinica?"
+
+#. Key:	0B10B3994FCBB6AFA77A5B95E45A430E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_02.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0B10B3994FCBB6AFA77A5B95E45A430E"
+msgid "Расскажите, почему вас сюда привели?"
+msgstr "Perché siete stati portati qui?"
+
+#. Key:	3.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_03.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,3.1"
+msgid "Расскажите, почему вас сюда привели?"
+msgstr "Perché siete stati portati qui?"
+
+#. Key:	0B54559847650624CF54D5A74C43B665
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_22.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0B54559847650624CF54D5A74C43B665"
+msgid "А мама вызвала полицию? Или кто?"
+msgstr "Chi ha chiamato la polizia?"
+
+#. Key:	0BD7705A48ACDD03BEB426BC71E9FECA
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_20.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",0BD7705A48ACDD03BEB426BC71E9FECA"
+msgid "Скажите, а мама не отправляла вас провериться к врачам?"
+msgstr "Sua madre teneva sotto controllo la sua salute?"
+
+#. Key:	21.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_21.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,21.2"
+msgid "Скажите, а мама не отправляла вас провериться к врачам?"
+msgstr "Sua madre teneva sotto controllo la sua salute?"
+
+#. Key:	1516B40349A01D4D5F07C2BAB099CDE6
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_30.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",1516B40349A01D4D5F07C2BAB099CDE6"
+msgid "А как вы относитесь к своему противоправному поступку?"
+msgstr "Che cosa pensa del suo atto illegale?"
+
+#. Key:	31.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_31.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,31.1"
+msgid "А как вы относитесь к своему противоправному поступку?"
+msgstr "Che cosa pensa del suo atto illegale?"
+
+#. Key:	1AD518184BDCF231CC7C859CAFCB6955
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",1AD518184BDCF231CC7C859CAFCB6955"
+msgid "Во время задержания, вы пытались подкупить сотрудников полиции. Обещали им миллиард. У вас действительно так много денег?\t"
+msgstr "Al momento della sua detenzione, ha cercato di corrompere gli agenti di polizia. Ha promesso loro un miliardo. Ha davvero così tanti soldi? "
+
+#. Key:	FC0A319E4F1EBA75780B928D1006B28E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",FC0A319E4F1EBA75780B928D1006B28E"
+msgid "Во время задержания, вы пытались подкупить сотрудников полиции. Обещали им миллиард. У вас действительно так много денег?\t"
+msgstr "Al momento della sua detenzione, ha cercato di corrompere gli agenti di polizia. Ha promesso loro un miliardo. Ha davvero così tanti soldi? "
+
+#. Key:	1CF6E83A4F3FA05EE49AAB9BA64601B3
+#. SourceLocation:	/Game/UI/MainHUD/QTE/W_Tutorial.W_Tutorial_C:WidgetTree.End.Text
+msgctxt ",1CF6E83A4F3FA05EE49AAB9BA64601B3"
+msgid "Когда будете готовы, нажмите кнопку ниже. Начнется бой. Старайтесь не пропускать удары."
+msgstr "Quando siete pronti, premete il pulsante in basso per iniziare il combattimento. Cercate di non farvi colpire."
+
+#. Key:	2395CBE14282FE35E7EFA690DA9B57BB
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsMain.WB_ClassicSettingsMain_C:WidgetTree.TabLanguageSettings.ToolTipText
+msgctxt ",2395CBE14282FE35E7EFA690DA9B57BB"
+msgid "Language Settings"
+msgstr "Impostazioni della lingua"
+
+#. Key:	2ACF85644774820E33A29AA934B3B17C
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.Edit Ambient.Text
+msgctxt ",2ACF85644774820E33A29AA934B3B17C"
+msgid "Volume"
+msgstr "Volume"
+
+#. Key:	41DE4D7040D0B8B0604B09BCDC845E6D
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.Edit Voice.Text
+msgctxt ",41DE4D7040D0B8B0604B09BCDC845E6D"
+msgid "Volume"
+msgstr "Volume"
+
+#. Key:	4BEA88D34B8FB92A2A65E68EF22EE29F
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.Edit Master.Text
+msgctxt ",4BEA88D34B8FB92A2A65E68EF22EE29F"
+msgid "Volume"
+msgstr "Volume"
+
+#. Key:	589C3A444ED859394DE31F9C1E9A60ED
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.Edit Music.Text
+msgctxt ",589C3A444ED859394DE31F9C1E9A60ED"
+msgid "Volume"
+msgstr "Volume"
+
+#. Key:	C7B916CC4E229DF53280DD957590A0BD
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.Edit Effect.Text
+msgctxt ",C7B916CC4E229DF53280DD957590A0BD"
+msgid "Volume"
+msgstr "Volume"
+
+#. Key:	29532279497A95C147FCE59B869C6100
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_16.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",29532279497A95C147FCE59B869C6100"
+msgid "Когда вас привезли, у вас на голове была слепленная из фольги каска."
+msgstr "Quando sei stato portato qui, indossavi un cappello di carta stagnola..."
+
+#. Key:	2BADDAF7455646F915444F9E9C2D4C1C
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/Enum_Speakers.Enum_Speakers.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",2BADDAF7455646F915444F9E9C2D4C1C"
+msgid "Пациент"
+msgstr "Paziente"
+
+#. Key:	B3C446C04ED3BF484628729A9396D140
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/Enum_Speakers.Enum_Speakers.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",B3C446C04ED3BF484628729A9396D140"
+msgid "Пациент"
+msgstr "Paziente"
+
+#. Key:	2BC9528E43D041655D5854A1C064A6C5
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_18.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",2BC9528E43D041655D5854A1C064A6C5"
+msgid "Понятно. В последнее время совсем тяжело стало?"
+msgstr "Di recente è diventato particolarmente difficile per lei, vero?"
+
+#. Key:	19.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_19.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,19.2"
+msgid "Понятно. В последнее время совсем тяжело стало?"
+msgstr "Di recente è diventato particolarmente difficile per lei, vero?"
+
+#. Key:	2F9F31EC450CAC463496CC936BC942EA
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_14.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",2F9F31EC450CAC463496CC936BC942EA"
+msgid "А почему Марина к вам так неравнодушна? "
+msgstr "Perché Marina ti dà tanto fastidio? "
+
+#. Key:	3584CEA94335EFA8E07477AA9DD51505
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_20.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",3584CEA94335EFA8E07477AA9DD51505"
+msgid "Скажите, вы раньше обращались к врачам?"
+msgstr "Ha già chiesto un parere medico?"
+
+#. Key:	21.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_21.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,21.1"
+msgid "Скажите, вы раньше обращались к врачам?"
+msgstr "Ha già chiesto un parere medico?"
+
+#. Key:	367763D84D36563D7F6D24A2AA6182AF
+#. SourceLocation:	/Game/UI/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_3.Text
+msgctxt ",367763D84D36563D7F6D24A2AA6182AF"
+msgid "Настройки"
+msgstr "Impostazioni"
+
+#. Key:	Settings
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsMain.WB_ClassicSettingsMain_C:WidgetTree.TextTitle.Text
+msgctxt "Menu,Settings"
+msgid "Настройки"
+msgstr "Impostazioni"
+
+#. Key:	3AD36BF44E894B45DF812899B954DAB8
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.ToolTip_MusicVolume.ToolTipText
+msgctxt ",3AD36BF44E894B45DF812899B954DAB8"
+msgid "Music Volume"
+msgstr "Volume della musica"
+
+#. Key:	3B4529A341160BC57DA123B6F54240A5
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_28.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",3B4529A341160BC57DA123B6F54240A5"
+msgid "У вас часто бывают такие эпизоды гнева?"
+msgstr "Avete spesso questi capricci?"
+
+#. Key:	29.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_29.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,29.2"
+msgid "У вас часто бывают такие эпизоды гнева?"
+msgstr "Avete spesso questi capricci?"
+
+#. Key:	3DB9D4BC4E91C8968F057DBB68D5CC27
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_04.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",3DB9D4BC4E91C8968F057DBB68D5CC27"
+msgid "Вам кажется, что раньше мы уже встречались?"
+msgstr "Pensi che ci siamo già incontrati?"
+
+#. Key:	5.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_05.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,5.1"
+msgid "Вам кажется, что раньше мы уже встречались?"
+msgstr "Pensi che ci siamo già incontrati?"
+
+#. Key:	45D26281406F2AA7C13BF1BF6AE5E328
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_16.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",45D26281406F2AA7C13BF1BF6AE5E328"
+msgid "А как вы пытались защититься от воздействия на голову?"
+msgstr "Cosa avete fatto per proteggere la vostra testa?"
+
+#. Key:	17.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_17.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,17.2"
+msgid "А как вы пытались защититься от воздействия на голову?"
+msgstr "Cosa avete fatto per proteggere la vostra testa?"
+
+#. Key:	45F9983B482F2D5111C7A3B7D05DC09A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",45F9983B482F2D5111C7A3B7D05DC09A"
+msgid "Вы причинили материальный ущерб супермаркету. Как вы объясните своё поведение?\t"
+msgstr "Avete causato un danno materiale a un supermercato. Come spiegate il vostro comportamento? "
+
+#. Key:	AEB4BFE14EDCDC05A472AE9865930311
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_02.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",AEB4BFE14EDCDC05A472AE9865930311"
+msgid "Вы причинили материальный ущерб супермаркету. Как вы объясните своё поведение?\t"
+msgstr "Avete causato un danno materiale a un supermercato. Come spiegate il vostro comportamento? "
+
+#. Key:	47DC25D14C75DC8C466193BF27924E3C
+#. SourceLocation:	/Game/UI/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",47DC25D14C75DC8C466193BF27924E3C"
+msgid "Выход"
+msgstr "Uscita"
+
+#. Key:	49FCEABD41D0A8D125A1148F549993B4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",49FCEABD41D0A8D125A1148F549993B4"
+msgid "Ваш внешний вид оставляет желать лучшего. Почему вы так запустили себя?\t"
+msgstr "Il vostro aspetto lascia molto a desiderare. Perché ti sei trascurato così tanto? "
+
+#. Key:	C31D9A5B414FA72CA59A1D97C319457C
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",C31D9A5B414FA72CA59A1D97C319457C"
+msgid "Ваш внешний вид оставляет желать лучшего. Почему вы так запустили себя?\t"
+msgstr "Il vostro aspetto lascia molto a desiderare. Perché ti sei trascurato così tanto? "
+
+#. Key:	4A53E4764769D6E312213DBADE9CABD5
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt ",4A53E4764769D6E312213DBADE9CABD5"
+msgid "Я кричу, и они закричали, суки! Прямо в мозг закричали! Я тогда совсем голову потерял."
+msgstr "Ho urlato! E questi stronzi hanno urlato! Proprio dentro il mio cervello... è lì che ho perso la testa..."
+
+#. Key:	4B95A334491E52DE68F5EE8839E9E729
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",4B95A334491E52DE68F5EE8839E9E729"
+msgid "Вы замечали за собой, что можете быть излишне многословны, навязчивы в общении?\t"
+msgstr "Avete notato che potete essere eccessivamente prolissi, invadenti nella vostra comunicazione? "
+
+#. Key:	80EF502B4CF05ECD62B8568391A3EAEF
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",80EF502B4CF05ECD62B8568391A3EAEF"
+msgid "Вы замечали за собой, что можете быть излишне многословны, навязчивы в общении?\t"
+msgstr "Avete notato che potete essere eccessivamente prolissi, invadenti nella vostra comunicazione? "
+
+#. Key:	5237EF284584E0213EDEDAAE2B86C37F
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_26.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",5237EF284584E0213EDEDAAE2B86C37F"
+msgid "Что происходило дальше?"
+msgstr "Cosa è successo dopo?"
+
+#. Key:	27.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_27.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,27.1"
+msgid "Что происходило дальше?"
+msgstr "Cosa è successo dopo?"
+
+#. Key:	581D12A24B4BDF95B2EDD28D561ED998
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",581D12A24B4BDF95B2EDD28D561ED998"
+msgid "Представим, что у вас уже есть все деньги мира. Чтобы вы будете делать дальше?\t\t"
+msgstr "Supponiamo che abbiate già tutti i soldi del mondo. Cosa fareste dopo? "
+
+#. Key:	E99C9A5C4BBD05BC5FDC26A6F2071D96
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",E99C9A5C4BBD05BC5FDC26A6F2071D96"
+msgid "Представим, что у вас уже есть все деньги мира. Чтобы вы будете делать дальше?\t\t"
+msgstr "Supponiamo che abbiate già tutti i soldi del mondo. Cosa fareste dopo? "
+
+#. Key:	58E13463418F9AF457B1A18267110787
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_24.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",58E13463418F9AF457B1A18267110787"
+msgid "А что и где вы рубили?"
+msgstr "Cosa e dove stavate tagliando?"
+
+#. Key:	25.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_25.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,25.1"
+msgid "А что и где вы рубили?"
+msgstr "Cosa e dove stavate tagliando?"
+
+#. Key:	5C88656A400E4F60CBFEA6989257F6A8
+#. SourceLocation:	/Game/UI/MainHUD/QTE/W_Tutorial.W_Tutorial_C:WidgetTree.Part1.Text
+msgctxt ",5C88656A400E4F60CBFEA6989257F6A8"
+msgid "Для этого типа необходимо остановить стрелку в пределах выделенной области, \r\nнажимая соответствующую клавишу, иначе герой пропустит удар.\r\n\r\nМожете потренироваться здесь.\r\n\r\nЧтобы перейти к следующему этапу, поймайте стрелку в выделенной области 3 раза"
+msgstr "Per questo tipo di QTE, è necessario mantenere la barra piena sopra l'area contrassegnata dalla freccia premendo il tasto corrispondente. \n\nPotete esercitarvi qui. \n\nPer passare alla parte successiva dell'esercitazione, prendete la freccia nell'area evidenziata per 3 volte."
+
+#. Key:	5C88656A400E4F60CBFEA6989257F6A8
+#. SourceLocation:	/Game/UI/MainHUD/QTE/W_Tutorial.W_Tutorial_C:WidgetTree.TextBlock.Text
+msgctxt ",5C88656A400E4F60CBFEA6989257F6A8"
+msgid "Необходимо остановить стрелку в пределах выделенной области, \r\nнажимая соответствующую клавишу, иначе герой пропустит удар.\r\n\r\nМожете потренироваться здесь.\r\n\r\nКогда будете готовы, нажмите кнопку ниже. Начнется бой. Старайтесь не пропускать удары.\r\n\r\nЧтобы начать бой, поймайте стрелку в выделенной области 3 раза"
+msgstr "È necessario fermare la freccia all'interno dell'area selezionata,\npremendo il tasto corrispondente, altrimenti l'eroe mancherà il colpo.\n\nPotete esercitarvi qui.\n\nQuando siete pronti, premete il pulsante sottostante per iniziare il combattimento. Cercate di non essere colpiti. \n\nPer passare alla parte successiva dell'esercitazione, afferrate la freccia nell'area evidenziata per 3 volte."
+
+#. Key:	5F2BE24E4BA110002DE62D988D4E06EF
+#. SourceLocation:	/Game/UI/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",5F2BE24E4BA110002DE62D988D4E06EF"
+msgid "Авторы"
+msgstr "Autori"
+
+#. Key:	66E2106C4E04529DEB0EE28EF7E94412
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.1.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",66E2106C4E04529DEB0EE28EF7E94412"
+msgid " Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "La marcata eccitazione motoria e la distraibilità portano all'incapacità di avere una conversazione coerente con il paziente. Le manie di grandezza emergono in un contesto di sopravvalutazione della propria personalità. Al lavoro, i pazienti costruiscono prospettive rosee, investono denaro in progetti poco promettenti e possono discutere di costruzioni e progetti irrealistici che sono inapplicabili nella vita reale. La durata del sonno si riduce a 3-4 ore al giorno."
+
+#. Key:	E5A0EF52471E359D099038839801A5E7
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.2.PhraseComment_29_723FEB344C3EB1418F05FDB6BFD5B526
+msgctxt ",E5A0EF52471E359D099038839801A5E7"
+msgid " Выраженное двигательное возбуждение, выраженная отвлекаемость приводят к невозможности вести с больным последовательную беседу. На фоне переоценки собственной личности появляются бредовые идеи величия. На работе больные строят радужные перспективы, вкладывают деньги в бесперспективные проекты, проектируют безумные конструкции. Длительность сна снижается до 3—4 часов в сутки."
+msgstr "La marcata eccitazione motoria e la distraibilità portano all'incapacità di avere una conversazione coerente con il paziente. Le manie di grandezza emergono in un contesto di sopravvalutazione della propria personalità. Al lavoro, i pazienti costruiscono prospettive rosee, investono denaro in progetti poco promettenti e possono discutere di costruzioni e progetti irrealistici che sono inapplicabili nella vita reale. La durata del sonno si riduce a 3-4 ore al giorno."
+
+#. Key:	73ECFF5940EAF4535C9013BCD524C434
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.TextBlock_121.Text
+msgctxt ",73ECFF5940EAF4535C9013BCD524C434"
+msgid "Громкость"
+msgstr "Volume"
+
+#. Key:	617BCB5044891A3B417F0780BD2C91B9
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_10.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",617BCB5044891A3B417F0780BD2C91B9"
+msgid "Правильно ли я вас понял, что вы чувствуете влияние от электричества?"
+msgstr "Riesci a sentire l'influenza dell'elettricità?"
+
+#. Key:	11.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_11.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,11.1"
+msgid "Правильно ли я вас понял, что вы чувствуете влияние от электричества?"
+msgstr "Riesci a sentire l'influenza dell'elettricità?"
+
+#. Key:	654E49D14434A1CA11AAAC9B3ED350C1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/Enum_Speakers.Enum_Speakers.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",654E49D14434A1CA11AAAC9B3ED350C1"
+msgid "Психиатр"
+msgstr "Psichiatra"
+
+#. Key:	D92507CB4AAF118FED83D29E3FCA3992
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/Enum_Speakers.Enum_Speakers.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",D92507CB4AAF118FED83D29E3FCA3992"
+msgid "Психиатр"
+msgstr "Psichiatra"
+
+#. Key:	7CFD70D74BC9619CD04C7B8EB09EA178
+#. SourceLocation:	/Game/UI/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_81.Text
+msgctxt ",7CFD70D74BC9619CD04C7B8EB09EA178"
+msgid "Российская\r\nпсихиатрическая\r\nпастораль"
+msgstr "Russo\nPsichiatrico\nPastorale"
+
+#. Key:	84AFFCE44F2FF095722FD6A99DF96C8E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",84AFFCE44F2FF095722FD6A99DF96C8E"
+msgid "Скажите, вы бы хотели повелевать миром?"
+msgstr "Dimmi, ti piacerebbe governare il mondo?"
+
+#. Key:	AA6DFAB943B16B1702D9E4B4D7FC9087
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_04.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",AA6DFAB943B16B1702D9E4B4D7FC9087"
+msgid "Скажите, вы бы хотели повелевать миром?"
+msgstr "Mi dica, tende a comportarsi in modo aggressivo?"
+
+#. Key:	81ED683D4AB7D025920327B2778913BE
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_18.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",81ED683D4AB7D025920327B2778913BE"
+msgid "Понимаю, это сложно. Сколько уже лет ваша борьба продолжалась?"
+msgstr "Di recente è diventato particolarmente difficile per lei, vero?"
+
+#. Key:	19.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_19.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,19.1"
+msgid "Понимаю, это сложно. Сколько уже лет ваша борьба продолжалась?"
+msgstr "Per quanti anni avete combattuto in questo modo?"
+
+#. Key:	8AE0E99841C7B596225D8D998848DE49
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_28.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",8AE0E99841C7B596225D8D998848DE49"
+msgid "А чем занимаются эти женщины?"
+msgstr "Cosa stavano facendo quelle donne?"
+
+#. Key:	29.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_29.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,29.1"
+msgid "А чем занимаются эти женщины?"
+msgstr "Cosa stavano facendo quelle donne?"
+
+#. Key:	8B3447824D462B75C4C4FBBAA1611D2B
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_22.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",8B3447824D462B75C4C4FBBAA1611D2B"
+msgid "Так всё же, где вас задержала полиция?"
+msgstr "Dove è stato arrestato?"
+
+#. Key:	23.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_23.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,23.1"
+msgid "Так всё же, где вас задержала полиция?"
+msgstr "Dove è stato arrestato?"
+
+#. Key:	9237DCB947F1945DEB34E8BEF19DC02E
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_24.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",9237DCB947F1945DEB34E8BEF19DC02E"
+msgid "О чем вы говорите?"
+msgstr "Di cosa stai parlando?"
+
+#. Key:	25.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_25.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,25.2"
+msgid "О чем вы говорите?"
+msgstr "Di cosa stai parlando?"
+
+#. Key:	9576055746DA8203DEF73D8367334AE1
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsMain.WB_ClassicSettingsMain_C:WidgetTree.TextBlock_903.Text
+msgctxt ",9576055746DA8203DEF73D8367334AE1"
+msgid "Отмена"
+msgstr "Annullamento"
+
+#. Key:	95B638B44AA83DAD96C99E95845680F2
+#. SourceLocation:	/Game/UI/MainMenu/W_LanguageSelect.W_LanguageSelect_C:WidgetTree.TextBlock_108.Text
+msgctxt ",95B638B44AA83DAD96C99E95845680F2"
+msgid "English"
+msgstr "Inglese"
+
+#. Key:	9675D4034D78C6C590038CACDEAADC96
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsAudio.WB_ClassicSettingsAudio_C:WidgetTree.TextBlock_9125.Text
+msgctxt ",9675D4034D78C6C590038CACDEAADC96"
+msgid "Voice"
+msgstr "Voce"
+
+#. Key:	95DD417E49E0C98362E1FB8B43681727
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_10.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",95DD417E49E0C98362E1FB8B43681727"
+msgid "Так получается, что Марина - это ваша одноклассница, которая со школы хочет украсть у вас гены?"
+msgstr "Significa che Marina..."
+
+#. Key:	11.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_11.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,11.2"
+msgid "Так получается, что Марина - это ваша одноклассница, которая со школы хочет украсть у вас гены?"
+msgstr "Significa che Marina..."
+
+#. Key:	9D37EDC543A2377D49F3C391BFC9D381
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",9D37EDC543A2377D49F3C391BFC9D381"
+msgid "Скажите, вам свойственно агрессивное поведение?\t"
+msgstr "Mi dica, tende a comportarsi in modo aggressivo? "
+
+#. Key:	AA1509B441A4D68F8F288F8897293D0A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_08.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",AA1509B441A4D68F8F288F8897293D0A"
+msgid "Скажите, вам свойственно агрессивное поведение?\t"
+msgstr "Mi dica, tende a comportarsi in modo aggressivo? "
+
+#. Key:	9F92BEFB4BE70C858E84C9BDA116F130
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_06.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",9F92BEFB4BE70C858E84C9BDA116F130"
+msgid "Расскажите, пожалуйста, подробнее, о каком напряжении вы говорите?"
+msgstr "Mi parli della corrente che ha menzionato."
+
+#. Key:	7.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_07.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,7.1"
+msgid "Расскажите, пожалуйста, подробнее, о каком напряжении вы говорите?"
+msgstr "Mi parli della corrente che ha menzionato."
+
+#. Key:	A2379F0B4A4E99DAEB8CC695970C1993
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_26.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",A2379F0B4A4E99DAEB8CC695970C1993"
+msgid "И что случилось в эту субботу?"
+msgstr "Cosa è successo sabato?"
+
+#. Key:	27.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_27.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,27.2"
+msgid "И что случилось в эту субботу?"
+msgstr "Cosa è successo sabato?"
+
+#. Key:	A35938A04DD286B85E74348120D4741A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_12.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",A35938A04DD286B85E74348120D4741A"
+msgid "А куда Марина могла спрятаться?"
+msgstr "Dove poteva nascondersi Marina?"
+
+#. Key:	13.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_13.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,13.2"
+msgid "А куда Марина могла спрятаться?"
+msgstr "Dove poteva nascondersi Marina?"
+
+#. Key:	A7960DA347E68CEB5F0B77A3C936BFD3
+#. SourceLocation:	/Game/UI/MainHUD/QTE/W_Tutorial.W_Tutorial_C:WidgetTree.TextBlock_59.Text
+msgctxt ",A7960DA347E68CEB5F0B77A3C936BFD3"
+msgid "Перед вами демонстрационный эпизод борьбы между двумя персонажами.\r\n\r\nВ моменты, когда герою предстоит увернуться от удара противника, \r\nвы увидите индикатор следующего вида:"
+msgstr "Ecco un episodio dimostrativo del combattimento tra due personaggi.\n\nNei momenti in cui l'eroe deve schivare il colpo del nemico,\nsi vedrà un indicatore come questo:"
+
+#. Key:	AD9D0EDE45AA3CCB2DBEE68F53008186
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(4).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt ",AD9D0EDE45AA3CCB2DBEE68F53008186"
+msgid "Как рубанул - и всё! В глазах все красным аж налилось от радости."
+msgstr "Sono caduto e questo è quanto! I miei occhi sono diventati rossi dalla felicità!"
+
+#. Key:	B005B1E9469063BE357E509666E96EAF
+#. SourceLocation:	/Game/UI/MainHUD/QTE/W_Tutorial.W_Tutorial_C:WidgetTree.TextBlock_132.Text
+msgctxt ",B005B1E9469063BE357E509666E96EAF"
+msgid "Начать бой"
+msgstr "Iniziare a combattere"
+
+#. Key:	ADCB35B747A4AFC7F6A6348A0DDEFA40
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_08.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",ADCB35B747A4AFC7F6A6348A0DDEFA40"
+msgid "А кто такие Марина и Катя?"
+msgstr "Hai detto agli inservienti di Marina e Katya. Chi sono?"
+
+#. Key:	9.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_09.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,9.2"
+msgid "А кто такие Марина и Катя?"
+msgstr "Hai detto agli inservienti di Marina e Katya. Chi sono?"
+
+#. Key:	B47071DD46C28B467569569234E0A760
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_08.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",B47071DD46C28B467569569234E0A760"
+msgid "Скажите, вы пробовали найти ответы на свои вопросы?"
+msgstr "Avete cercato di trovare le risposte alle vostre domande?"
+
+#. Key:	9.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_09.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,9.1"
+msgid "Скажите, вы пробовали найти ответы на свои вопросы?"
+msgstr "Avete cercato di trovare le risposte alle vostre domande?"
+
+#. Key:	B52D733443CCF9DD2C43429AC0EC217F
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Enum_ChapterType.Enum_ChapterType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",B52D733443CCF9DD2C43429AC0EC217F"
+msgid "Psychiatric"
+msgstr "Psichiatrico"
+
+#. Key:	C44630464CC3C3CF2E5C8F9E52DE645B
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",C44630464CC3C3CF2E5C8F9E52DE645B"
+msgid "Вы понимаете, что поступки взрослого человека предусматривают ответственность за их последствия?\t"
+msgstr "Vi rendete conto che le azioni di un adulto comportano la responsabilità delle loro conseguenze? "
+
+#. Key:	C87737E94292FE817C3EE59E5E33B5E1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_01_Bipolar1.DT_Chapter_01_Bipolar1.Bipolar_06.2.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",C87737E94292FE817C3EE59E5E33B5E1"
+msgid "Вы понимаете, что поступки взрослого человека предусматривают ответственность за их последствия?\t"
+msgstr "Vi rendete conto che le azioni di un adulto comportano la responsabilità delle loro conseguenze? "
+
+#. Key:	C27EA9DA4600FDCBBBF0D780720A5FAF
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_14.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",C27EA9DA4600FDCBBBF0D780720A5FAF"
+msgid "Но ведь другие люди не чувствуют воздействия тока."
+msgstr "Perché le altre persone non vengono influenzate dall'elettricità?"
+
+#. Key:	CB9759734AC43CFFB5DBEA96A6D619BD
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_30.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",CB9759734AC43CFFB5DBEA96A6D619BD"
+msgid "Что же тогда с вами случилось?"
+msgstr "Cosa ti è successo dopo?"
+
+#. Key:	31.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_31.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,31.2"
+msgid "Что же тогда с вами случилось?"
+msgstr "Cosa ti è successo dopo?"
+
+#. Key:	D078C80046234724BD7FD892C40B4D68
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_06.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",D078C80046234724BD7FD892C40B4D68"
+msgid "Как я на вас влияю? И причем тут 35 киловатт? Это про электричество?"
+msgstr "Mi parli della corrente che ha menzionato."
+
+#. Key:	7.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_07.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,7.2"
+msgid "Как я на вас влияю? И причем тут 35 киловатт? Это про электричество?"
+msgstr "Come posso influenzarla?"
+
+#. Key:	D91EFDAD428A6008E3FE9886B982003A
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_04.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(1).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",D91EFDAD428A6008E3FE9886B982003A"
+msgid "Как я мог повлиять на вас?"
+msgstr "Come posso influenzarla?"
+
+#. Key:	5.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_05.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,5.2"
+msgid "Как я мог повлиять на вас?"
+msgstr "Come posso influenzarla?"
+
+#. Key:	DBD6C1954EEE607A09038CB956309F9B
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/DT_Chapter_02_Shizophrenia1.DT_Chapter_02_Shizophrenia1.Shizophrenia_12.1.PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0(0).PossibleAnswers_9_84933C7D4989C799A7384288157BC1C0.AnswerStartingText_22_24B300DC431EBC911E372A830E172BBA
+msgctxt ",DBD6C1954EEE607A09038CB956309F9B"
+msgid "А голоса в голове звучат, когда рядом никого нет?"
+msgstr "Quando sente le voci?"
+
+#. Key:	13.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_13.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,13.1"
+msgid "А голоса в голове звучат, когда рядом никого нет?"
+msgstr "Quando sente le voci?"
+
+#. Key:	DD1AEDF34D8551A0CA9DA9A528D0BD86
+#. SourceLocation:	/Game/UI/MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",DD1AEDF34D8551A0CA9DA9A528D0BD86"
+msgid "Новая игра"
+msgstr "Nuovo gioco"
+
+#. Key:	F03A503F4E2EF64E2DBA9CB305288679
+#. SourceLocation:	/Game/UI/MainMenu/W_LanguageSelect.W_LanguageSelect_C:WidgetTree.TextBlock_58.Text
+msgctxt ",F03A503F4E2EF64E2DBA9CB305288679"
+msgid "Русский"
+msgstr "Russo"
+
+#. Key:	1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_01.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,1.1"
+msgid "Здравствуйте! Скажите, что Вас к нам привело?"
+msgstr "Buongiorno. Perché pensa di essere stato portato da me?"
+
+#. Key:	1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_01.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,1.2"
+msgid "Добрый день! Расскажите, почему вас привезла полиция?"
+msgstr "Buon pomeriggio. Secondo lei, perché la polizia l'ha trattenuta?"
+
+#. Key:	10.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_10.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,10.1.1"
+msgid "Я навязчив????? Я быстро говорю?? Да ты посмотри, что вокруг происходит!! Все кругом меняется очень быстро. Нет никакой возможности успеть что-либо сделать. Я не могу понять как другие люди все это успевают, как могут спать по ночам! У меня мыслей в голове столько, что просто труба!!!! Одни планы- и это надо, и это, и пятое, и десятое. "
+msgstr "Io? Invadente? Parlare troppo velocemente? Guardatevi intorno! Tutto cambia così velocemente intorno a noi, senza possibilità di recuperare! Non capisco come facciano gli altri a fare in tempo? Come fanno a DORMIRE di notte?! Ho così tanti pensieri in testa, tonnellate di piani! Devo fare questo, quello, qui, là... "
+
+#. Key:	10.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_10.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,10.1.2"
+msgid "Кругом одни должен должен должен. Нет никакой возможности ничего сделать. Все мельтишит перед глазами, все меняется… и в голове как будто рой пчел. Я пытаюсь с ними разобраться, отмахиваюсь, а они все равно текут очень быстро.. очень завязывают Я не понимаю грань, где надо остановиться. Я не понимаю, где надо нажать на тормоз. Все как будто сливается в единый поток. Все меняется, все забивается… "
+msgstr "Tutti dicono: \"Devi, devi!\" Non riesco a fare in tempo, tutto sfarfalla, cambia davanti a me! Come uno sciame di api nella mia testa, cerco di farle andare via, ma continuano ad arrivare! Non conosco il limite, non so dove fermarmi, non so quando frenare! Tutto si fonde in un unico flusso, cambia come... "
+
+#. Key:	10.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,10.2.1"
+msgid "Я всегда спокоен! Ты кого обвиняешь в агрессивности, а?? Сам ты раздражительный! Я самый спокойный.. так и скажи всем!!! Я СА-МЫЙ СПО-КОЙ-НЫЙ!!!!!! Никогда я ни с кем не ругался. Никогда не шокировал никого. "
+msgstr "Io sono sempre calmo! Chi stai accusando di essere aggressivo, eh? Tu sei irritabile! Io sono il più calmo, dillo agli altri - sono il più calmo!!! Non ho mai litigato con nessuno! Non ho mai scioccato nessuno! "
+
+#. Key:	10.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,10.2.2"
+msgid "Всегда был только расчет и логика. Только смысл…. Я всегда имею смысл-тысл-дрысл! Как я шучу, а???!!!! Все смеются моим шуткам!А кто не смеется – тот получает по почкам! Я самый смешной человек на Земле! А ты говоришь агрессивный. Совсем не агрессивный!! "
+msgstr "Sono sempre stato calcolatore e logico! Solo buon senso! Ho sempre avuto buon senso - quindi - recinto! Vedete quanto sono divertente? Tutti ridono alle mie battute! E se non lo fanno, gli spacco le reni! Sono l'uomo più divertente del mondo! E tu mi dici che sono aggressivo. Niente di tutto questo!!! "
+
+#. Key:	11.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_11.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,11.1"
+msgid "Хорошо, я подчеркнул для себя, что в течение последних 2 недель у вас чрезмерно повышенное настроение. из-за которого у вас снижена потребность во сне, вы практически совсем можете не спать несколько дней подряд у вас повышена мыслительная активность, повышена потребность в психоактивных веществах (алкоголь видимо, вы принимали для самолечения) повышено либидо, а также вы считаете, что открыли способ играть на бирже с помощью простого калькулятора, который сделает вас очень богатым. "
+msgstr "Va bene, prendo nota del fatto che nelle ultime due settimane il suo livello di umore è elevato. Per questo motivo il suo bisogno di dormire è diminuito. Può rimanere sveglio per diversi giorni senza dormire. L'attività cerebrale è aumentata, così come il bisogno di sostanze psicoattive - ha usato l'alcol per autotrattamento. La libido aumenta e si pensa anche di aver scoperto un nuovo modo di scommettere in borsa utilizzando una semplice calcolatrice, che può rendere molto ricchi. "
+
+#. Key:	11.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_11.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,11.2"
+msgid "У вас был единичный эпизод галлюцинаций (голос в голове) а также из-за переоценки возможностей вы взяли кредит, который раздали неизвестным людям. При этом в отношениях с людьми не держите дистанцию, бывали раздражительны, часто переходите на «ты», а также нарушаете общественное спокойствие и закон, еще это называют деликвентный эквивалент мании… А вы употребляли какие-то наркотики в последнее время? Это бы все объяснило. "
+msgstr "Hai avuto un caso di allucinazione, cioè la voce nella tua testa. Hai anche sopravvalutato le tue capacità, hai preso un prestito di denaro e lo hai dato a degli sconosciuti. Inoltre, non mantieni le distanze quando parli con le persone, puoi essere irritabile, chiamare le persone per nome e infrangere la pace pubblica e le leggi. È l'equivalente delinquenziale della mania. Mi dica, per favore, ha assunto droghe di recente? Questo potrebbe spiegare tutto. "
+
+#. Key:	12
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_12.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,12"
+msgid "Ты че лепила лепишь??\r\nТы мне статью шьешь???!! Я уже сидел!!\r\nНе возьмете, волки позорные!!!"
+msgstr "Che diavolo stai blaterando? Vuoi mettermi in prigione? Ci sono già stato! NON MI PRENDERETE MAI, BASTARDI! NON MI PRENDERETE MAI! MAI!!!"
+
+#. Key:	2.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_02.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,2.1.1"
+msgid "Я к вам пришел сам! Никто меня не имеет право приводить!! Я сам что хочу - то и ворочу! Кто вы тут все такие? Какое право у вас мной командовать?"
+msgstr "Sono venuto qui da solo, nessuno ha il diritto di portarmi qui! Faccio quello che diavolo mi pare! Chi credi di essere? Chi ha detto che puoi comandarmi?"
+
+#. Key:	2.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_02.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,2.1.2"
+msgid "Мной в армии командовали, а я всех послал подальше. Нет никаких сил больше слушаться! С тех пор все и началось!!! Началось и покатилось… (начинает громко петь известную песню)"
+msgstr "Sono stato comandato nell'esercito e li ho mandati a quel paese! Sono così stanco di obbedire agli altri, è così che è iniziato, è iniziato ed è andato avanti... * Da lontano scorre il fiume Volga e io ho 30 anni!"
+
+#. Key:	2.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_02.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,2.2.1"
+msgid "Какая полиция??! Где полиция! Полиция милиция… развели тут ерунду какую-то!  У меня очень важная работа! Осталось немного и скоро я все разведу по местам!"
+msgstr "Perché diavolo stai parlando di polizia? Polizia... non essere ridicolo! Ho un lavoro molto importante da fare! Molto presto avrò un tale sollievo!"
+
+#. Key:	2.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_02.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,2.2.2"
+msgid "И Вас всех разведу, и все разводы разведу наведу!!! Как в армии разводы были!!! Прям с армейки и к вам в захолустье!"
+msgstr "Vi solleverò tutti e ciascuno di voi! Proprio come si alleggeriscono le guardie nell'esercito! Passando dall'esercito e direttamente nella vostra cittadina di campagna!"
+
+#. Key:	3.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_03.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,3.1"
+msgid "Если я правильно понял, то Вы не считаете себя в чём-то виноватым?"
+msgstr "Se ho capito bene, non pensa di essere colpevole di qualcosa?"
+
+#. Key:	3.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_03.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,3.2"
+msgid "Вы не знаете, за что именно Вас задержали сотрудники полиции?"
+msgstr "Sa che la polizia l'ha arrestata per una rapina in un negozio?"
+
+#. Key:	4.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_04.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,4.1.1"
+msgid "А в чем я виноват могу быть? Я просто угостил друзей!! Взял и угостил! А чего мне теряться??!!! Еще немного и меня все узнают, все запомнят!! Я прям так и сказал охраннику в магазине!! МЕНЯ ВСЕЕЕЕ УЗНАЮЮЮЮЮТ!"
+msgstr "Che senso di colpa posso avere? Ho solo trattato i miei amici, proprio così! Non sono una persona timida, presto tutti mi conosceranno, tutti! È quello che ho detto alla guardia del negozio - mi conosceranno tutti!!!"
+
+#. Key:	4.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_04.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,4.1.2"
+msgid "Стоял перед ним и прямо в лицо кричал: МЕЕЕНЯЯЯ ВСЕЕЕЕЕ УУУУЗНААААААЮЮЮЮТ!\r\nА он мне все: «оплатите колбасу на кассе, а потом кушайте и угощайте других покупателей… так нельзя…» А мне то что все эти мелочи, а???!!! Это же копейки.. копейки-мопейки.. и прочий хлам! "
+msgstr "Ero in piedi e gli urlavo in faccia: \"Mi conosceranno!\". Ma lui mi ha detto: \"Per favore, prima paga la salsiccia, poi puoi mangiarla e trattare gli altri, non puoi fare così!\". Per me queste sono piccole cose, solo centesimi! Centesimi, centesimi, spazzatura inutile! "
+
+#. Key:	4.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_04.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,4.1.3"
+msgid "У меня в голове план на 100 миллиардоов! Хотите я и вас колбасой угощу? У меня тут еще в кармане осталось, не смогли волки достать… скушайте, доктор, за мое здоровье и за удачу моего бизнеса!"
+msgstr "Ho un piano per guadagnare 100 miliardi! Vuoi un po' di salsiccia? Me ne è rimasta un po' in tasca, questi lupi non sono riusciti a prenderla! La mangi, dottore, per la mia salute, per la fortuna del mio piano d'affari, non sia timido!"
+
+#. Key:	4.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_04.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,4.2.1"
+msgid "Они меня задержали???!!! Это я с ними задержался!!! Мне надо завтра деньги делать.. фьючерсы-мючерсы-черное золото… ну ты понимаешь???!! Я хоть в школе и только 8 классов закончил, а потом ПТУ на маляра, а все равно смог лучше всех в бирже разобраться!!"
+msgstr "Una trattenuta? Ho deciso io stesso di essere trattenuto! Ho dei soldi da guadagnare domani... futures - muture, oro nero... Mi capisci, vero? Ho finito solo 8 voti a scuola e corsi di pittura, ma sono il primo a capire come funzionano le azioni di trading!"
+
+#. Key:	4.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_04.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,4.2.2"
+msgid "Наверное кто-то смог ее придумать, а я смог ее раздумать! Я просто на калькуляторе складываю и делю и получается число сколько надо ставить и куда… понимаешь!! Я гений! Я знаю как заработать 100 миллиардов долларов, евро..."
+msgstr "Probabilmente qualcuno li ha inventati, ma io li ho disinventati! Mi basta sommare e dividere un po' con la calcolatrice per ottenere un numero su cui scommettere... mi capite? Sono un genio! So come guadagnare 100 miliardi di dollari, euro..."
+
+#. Key:	5.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_05.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,5.1"
+msgid "Если я правильно понял, то Вас задержали в супермаркете за то, что Вы, не оплатив, ели колбасу и угощали ей других покупателей? И при этом у вас совершенно не было денег, чтобы оплатить эту покупку. Но зато есть план как заработать на бирже очень-очень много денег. Это план по завоеванию всего мира?"
+msgstr "Se non sbaglio, sei stato arrestato in un supermercato per aver mangiato salsicce e averle date agli altri senza pagarle, e non avevi i soldi per pagare le salsicce... Ma hai anche un piano per guadagnare molti soldi in borsa... È un modo per conquistare il mondo?"
+
+#. Key:	5.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_05.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,5.2"
+msgid "Понятно, у вас были проблемы с охранником. Он не понял ваши грандиозные планы. А в чем именно заключались ваши планы? Деньги это только инструмент или вся суть имеющегося плана?"
+msgstr "Capisco, ha avuto un problema con una guardia di sicurezza. Non ha capito i suoi grandiosi piani. Quali erano esattamente i suoi piani? Il denaro è solo un mezzo per raggiungere un fine o era il suo unico obiettivo?"
+
+#. Key:	6.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.1.1"
+msgid "Ты меня за дурака тут держишь штоли? Какое завоевание мира? Кому он нужен, когда у тебя секрет зарабатывания денег! Мне не нужен мир, я просто куплю всё и всех! И почему бы и не купить, если ты на простом калькуляторе можешь угадать исход торгов?"
+msgstr "Pensi che io sia un pazzo? Conquistare il mondo? A chi serve quando hai un segreto per fare soldi? Non mi serve il mondo intero, compro tutto e tutti! Perché non dovrei farlo quando puoi usare una semplice calcolatrice per indovinare il risultato del trading?"
+
+#. Key:	6.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.1.2"
+msgid "Нет, я не псих с манией величия, я простой отделочник, который догадался как заработать много денег! Я и раньше пытался ставки делать, но ничего не выходило! А тут 2 недели назад «как свет включился»! У меня внутри все заколыхалось, никак не мог себя остановить, как будто ядерный реактор в меня попал и теперь на атомном ходу…"
+msgstr "No, no, no, non sono un megalomane, ma solo un collega che ha capito come guadagnare un sacco di soldi!!! Ho già provato a scommettere in borsa, ma non ha funzionato. Ma 2 settimane fa una lampadina si è accesa nella mia testa! Tutto ha iniziato a muoversi, non riuscivo a fermarlo, come se un reattore nucleare dentro di me andasse a tutto gas e..."
+
+#. Key:	6.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.1.3"
+msgid "Это я образно, не подумай, что я псих! Просто мог совсем не спать.. не хотелось. Сон это для слабаков!! Планов у меня миллион! Жена от меня пряталась, так постоянно хотелось секса!! По началу ей даже нравилось, а потом стало не в моготу."
+msgstr "È solo una metafora, non pensate che sia pazzo, è solo che... non avevo bisogno di dormire, non volevo! Il sonno è per i deboli, ho milioni di progetti da fare! Mia moglie ha iniziato a nascondersi da me, prima voleva tanto sesso, all'inizio le piaceva il mio modo di fare, ora è esausta!"
+
+#. Key:	6.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.2.1"
+msgid "Какие деньги, какой план-шман-рататан????!!! Ты о чем, лепила? Я тебе про Фому, ты мне про Ерему… Все же просто! Я две недели не спал, не хотелось, совсем, понимаешь? Это так бывает у великих людей. У Наполеона было, у Илона Маска и еще много у кого! И когда такой бодряк прет, что либо жену тр№хать, либо ставки делать!"
+msgstr "Cosa vuol dire soldi, qualche piano - shman - ratatan?! Cosa stai dicendo? Io dico mele - tu dici arance... È facile! Non ho dormito per due settimane, non volevo farlo, mi capisci? Un sacco di grandi persone hanno questa cosa in comune. Napoleone, Elon Musk l'hanno avuta e molti altri! Quando hai tanta voglia di fare, o ti scopi tua moglie o fai scommesse!"
+
+#. Key:	6.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.2.2"
+msgid "Я еще вином заливался, поболе чем обычно, литра по 2 коньяка выпивал, а мне все ни по чем, не берет меня он, не усыпляет! И Мысли мысли мысли в голове…. Я все понял!! На работу пошел - поругался с начальником!А че он мне заладил – сделай это, сделай то… кому это надо?!"
+msgstr "Ho bevuto tanto alcol, più del solito, 2 litri di cognac al giorno, ma non mi importava, non mi ha affatto steso! Tanti pensieri, pensieri nella mia testa... E l'ho preso! Sono andato al lavoro e ho litigato con il mio capo! Ha iniziato la stessa cosa: fai questo, fai quello... Chi ne ha bisogno?"
+
+#. Key:	6.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_06.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,6.2.3"
+msgid "Я его прямо с порога и послал. Потом понял как ставки правильно делать! И пошел в магаз перекусить. Это не моя цель была, а только промежуточная точка! Ну а там охранник этот, ну и дальше ты знаешь..."
+msgstr "Gli ho detto di andare subito a farsi fottere! Ho capito come fare le scommesse in modo corretto e sono andato al negozio a mangiare un boccone. Non era il mio obiettivo finale, ma solo intermedio! Poi la guardia mi ha preso e sapete il resto della storia..."
+
+#. Key:	7.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_07.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,7.1"
+msgid "Вы выглядите очень неопрятно. Что у вас произошло? Почему вы не следите за своим внешним видом?"
+msgstr "Hai un aspetto molto trasandato, è successo qualcosa? Perché non ti prendi cura del tuo aspetto?"
+
+#. Key:	7.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_07.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,7.2"
+msgid "В таком состоянии люди часто решаются на необдуманные поступки, тратят много денег. Было ли у вас что-то подобное?"
+msgstr "Le persone in uno stato del genere di solito prendono decisioni avventate, spendono molti soldi. Avete avuto qualcosa di simile?"
+
+#. Key:	8.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.1.1"
+msgid "Опрятно-неопрятно-безопрятно!!! Сам ты неопрятный! Я всех опрял и все опрял. Нет никаких мыслей кроме денег я совсем не спал несколько дней, мне некогда было мыться и есть… только коньяк и игра на бирже. По началу, когда я еще не открыл секрет игры, я пробовал достать деньги в обычных местах, там где и все достают. Взял кредит, потом второй, третий..."
+msgstr "Curato, trasandato, trasandato... Guardati! Ho curato tutto e tutti, il denaro è il mio unico pensiero... Non ho dormito per giorni, non ho avuto tempo per la doccia e il cibo - solo cognac e scommesse in borsa! All'inizio, finché non ho scoperto il mio segreto, ho cercato di ottenere denaro nei soliti posti, dove gli altri li ottengono, ho ottenuto il mio primo prestito di denaro, poi il secondo, il terzo..."
+
+#. Key:	8.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.1.2"
+msgid "Сейчас же кредиты в интрнете выдают. Никто даже на меня не посмотрел. Сразу деньги на карту перевели и все. А я когда первый кредит взял, то вышел на улицу и раздал все людям, до последней копейки! Я просто увидел какая погода хорошая, как солнце светит на всех, как настроение поднимается… и раздал всем по тыще, да по целой тысяче раздал!"
+msgstr "Ora si può fare online, nessuno ha nemmeno controllato la mia carta d'identità, trasferimenti di denaro istantanei sulla mia carta ed è tutto! Quando ho ottenuto il mio primo prestito, sono uscito e l'ho regalato tutto, fino all'ultimo centesimo! Ho visto che c'era bel tempo, che il sole splendeva, che il mio umore era buono, e ho regalato 1000 rubli a persona!"
+
+#. Key:	8.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.1.3"
+msgid "Они брали! Сначала боялись брать, а потом начали один, второй, третий... Потом даже стали ругаться когда деньги кончились!! Стали оскорблять меня… вот люди… даешь берут, а потом еще злятся...для меня это стало как красная тряпка для быка! Я начал злится на них в ответ, подрался даже с одним!"
+msgstr "And they all were taking it! At first they weren’t sure but then 1 guy took it, second, third…They even cussed me when I ran out of money, even insulted me, what the hell is wrong with them? For me it was like a red rag for a bull! I just got angry at first but then… even kicked one of their asses!"
+
+#. Key:	8.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.2.1"
+msgid "НЕЕЕЕТ! Ты что мне тут плетешь? Я всегда очень ответственно ко всему отношусь. Нет никаких необдуманных-думанных-продуманных поступков! Все очень правильно!!! Я не могу ошибаться! Я все же верно делаю!! Я вообще самый верный из всех верных."
+msgstr "Noooo, what are you talking about? I'm a very responsible person! There isn't any rash - drash -trash decisions! Everything is correct! I can never be wrong! I do everything correctly! I'm the correctest of all correct people!"
+
+#. Key:	8.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.2.2"
+msgid "Мне так и сказал голос однажды- «ты самый верный». Это было как озарение! Как будто дух в голову спустился в виде лебедя и осенил меня знамением!!! Жаль, правда, что это только однажды было… Один раз только поговорил со мной.. как раз в тот день я всем деньги раздал. а что деньги, они же бумажки простые. Я так и сказал в банке – дайте мне бумажек, побольше А потом раздал всем.. я был на высоте тогда."
+msgstr "That's exactly what the voice once told me: \"You are the correctest\" It was like an insight! Like a spirit landed in my head like a swan and gifted me with knowledge! It's a pity it only once happened to me... Only once he spoke with me... the same day I gave away my money. Money... just pieces of paper... That's what I said in the bank - \"Give me lots of paper!\". And I gave it away... I was at my best at that time."
+
+#. Key:	8.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,8.2.3"
+msgid "Люди ко мне подходили, смотрели на  меня как на важного человека, обходили меня со стороны и не могли успокоиться. я чувствовал себя тогда властелином мира!!! Властелином всего мира!И тут луч солнца меня осветил и как удар молнией этот голос в голове! Он прозвучал долю секунды, но я сразу понял что это ко мне обращается!!!!! ДУУУУУУУУУХХХ!!!"
+msgstr "People approached me, looked at me with such respect, curcled around me, they were so excited, and I felt like I was the ruler of the world! Ruler of the whole WORLD! Suddenly a ray of sunshine hit me and like a THUNDERSTRIKE the voice appeared in my head! For just a fraction of second but I heard him talking to me! A Spirit!"
+
+#. Key:	9.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_09.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,9.1"
+msgid "Вам кто-то говорил в этот момент, что вы слишком возбуждены?\r\nможет быть, слишком много и быстро говорите,\r\nили слишком навязчивы к людям в этот момент?"
+msgstr "Was anyone telling you back then that you had been too excited? Maybe spoken too much or too fast? Or maybe you had been too intrusive to people?"
+
+#. Key:	9.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_01.DT_Subs_01.Bipolar_09.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Bipolar,9.2"
+msgid "Вы ругались в это время с кем-то? Можно сказать, что вы были слишком раздражительны?"
+msgstr "Did you have a fight with anyone back then? Can you say you were irritable?"
+
+#. Key:	GameSettings
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsGame.WB_ClassicSettingsGame_C:WidgetTree.Title.Text
+msgctxt "Menu,GameSettings"
+msgid "Настройки игры"
+msgstr "Impostazioni di gioco"
+
+#. Key:	Language
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsLanguage.WB_ClassicSettingsLanguage_C:WidgetTree.ToolTip_Resolution.ToolTipText
+msgctxt "Menu,Language"
+msgid "Language"
+msgstr "Lingua"
+
+#. Key:	Sound
+#. SourceLocation:	/Game/UI/QualityMenu/HUD_UMG_Classic/WB_ClassicSettingsMain.WB_ClassicSettingsMain_C:WidgetTree.TextBlock_7337.Text
+msgctxt "Menu,Sound"
+msgid "Звук"
+msgstr "Audio"
+
+#. Key:	1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_01.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,1.1"
+msgid "Здравствуйте. Расскажите, что вас к нам привело?"
+msgstr "Saluti! Cosa vi porta qui?"
+
+#. Key:	1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_01.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,1.2"
+msgid "Добрый день. Расскажите, на что жалуетесь?"
+msgstr "Avete delle lamentele?"
+
+#. Key:	10.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.1.1"
+msgid "Я искал в интернете. Сложно было мне это сделать, ведь там тоже ток. Кругом ток, кругом реверберация. И на том сайте было написано, что такое бывает."
+msgstr "L'ho cercato su internet... è stato davvero difficile da fare. Perché c'è corrente, elettricità, riverberi... e quel sito web diceva che può esistere."
+
+#. Key:	10.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.1.2"
+msgid "И в США, и в Израиле. в Израиле была моя сестра. Правда, давно уже, то время прошло. Да, давно миновало, всё минует. Всё пройдёт, всё минует."
+msgstr "Oltre che negli Stati Uniti, in Israele... mia sorella era in Israele. Ma è stato tanto tempo fa, ora è tutto nel passato. Tutto passerà, tutto sarà finito, tutto sarà finito...."
+
+#. Key:	10.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.2.1"
+msgid "Марина со мной в школе училась. Красивая была! Очень красивая. Пока не стала у меня гены отнимать."
+msgstr "Marina ha studiato a scuola con me, era bella, molto bella. Finché non ha iniziato a portarmi via i geni... "
+
+#. Key:	10.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.2.2"
+msgid "Ну как так можно? Я в столовую, и она за мной. Я домой, и она домой. У меня гены кончаются же! Потом начала через столбы эти отнимать..."
+msgstr "Come ha potuto farlo? Io vado alla mensa e lei mi segue... Io vado a casa e anche lei. E sto finendo i geni!!! Ora usa i pali della luce!!!"
+
+#. Key:	10.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_10.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,10.2.3"
+msgid "Голоса, голоса, голоса, никогда не прекращаются. Всё говорят, говорят.. Марина, Марина, Марина! "
+msgstr "E le voci, le voci, le voci... Non si fermano mai. Continuano a parlare... Marina, Marina, Marina... "
+
+#. Key:	12.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_12.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,12.1"
+msgid "Конечно, чувствую. Я чувствую его всем телом, всем мозгом. Когда бежит ток по проводам, у меня дрожь во всём теле, а в голове звучит голос."
+msgstr "Certo che lo sento! Lo sento nel mio corpo, nel mio cervello. Quando la corrente passa nei fili, tutto il mio corpo trema. E c'è una voce nella mia testa."
+
+#. Key:	12.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_12.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,12.2"
+msgid "Точно! А то ты не знал. Марина - вот кто виноват во всех моих бедах. Жаль, что она спряталась, мне непросто ее достать."
+msgstr "Esattamente!!! Ti comporti come se non lo sapessi! Marina, è colpevole di tutto quello che mi sta succedendo... è un peccato che si stia nascondendo e che io non riesca a prenderla..."
+
+#. Key:	14.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.1.1"
+msgid "Да вчера вот звучал ночью. Я уже проснулся, а он всё звучит и звучит. Я понимаю, что рядом никого нет - он сразу в мозге появляется."
+msgstr "Ieri di notte mi sono svegliata ma continuava a parlare e a parlare... mi sono resa conto che non c'è nessuno in giro, si verifica nel mio cervello, si nutre di elettricità."
+
+#. Key:	14.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.1.2"
+msgid "Берёт там от электричества. Ток - это же линия. И извилины в мозге тоже как линии, понимаешь?"
+msgstr "La corrente va per linee. E anche le convoluzioni cerebrali sono linee! Avete capito?"
+
+#. Key:	14.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.1.3"
+msgid "Когда эти линии совпадают, то появляется голос. А Марина в школе физику лучше всех знала. Она и настроила ревербератор, чтобы мне неприятные вещи говорить сразу прямо в голову."
+msgstr "E quando queste linee coincidono, appare la voce... Marina era la migliore in fisica a scuola. È stata lei a mettere in funzione questo riverberatore per raccontare cose brutte nella mia testa."
+
+#. Key:	14.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.2.1"
+msgid "Она на электростанции работает. Знает, что я туда не могу прийти - там всё закрыто, забор. Вот и шлёт мне через провода сигналы прямо в мозг, что у меня в голове голоса появляются."
+msgstr "Lavora alla centrale elettrica! Sa che non posso andare lì, è tutto sigillato. Per questo manda i segnali direttamente nel mio cervello, da cui le voci."
+
+#. Key:	14.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_14.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,14.2.2"
+msgid "Ничего не слушаю, кроме ее голоса. Сначала она хвалила меня, а теперь только угрожает."
+msgstr "Sento solo la sua voce... All'inizio mi lodava, ora sento solo minacce."
+
+#. Key:	15.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_15.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,15.1"
+msgid "Но ведь другие люди не чувствуют воздействия тока. Почему у вас это происходит?"
+msgstr "Perché le altre persone non vengono influenzate dall'elettricità?"
+
+#. Key:	15.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_15.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,15.2"
+msgid "А почему Марина к вам так неравнодушна? Почему она воздействует на вас?"
+msgstr "Perché Marina ti dà tanto fastidio?"
+
+#. Key:	16.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.1.1"
+msgid "Я же говорил, что у меня гены есть. У меня отец умел с одного выстрела утку убить даже ночью, даже когда пьяный был! А мама всегда суп варила."
+msgstr "Te l'ho detto, è tutto nei miei geni. Mio padre poteva uccidere un'anatra con un solo colpo, anche di notte, anche quando era ubriaco... Mia madre cucinava zuppe come nessun altro sapeva fare!"
+
+#. Key:	16.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.1.2"
+msgid "Никто так не варил. Теперь понял, почему у меня такие гены? А они хотят их забрать и клонировать. Сделать суперчеловека, наверное. А так я не знаю, она же мне не объясняет. ПРосто голосом галдит и всё."
+msgstr "Ora capite perché ho questi geni! Vogliono portarli via, clonarli, creare un superuomo, probabilmente... Non ne sono sicuro. Non mi spiega tutto questo, continua a parlare."
+
+#. Key:	16.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.1"
+msgid "Это со школы началось. Она из-за генов на меня ополчилась. Она подходила тогда после танцев - классе в восьмом, наверное."
+msgstr "È iniziata a scuola, era contro di me a causa dei miei geni. Mi ha avvicinato dopo la festa... in terza media, probabilmente."
+
+#. Key:	16.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.2"
+msgid "А я всегда тихий был, на задней парте сидел и ни с кем не общался. Дружил только с Толиком. "
+msgstr "Sono sempre stato silenzioso, seduto in fondo alla classe. Non parlavo con nessuno, il mio unico amico era Tolik... "
+
+#. Key:	16.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.3"
+msgid "А тут она подходит, начинает на танец звать. Я тогда не понял, застеснялся, убежал просто."
+msgstr "All'improvviso si è avvicinata e mi ha chiesto di ballare con lei! Non ho colto il suo suggerimento e sono scappato via imbarazzato."
+
+#. Key:	16.2.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_16.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,16.2.4"
+msgid "А когда в 19 лет в первый раз голос услышал в голове, сразу понял, что это Маринка, и всё стало на свои места."
+msgstr "Quando ho sentito la voce per la prima volta all'età di 19 anni, ho capito che si trattava di Marina. Tutto è nato insieme."
+
+#. Key:	17.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_17.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,17.1.1"
+msgid "Когда вас привезли, у вас на голове была слепленная из фольги каска. Она весила почти пять килограмм."
+msgstr "Quando sei stato portato qui, indossavi un cappello di carta stagnola..."
+
+#. Key:	18.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.1.1"
+msgid "Я сам ее сделал. Это мой антимаринатор. Только им и спасался. Сначала голоса потише стали, потом по ночам их совсем не было."
+msgstr "L'ho fatto io stesso. Questo è il mio antimarinatore. Era l'unico modo per salvarmi. All'inizio le voci erano più silenziose, di notte non c'erano più."
+
+#. Key:	18.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.1.2"
+msgid "А они напряжение увеличили, видимо, и они пошли снова. Тогда я усилил. Свинец из аккумулятора выпаял, потом пришлось схемы искать и в конце градусник. "
+msgstr "Poi sembra che abbiano aumentato il voltaggio e le voci sono tornate... Quindi ho dovuto migliorare il mio casco. Ho dissaldato il cavo della batteria. Poi ho cercato i circuiti... e il termometro... "
+
+#. Key:	18.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.1.3"
+msgid "А они всё больше и больше растят ток. Я им уже кричу - не надо больше! Шапка не помогает. А они больше 35 киловатт - и всё, я больше не смог."
+msgstr "Ma continuavano ad aumentare la tensione! Io gridavo: \"Fatelo smettere!\" Questo tappo non serve più. Mi hanno colpito con oltre 35 kilowatt. Non ce la facevo più..."
+
+#. Key:	18.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.2.1"
+msgid "Да как и все. Гонка вооружений! Они ток, а я - противоток. Антимаринатор! Ничего личного, только бизнес."
+msgstr "Come gli altri... corsa agli armamenti... Loro mi danno la corrente, io l'anticorrente! Niente di personale, solo affari!"
+
+#. Key:	18.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.2.2"
+msgid "На войне все средства хороши. Вот они забегали тогда. Даже квартплату за электричество подняли. А я хожу себе в шляпе, и довольный."
+msgstr "Tutto è lecito in amore e in guerra! Questo li ha fatti andare avanti... hanno persino aumentato le bollette dell'elettricità. Non mi importava di questo mio elmo. Non darò i miei geni a nessuno."
+
+#. Key:	18.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_18.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,18.2.3"
+msgid "Никому гены не дам. Даже на работу тогда смог выйти - кондуктором троллейбуса. Да, а кто мне под шапку заглянет? Никто. Вот летом стало заметно, и меня уволили."
+msgstr "Non darò i miei geni a nessuno. All'epoca potevo anche andare a lavorare come conduttore di filobus. Chi poteva vederlo sotto il mio cappello? Nessuno. Ma quest'estate l'hanno visto e mi hanno licenziato."
+
+#. Key:	2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_02.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,2.1"
+msgid "Меня полицай привёл. Прямо взял за руку и привёл. Как под венец ведут, понимаешь."
+msgstr "Mi ha portato un poliziotto. Mi teneva il braccio. Proprio come nei matrimoni, capisci?"
+
+#. Key:	2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_02.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,2.2"
+msgid "Я на тебя жалуюсь, понимаешь? Ты на меня, а я на тебя. А что ты думал? Всё так и будет! Ты меня ещё не забыл?"
+msgstr "Mi sto lamentando di te, capito? Io di te e tu di me! Cosa pensi che sarebbe successo? Non ti sei ancora dimenticato di me?"
+
+#. Key:	20.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.1.1"
+msgid "Лет пять, наверное. Я тогда и из университета ушёл, и работать не смог. Мама меня поддерживала сначала, даже писала вместе со мной в полицию, в прокуратуру."
+msgstr "Per 5 anni, credo... All'epoca ho abbandonato l'università e non potevo lavorare... Mia madre mi ha sostenuto all'inizio, aiutandomi anche con le denunce alla polizia e ai pubblici ministeri."
+
+#. Key:	20.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.1.2"
+msgid "А потом устала и не стала бороться. Пенсия у нее маленькая, на квартплату уходит и поесть купить."
+msgstr "Ben presto si stancò di questa lotta. La sua pensione è piccola, appena sufficiente per pagare l'affitto e il cibo."
+
+#. Key:	20.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.1.3"
+msgid "Микросхемы пришлось на свалке искать. Хорошо, что добрые голоса подсказывали, какие брать надо. Вот, что значит, правильные-то гены."
+msgstr "Ho dovuto cercare i circuiti nelle discariche. Per fortuna quelle voci gentili mi hanno dato indicazioni su quali circuiti avrei dovuto prendere. È a questo che servono i geni buoni!"
+
+#. Key:	20.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.2.1"
+msgid "Тяжело было зимой. Там все свалки заваленные под снегом, собак много, а порой волки заходят. Там микросхемы не найдёшь."
+msgstr "In inverno era difficile. Tutte le discariche erano sepolte sotto la neve, c'erano molti cani randagi, persino lupi. Non riuscivo a trovare i circuiti."
+
+#. Key:	20.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_20.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,20.2.2"
+msgid "А мне без них никак. Когда мама перестала мне верить и не стала бороться, то я всё сам. А она только на еду мне давала и на пряники."
+msgstr "Ma non potevo nemmeno stare senza di loro! Quando mia madre ha smesso di lottare, ho dovuto fare tutto da sola. Mi dava solo i soldi per il cibo e i dolci."
+
+#. Key:	22.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.1.1"
+msgid "Конечно. К неврологу поначалу ходил, когда бессонница была. Она мне таблетки давала, я их пил. Ну, одну-вторую. Но не спал всё равно."
+msgstr "Naturalmente mi sono recato dal neurologo quando ho sofferto di insonnia. Mi dava delle pillole. Le prendevo, una pillola dopo l'altra, ma non riuscivo ad addormentarmi... "
+
+#. Key:	22.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.1.2"
+msgid "А потом голоса пошли. Я доктору сказал, а она отшутилась. Сказала, что я всё себе придумал, устал на сессии. Что мне надо отдохнуть."
+msgstr "Poi sono apparse le voci. L'ho raccontato alla dottoressa, che si è messa a ridere, dicendo che mi ero inventata tutto, che ero troppo stanca. Che dovevo riposare."
+
+#. Key:	22.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.1.3"
+msgid "А потом голос запретил к ней ходить."
+msgstr "Poi la voce mi proibì di andare a trovarla."
+
+#. Key:	22.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.2.1"
+msgid "Да мама сама врач. Электрофизиолог. Она всю жизнь мозг исследовала. Эпилепсию, все болезни знает."
+msgstr "Mia madre era un medico, un'elettrofisiologa. Per tutta la vita ha studiato il cervello, l'epilessia, conosce tutte le malattie."
+
+#. Key:	22.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_22.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,22.2.2"
+msgid "Когда я маленький был, она меня к себе в лабораторию брала, опыты показывала. И на обезьянах, и на людях. Я ей больше всех верю."
+msgstr "Quando ero ragazzo mi portò nel suo laboratorio e mi mostrò diversi esperimenti. Sugli scimpanzé e anche sulle persone... Mi fido di lei più di chiunque altro."
+
+#. Key:	23.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_23.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,23.2"
+msgid "А мама вызвала полицию? Или кто? Ну, чтобы вас забрали."
+msgstr "Chi ha chiamato la polizia?"
+
+#. Key:	24.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_24.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,24.1"
+msgid "Я уже почти всё закончил. Нарубился вдоволь!"
+msgstr "Ho quasi finito tutto. Ne ho abbattuti abbastanza!"
+
+#. Key:	24.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_24.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,24.2"
+msgid "Я не знаю, кто вызвал. И что вызывать-то? Я уже писал - уменьшайте, или я сам уменьшу! Сколько писем им отправил, а они никак."
+msgstr "Non so chi li abbia chiamati... e a che scopo? Ho scritto loro... chiedendo di diminuirlo o lo faccio io! Ho mandato loro tante lettere, ma senza risultato."
+
+#. Key:	26.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.1.1"
+msgid "Столбы я рубил, что же ещё? Нет ,я не хотел сначала. Их же люди ставили, а мы с мамой за них платили налоги там."
+msgstr "Abbattere i pali della luce! Che altro... All'inizio non volevo farlo. La gente li ha installati, io e mia madre li abbiamo pagati, voglio dire le tasse... "
+
+#. Key:	26.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.1.2"
+msgid "Я им просто писал - уменьшайте напряжение, не надо ничего говорить! Просто уменьшайте! Мне сначала написали, что передали моё заявление в комиссию, а потом просто перестали отвечать."
+msgstr "Li ho pregati di abbassare la tensione, non c'era bisogno di dire nulla, bastava abbassarla. All'inizio mi hanno risposto che avrebbero inoltrato la mia domanda ai piani alti, poi hanno smesso di rispondere."
+
+#. Key:	26.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.1.3"
+msgid "Я пишу и пишу им, у меня шлем уже не работает, кончается, на коже дрожь, в голове голос."
+msgstr "Ho continuato a scriverle. Il mio casco non funziona più, si sta esaurendo. La mia pelle trema, la voce nella mia testa..."
+
+#. Key:	26.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.2.1"
+msgid "А я - о том, что я предупреждал. Я писал и обращения, и просто письма. Брал бумагу и писал. Я хорошо пишу, я в школе почти же отличником был, на 5 учился, только по физре 4."
+msgstr "Voglio dire che li ho avvertiti... Ho scritto loro. Domande, lettere ufficiali. Su un vero foglio di carta. La mia calligrafia è buona, a scuola ero quasi un alunno da 10 e lode. Avevo solo una B in educazione fisica."
+
+#. Key:	26.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.2.2"
+msgid "Ну это потому, что я боялся всех. А тут не ответили раз, не ответили два, не ответили три, а наоборот - давай напряжение более чем 35 киловатт!"
+msgstr "Ma solo perché avevo paura degli altri... Così, non mi hanno risposto una, due, tre volte... Hanno continuato ad andare oltre i 35 kilowatt!!!"
+
+#. Key:	26.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_26.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,26.2.3"
+msgid "Ну я уже не смог. А в тот день суббота была. Хорошая такая, светлая, теплая."
+msgstr "Non potevo sopportarlo... Quel giorno era sabato. Era così bello, così luminoso, caldo..."
+
+#. Key:	28.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.1.1"
+msgid "Тогда нервы у меня дрогнули, не могу я так. Нашёл деревянные столбы и давай рубить налево-направо, только щепки летели! Ничего не вышло у них."
+msgstr "Avevo esaurito la pazienza, non potevo più essere così. Trovai questi pali di legno e cominciai ad abbatterli a destra e a manca. Le schegge volavano dappertutto. Il loro piano era rovinato!"
+
+#. Key:	28.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.1.2"
+msgid "После пятницы суббота - знаете такую поговорку? Вот я и показал им кузькину субботу! Сразу все заглохли - и Марина, и вторая, как ее, не помню..."
+msgstr "Avete mai sentito parlare di questo proverbio? Ho mostrato loro il vero sabato! Si sono zittite in un attimo! Marina sì e la seconda... come si chiamava?"
+
+#. Key:	28.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.2.1"
+msgid "Я топор нашёл у соседа. Ну, взял, в смысле. Взял и пошёл. Думал, сначала погрожу просто. Просто! Может, образумятся."
+msgstr "Ho trovato l'ascia a casa del mio vicino, cioè l'ho portata lì. Ho pensato di minacciarli per fargli cambiare idea."
+
+#. Key:	28.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_28.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,28.2.2"
+msgid "Пришёл к горсовету, стою, топором машу, а они ни в какую! Сидят, пугают меня по электросвязи. Я тогда по земле стучу - а они стучат по мозгам!"
+msgstr "Sono arrivato all'azienda elettrica. Ero in piedi, agitavo l'ascia, senza alcun effetto. Continuavano a spaventarmi con l'elettricità. Ero in piedi, agitando l'ascia, senza effetto. Continuavano a spaventarmi con l'elettricità."
+
+#. Key:	30.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.1"
+msgid "Она зам по генам у них. Как только ударил топором первый раз - сразу все заглохли. Тогда я понял, что так и надо. И давай рубить, рубить, рубить!"
+msgstr "Era il capo gene tra loro. Al primo colpo della mia ascia si zittirono tutti. Mi resi conto che dovevo continuare, così iniziai a tagliare e tagliare..."
+
+#. Key:	30.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.2"
+msgid "У меня сила откуда-то взялась. Никогда не был так счастлив. На руках до кровавых мозолей натёр ладони, занозы, ногти черные, а я рад как никогда!"
+msgstr "Non so dove ho trovato tanta energia. Non sono mai stato così felice. Ho avuto calli sanguinanti sui palmi delle mani, schegge, unghie nere, ma ero il ragazzo più felice di sempre!"
+
+#. Key:	30.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.3"
+msgid "Это моя победа, это моя война, это мой рейхстаг! Я не знаю, сколько это продолжалось, я потерял счет времени."
+msgstr "È la mia vittoria, la mia guerra, il mio Reichstag!!! Non so da quanto tempo lo stessi facendo... Ho perso la cognizione del tempo."
+
+#. Key:	30.1.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.1.4"
+msgid "Только стук - и песня в голове, марш праздника - \"Этот день победы порохом...\" - вот так вот!"
+msgstr "Ricordo i colpi e una canzone nella mia testa... Una marcia di celebrazione! (cantando) \"È il giorno della vittoria!\". - così!"
+
+#. Key:	30.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.1"
+msgid "Я всегда был очень тихим. Можно даже сказать, робким. Всегда всех боялся, ни разу ни с кем не дрался, в школе даже."
+msgstr "Sono sempre stato un tipo molto tranquillo, addirittura timido. Ho sempre avuto paura di tutti... Non ho mai litigato con nessuno. Anche a scuola..."
+
+#. Key:	30.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.2"
+msgid "А тут - не знаю, откуда во мне сила взялась. Я отошёл в посадку рядом, там, где деревянные столбы с электролинией, и давай лупить топором по проводам!"
+msgstr "Non ho idea di dove abbia trovato tanta forza all'epoca. Andai a cercare un'installazione dove c'erano i pali di legno dei servizi pubblici e iniziai a colpirli con l'ascia..."
+
+#. Key:	30.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.3"
+msgid "Доктор, если б ты слышал, как они завыли! Они рыдали, я их победил, я их сделал как никогда! И Маринку-проститутку - она же мне нравилась в школе, понимаешь."
+msgstr "Dottore, se solo potesse sentire i loro gemiti... stavano piangendo! Li ho picchiati! Sono stato io... quella puttana di Marina... Mi piaceva ai tempi della scuola, sa?"
+
+#. Key:	30.2.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_30.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,30.2.4"
+msgid "Темненькая, волосы кудрявые. А я не смог тогда сказать ей об этом, лишь стоял, смотрел, как она домой идет. А тут - смог!"
+msgstr "Con i capelli scuri e ricci... Allora non potevo confessarle nulla. Potevo solo stare a guardarla tornare a casa... Ma ora l'ho fatto!!!"
+
+#. Key:	32.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.1.1"
+msgid "Ты не поймёшь, доктор! Это настоящее счастье. Теперь хоть гены у меня забирай, относи своей Маринке, хоть топи меня в электричестве, а я был счастлив на Земле."
+msgstr "Non lo capirà, dottore, è pura felicità... mi tolga tutti i geni e li dia a Marina se vuole... o mi anneghi nell'elettricità... Ero felice su questa terra!"
+
+#. Key:	32.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.1.2"
+msgid "Моя жизнь прошла не зря, я счастлив!"
+msgstr "La mia vita non è stata vana. Sono felice!"
+
+#. Key:	32.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.1"
+msgid "Это было похоже на кино, где я главный герой. Ни усталостти, ни боли, ни страха - я за всё отомстил, за все годы страданий!"
+msgstr "Mi sentivo come il protagonista di un film d'azione... nessuna fatica, nessun dolore, nessuna paura. Mi sono vendicato di tutti gli anni di sofferenza."
+
+#. Key:	32.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.2"
+msgid "Пусть знают, кто я такой, пусть помнят меня, пусть боятся! Теперь меня все боятся. Все до единого! Я герой, а ты, доктор, делай, что должен."
+msgstr "Sapranno chi sono, si ricorderanno di me, avranno paura di me. Ora tutti hanno paura di me. Tutti! Sono un eroe... Faccia quello che vuole con i miei geni, dottore, non ho paura di niente."
+
+#. Key:	32.2.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.3"
+msgid "Делай своё дело с генами! Теперь мне не страшно ничего. Всё в прошлом, теперь я другой. Теперь я  победил страх! Или он меня..."
+msgstr "È tutto nel passato... Ora sono diverso, ho vinto la mia paura... o viceversa..."
+
+#. Key:	32.2.4
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_32.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(3).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,32.2.4"
+msgid "Из-под пятницы суббота. Знаешь такую поговорку? Так вот я теперь - суббота! Бери гены, выжигай мне мозг! Я всё сказал."
+msgstr "C'è sempre un sabato dopo il venerdì, ricordate questo proverbio? Ora io sono il sabato... prendete i miei geni, bruciate il mio cervello. Ho detto abbastanza..."
+
+#. Key:	4.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_04.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,4.1"
+msgid "А ты как будто не знаешь."
+msgstr "Ti comporti come se non lo sapessi nemmeno tu!"
+
+#. Key:	4.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_04.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,4.2"
+msgid "Из-за тебя!"
+msgstr "Grazie a voi!!!"
+
+#. Key:	6.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_06.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,6.1"
+msgid "Конечно, встречались. И вчера, и две недели назад, когда напряжение опять падало."
+msgstr "Certo, l'abbiamo fatto. Ieri, due settimane fa, quando la corrente stava calando..."
+
+#. Key:	6.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_06.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,6.2"
+msgid "Ты на меня постоянно влияешь. Особенно когда пускают 35 киловатт."
+msgstr "Mi influenzate sempre. Soprattutto quando mi colpiscono con 35 kilowatt."
+
+#. Key:	8.1.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.1.1"
+msgid "Да про то напряжение, про то. Когда по проводам бежит, аж дрожь по спине. Я этот голос в голове... Реверберат-аттистор, ведь так вы его называете, да?"
+msgstr "Voglio dire che la corrente che passa... nei cavi elettrici, è come un brivido nella mia schiena. E questa voce nella mia testa... riverbero - così si chiama."
+
+#. Key:	8.1.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.1.2"
+msgid "Так кондуктор и сказал: \"Реверберат-аттистор включаем, дрожь запускаем\", а я, я что? Я писал много раз заявление."
+msgstr "È quello che ha detto il direttore d'orchestra: \"accendere il reverbero... iniziare i brividi\". Che cosa ho fatto? Ho scritto un sacco di reclami in diverse sedi."
+
+#. Key:	8.1.3
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.1.Subtitles_6_B389FD86442F320A815675A7B6A2C508(2).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.1.3"
+msgid "Писал не в одну инстанцию, просил по-хорошему - не включайте! А никто мне не верит. Все говорят лечиться, а чем лечится повышенная электрочувствительность, а?"
+msgstr "Gli ho chiesto gentilmente di non accenderlo!!! Nessuno mi crede... mi dicono di curarmi da sola. Ma come si può curare l'elettrosensibilità?"
+
+#. Key:	8.2.1
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(0).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.2.1"
+msgid "35 киловатт критичны для меня. Я же просил, хотя бы менее 15-ти ставьте. Я и Марине говорил, и Кате. Они посменно на станции работают, я их всех знаю."
+msgstr "35 kilowatt sono troppi per me! Ho chiesto loro: non più di 15! L'ho detto a Marina e a Katya, che lavorano a turni su questa stazione. Conosco tutti lì, li chiamo spesso."
+
+#. Key:	8.2.2
+#. SourceLocation:	/Game/Blueprints/IngameActivities/DialogueSystem/Subtitles/DT_Subs_02.DT_Subs_02.Shizophrenia_08.2.Subtitles_6_B389FD86442F320A815675A7B6A2C508(1).Subtitles_6_B389FD86442F320A815675A7B6A2C508.Text_7_CC28F3CF466CAEE73AF469811BCEC273
+msgctxt "Shchizo,8.2.2"
+msgid "Я туда часто звоню. Телефон мне не страшен, там малый ток, там нет реверберации, вот."
+msgstr "Non ho paura dei telefoni, la loro corrente è troppo piccola, non ci sono riverberi."
+
